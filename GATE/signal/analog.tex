@@ -9,55 +9,31 @@
         \item $0.2 \, \mathrm{N/m}$
     \end{enumerate}
     \end{multicols}
-    \item The Euler iteration formula for numerically integrating a first order nonlinear differential equation of form $x = f(x)$, with a constant step size of $\Delta t$ is 
-	    \hfill (AE 2007)
-    \begin{multicols}{2}
-    \begin{enumerate}
-        \item $x_{k+1} = x_k - \Delta t \times f(x_k)$ 
-        \item $x_{k+1} = x_k + \left( \Delta t^2 / 2 \right) \times f(x_k)$ 
-        \item $x_{k+1} = x_k - (1 / \Delta t) \times f(x_k)$ 
-        \item $x_{k+1} = x_k + \Delta t \times f(x_k)$
-    \end{enumerate}
-    \end{multicols}
-\end{enumerate}
-\iffalse
     \item A 1 kg mass attached to a spring elongates it by 16 mm. The mass is then pulled from its equilibrium position by 10 mm and released from rest. Assuming the acceleration due to gravity of $9.81 m/s^2$, the response of the mass in mm is given by: 
-    \begin{enumerate}
+    \hfill (AE 2007)
+\begin{enumerate}
+    \begin{multicols}{4}
         \item $x = \cos 4.76 \, t$
         \item $x = \sin 4.76 \, t$
         \item $x = \sin 16 \, t$
         \item $x = 10 \cos 16 \, t$ 
+	\end{multicols}
     \end{enumerate}
     \item A spring-mass-damper system is excited by a force $F_0 \sin \omega t$. The amplitude at resonance is measured to be $1 \, \mathrm{cm}$. At half the resonance frequency, the amplitude is 0.5 cm. The damping ratio of the system is 
+    \hfill (AE 2007)
     \begin{multicols}{4}
-    \begin{enumerate}
+\begin{enumerate}
         \item $0.1026$ \quad
         \item $0.3242$ \quad
         \item $0.7211$ \quad
         \item $0.1936$
     \end{enumerate}
     \end{multicols}
-    \item Numerical values of the integral 
-    $\int_{0}^{1} \frac{1}{1 + x^2}\,dx$ if evaluated numerically using the Trapazoidal rule with dx = 0.2 would be
-    \begin{multicols}{4}
-    \begin{enumerate}
-        \item 1
-        \item $\pi/4$
-        \item 0.7837
-        \item 0.2536
-    \end{enumerate}
-    \end{multicols}
-    \item The Newton-Raphson iteration formula to find a cube root of a positive number $c$ is
-    \begin{enumerate}
-        \item $x_{k+1} = \frac{2 x_k^3 + \sqrt[3]{c}}{3 x_k^2}$
-        \item $x_{k+1} = \frac{2 x_k^3 - \sqrt[3]{c}}{-3 x_k^2}$
-        \item $x_{k+1} = \frac{2 x_k^3 + c}{3 x_k^2}$
-        \item $x_{k+1} = \frac{x_k^3 + c}{3 x_k^2}$
-    \end{enumerate}
 
     \item $\mathrm{\lim_{x \to 0} \frac{\sin x}{e^4 x} =}$
+    \hfill (AE 2007)
     \begin{multicols}{4}
-    \begin{enumerate}
+\begin{enumerate}
         \item 10
         \item 0
         \item 1
@@ -65,25 +41,26 @@
     \end{enumerate}
     \end{multicols}
     \item Let a dynamical system be described by the differential equation $2 \frac{dx}{dt} + \cos x = 0$. Which of the following differential equations describes this system in a close approximation sense for small perturbation about $x = \pi/4$?
+    \hfill (AE 2007)
     \begin{multicols}{2}
-    \begin{enumerate}
+\begin{enumerate}
         \item $2 \frac{dx}{dt} + \sin x = 0$
         \item $2 \frac{dx}{dt} - \frac{1}{\sqrt{2}} x = 0$
         \item $\frac{dx}{dt} + \cos x = 0$
         \item $\frac{dx}{dt} + x = 0$
     \end{enumerate}
     \end{multicols}
-\textbf{Common Data for Questions 74 \& 75}: Consider the spring mass system shown in the figure below. This system has two degrees of freedom representing the motions of the two masses.
+\item  Consider the spring mass system shown in the figure below. This system has two degrees of freedom representing the motions of the two masses.
+\hfill (AE 2007)
 
 \begin{figure}[H]
     \centering
-    \include{figs/q74-75.tex}
+    \input{figs/q74-75.tex}
     \caption{}
     \label{fig:q74 75}
 \end{figure}
 
 \begin{enumerate}
-    \setcounter{enumi}{73}
     \item The system shows the following type of coordinate coupling
     \begin{enumerate}
         \item Static coupling
@@ -93,7 +70,7 @@
     \end{enumerate}
 
     \item The two natural frequencies of the system are given as
-    \begin{multicols}{2}
+    \begin{multicols}{4}
     \begin{enumerate}
         \item $\sqrt{\frac{4 \pm \sqrt{5} k}{3 m}}$
         \item $\sqrt{\frac{4 \pm \sqrt{3} k}{3 m}}$
@@ -104,13 +81,12 @@
     
 \end{enumerate}
 
-\textbf{Statement for Linked Answer Questions 80 \& 81}:
-Let $F(s) = \frac{(s + 10)}{(s +2)(s + 20)}$
+\item Let $$F(s) = \frac{(s + 10)}{(s +2)(s + 20)}$$
 
+\hfill (AE 2007)
 \begin{enumerate}
-    \setcounter{enumi}{79}
     \item The partial fraction expansion of $F(s)$ is
-    \begin{multicols}{2}
+    \begin{multicols}{4}
     \begin{enumerate}
         \item $\frac{1}{s + 2} + \frac{1}{s + 20}$
         \item $\frac{5}{s + 2} + \frac{2}{s + 20}$
@@ -118,8 +94,6 @@ Let $F(s) = \frac{(s + 10)}{(s +2)(s + 20)}$
         \item $\frac{4/9}{s + 2} + \frac{5/9}{s + 20}$
     \end{enumerate}
     \end{multicols}
-    
-
     \item The inverse Laplace transform of $F(s)$ is
     \begin{multicols}{2}
     \begin{enumerate}
@@ -132,31 +106,5 @@ Let $F(s) = \frac{(s + 10)}{(s +2)(s + 20)}$
     
 \end{enumerate}
 
-\textbf{Statement for Linked Answer Questions 82 \& 83}: The equation of motion of a vibrating rod is given by $\frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}$. Here $u$ is the displacement along the rod and is a function of both position $x$ and time $t$. To find the response of the vibrating rod, we need to solve this equation using boundary conditions and initial conditions.
-
-\begin{enumerate}
-    \setcounter{enumi}{81}
-    \item The boundary conditions needed for a rod fixed at the root ($x=0$) and free at the tip ($x=l$) are
-    \begin{multicols}{2}
-    \begin{enumerate}
-        \item $u(x=0) = 0, \frac{\partial u}{\partial x}(x=l) = 0$
-        \item $u(x=l) = 0, \frac{\partial u}{\partial x}(x=l) = 0$
-        \item $u(x=0) = 0, u(x=l) = 0$
-        \item $\frac{\partial u}{\partial x}(x=0) = 0, \frac{\partial u}{\partial x}(x=l) = 0$
-    \end{enumerate}
-    \end{multicols}
-    
-
-    \item The natural frequencies $\omega$ of the fixed-free rod can then be obtained using
-    \begin{multicols}{4}
-    \begin{enumerate}
-        \item $\cos \left( \frac{\omega l}{c} \right) = 0$
-        \item $\sin \left( \frac{\omega l}{c} \right) = 0$
-        \item $\cos \left( \frac{\omega c}{l} \right) = 0$
-        \item $\cos \left( \frac{\omega}{c} \right) = 0$
-    \end{enumerate}
-    \end{multicols}
-    
 \end{enumerate}
 
-\fi

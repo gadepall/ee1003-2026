@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  13 MAR 2026 06:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  13 MAR 2026 21:32
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1821,7 +1821,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count419
-<figs/logo.jpg, id=35, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=47, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1831,11 +1831,7 @@ x/updmap/pdftex.map}{/data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/enc/dvips/base/8r.enc}
 
 
- <./figs/logo.jpg>] [2] (./main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-[3] (./GATE/signal.tex
+ <./figs/logo.jpg>] [2] (./main.toc
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 
 
@@ -1870,24 +1866,28 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfont
 s/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-)) [4
+))
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
-] (./main.aux)
+[3] (./GATE/signal/analog.tex (./figs/q74-75.tex) [4
+
+]) (./GATE/signal/discrete.tex) (./GATE/opt.tex) [5] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DE4C008E90F65F8701A0175A8B87DE76;131.
+(rerunfilecheck)             Checksum: FB55F1A9254FAF8819748043C7707A64;418.
  ) 
 Here is how much of TeX's memory you used:
- 54686 strings out of 467532
- 1324777 string characters out of 5405395
- 1923856 words of memory out of 5000000
- 82794 multiletter control sequences out of 15000+600000
- 693041 words of font info for 172 fonts, out of 8000000 for 9000
+ 54860 strings out of 467532
+ 1328058 string characters out of 5405395
+ 1939896 words of memory out of 5000000
+ 82890 multiletter control sequences out of 15000+600000
+ 695971 words of font info for 177 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,6n,118p,1194b,1023s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,10n,118p,1194b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/sha
@@ -1898,10 +1898,10 @@ re/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.term
 ux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 435593 bytes).
+Output written on main.pdf (5 pages, 449617 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

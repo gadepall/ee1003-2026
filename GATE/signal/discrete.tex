@@ -1,0 +1,35 @@
+\begin{enumerate}[label=\thesubsection.\arabic*,ref=\thesubsection.\theenumi]
+    \item The Euler iteration formula for numerically integrating a first order nonlinear differential equation of form $x = f(x)$, with a constant step size of $\Delta t$ is 
+	    \hfill (AE 2007)
+    \begin{multicols}{2}
+    \begin{enumerate}
+        \item $x_{k+1} = x_k - \Delta t \times f(x_k)$ 
+        \item $x_{k+1} = x_k + \left( \Delta t^2 / 2 \right) \times f(x_k)$ 
+        \item $x_{k+1} = x_k - (1 / \Delta t) \times f(x_k)$ 
+        \item $x_{k+1} = x_k + \Delta t \times f(x_k)$
+    \end{enumerate}
+    \end{multicols}
+    \item Numerical values of the integral 
+    $\int_{0}^{1} \frac{1}{1 + x^2}\,dx$ if evaluated numerically using the Trapazoidal rule with dx = 0.2 would be
+    \hfill (AE 2007)
+    \begin{multicols}{4}
+\begin{enumerate}
+        \item 1
+        \item $\pi/4$
+        \item 0.7837
+        \item 0.2536
+    \end{enumerate}
+    \end{multicols}
+    \item The Newton-Raphson iteration formula to find a cube root of a positive number $c$ is
+    \hfill (AE 2007)
+\begin{enumerate}
+    \begin{multicols}{4}
+        \item $x_{k+1} = \frac{2 x_k^3 + \sqrt[3]{c}}{3 x_k^2}$
+        \item $x_{k+1} = \frac{2 x_k^3 - \sqrt[3]{c}}{-3 x_k^2}$
+        \item $x_{k+1} = \frac{2 x_k^3 + c}{3 x_k^2}$
+        \item $x_{k+1} = \frac{x_k^3 + c}{3 x_k^2}$
+	\end{multicols}
+    \end{enumerate}
+
+\end{enumerate}
+

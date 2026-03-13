@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1773365026.75619 0
-  "main.idx" 1773365025 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1773417734.68598 0
+  "main.idx" 1773417733 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1773365023.19957 "main.tex" "main.pdf" "main" 1773365026.75682 0
+["pdflatex"] 1773417731.13497 "main.tex" "main.pdf" "main" 1773417734.68683 0
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
   "/data/data/com.termux/files/usr/share/texlive/2025.0/texmf-dist/web2c/texmf.cnf" 1768516933 42356 f62ae7f3325ea805428eb7f006288d9f ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -18,6 +18,7 @@
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm" 1229303445 684 3a51bd4fd9600428d5264cf25f04bb9a ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm" 1229303445 692 1b6510779f0f05e9cbf03e0f6c8361e6 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm" 1136768653 1020 c53143d3e3747b5c1149bd9a5ecd7b55 ""
+  "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm" 1136768653 1048 a97cff5f6b833b712079817ce7a40d4c ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm" 1136768653 1056 e2202af076e43d03fc17f87e104021b0 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmb.tfm" 1136768653 4572 2c370d27bbb031f7592de9d41dc8cfca ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm" 1136768653 4452 0fd0a792eaab7113e4d4f1b941ff0367 ""
@@ -49,6 +50,7 @@
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1136849748 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txb.vf" 1136768653 904 6f62e1cf12eaf73424d693287a9d3dce ""
+  "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txi.vf" 1136768653 904 4ff20c038f0c15338aa91e1bb66c7989 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txmi.vf" 1232065820 960 cfcc9d587b40b769f64408b3ca115941 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txr.vf" 1136768653 904 e582cae2d8ae3f48a0a520440ebcdb51 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txsc.vf" 1136768653 936 a13e59b3a7027367e11849d48fefe929 ""
@@ -301,15 +303,18 @@
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/xpatch/xpatch.sty" 1585258158 8314 7803f78066c4f9d008405191a4b43073 ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1769362099 5541431 dbc35105889154acf96b1aaf87b3de1a ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769362094 3636636 8fa6b054f8c9499e797746af45f1fa36 ""
-  "GATE/signal.tex" 1773365021 6592 b86b3d57a4d2a7ab8fd8d359511fbf03 ""
+  "GATE/opt.tex" 1773417729 376 d3410ea0fd06fc53d01265e53411b66b ""
+  "GATE/signal/analog.tex" 1773417607 3982 6c9af418702172e984f886613d5f2845 ""
+  "GATE/signal/discrete.tex" 1773417492 1406 ac7505779c6b9f73b270777b96483fde ""
   "figs/logo.jpg" 1756374386 382648 cd8c4760ef18efd0782613502d16e226 ""
+  "figs/q74-75.tex" 1773416582 1001 f458501df84158805ed30c7823f51a81 ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1773365026 296 57b06291c87f297b48cb91eb64837b44 "pdflatex"
+  "main.aux" 1773417734 898 343d039463cd8c8f9d7fb05eb44a96c7 "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1773365026 131 de4c008e90f65f8701a0175a8b87de76 "pdflatex"
-  "main.tex" 1773364935 8288 c2931f4aeee8b0e458c3e9e4fe55ea44 ""
-  "main.toc" 1773365026 73 02fcb15b6e1e579a185157f15698c5e4 "pdflatex"
+  "main.out" 1773417734 418 fb55f1a9254faf8819748043c7707a64 "pdflatex"
+  "main.tex" 1773417648 8414 ff9b0d7abba259c39fb0a1bc0187a2f4 ""
+  "main.toc" 1773417734 287 856670a67ac155a801db69e2e4cd0f55 "pdflatex"
   (generated)
   "main.aux"
   "main.idx"
