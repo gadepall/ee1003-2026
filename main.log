@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  14 MAR 2026 05:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  14 MAR 2026 06:09
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1878,7 +1878,7 @@ Underfull \hbox (badness 1648) in paragraph at lines 85--89
 s-ing the Newton-
  []
 
-) (./GATE/opt.tex [6]) (./GATE/prob.tex) [7] (./main.aux)
+[6]) (./GATE/opt.tex) (./GATE/prob.tex) [7] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1887,8 +1887,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
- 54922 strings out of 467532
- 1328610 string characters out of 5405395
+ 54937 strings out of 467532
+ 1328730 string characters out of 5405395
  1939895 words of memory out of 5000000
  82896 multiletter control sequences out of 15000+600000
  695971 words of font info for 177 fonts, out of 8000000 for 9000
@@ -1904,10 +1904,10 @@ re/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.term
 ux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (7 pages, 456925 bytes).
+Output written on main.pdf (7 pages, 458767 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 133 named destinations out of 1000 (max. 500000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 148 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
