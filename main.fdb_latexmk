@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1773418320.85179 0
-  "main.idx" 1773418319 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1773448117.1041 0
+  "main.idx" 1773448116 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1773418317.40411 "main.tex" "main.pdf" "main" 1773418320.85261 0
+["pdflatex"] 1773448113.62065 "main.tex" "main.pdf" "main" 1773448117.10492 0
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
   "/data/data/com.termux/files/usr/share/texlive/2025.0/texmf-dist/web2c/texmf.cnf" 1768516933 42356 f62ae7f3325ea805428eb7f006288d9f ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -304,18 +304,18 @@
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1769362099 5541431 dbc35105889154acf96b1aaf87b3de1a ""
   "/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769362094 3636636 8fa6b054f8c9499e797746af45f1fa36 ""
   "GATE/opt.tex" 1773417729 376 d3410ea0fd06fc53d01265e53411b66b ""
-  "GATE/prob.tex" 1773418153 461 06f8705aacefb5fabdd41fa9a6b02036 ""
-  "GATE/signal/analog.tex" 1773418259 4307 61b00ece447f8a96c67ba0da963239ce ""
-  "GATE/signal/discrete.tex" 1773418315 2068 1c3cabb8fa927755ec13c9e556ddc7b3 ""
+  "GATE/prob.tex" 1773447866 793 59d94e01e8e09d6a487a72f5c917dac9 ""
+  "GATE/signal/analog.tex" 1773448111 4512 efe6bb50b035303a038c37fa67d378e4 ""
+  "GATE/signal/discrete.tex" 1773448107 3376 13b82aed419c82854eeb2ee3335b92a5 ""
   "figs/logo.jpg" 1756374386 382648 cd8c4760ef18efd0782613502d16e226 ""
   "figs/q74-75.tex" 1773416582 1001 f458501df84158805ed30c7823f51a81 ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1773418320 1006 3b319a9d7280082689a731707163cf57 "pdflatex"
+  "main.aux" 1773448116 1006 753dcc062179178ac85919c4c0aa30fb "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1773418320 516 13f582a711fc859d497f560620d2498c "pdflatex"
+  "main.out" 1773448116 516 13f582a711fc859d497f560620d2498c "pdflatex"
   "main.tex" 1773418276 8458 46138c16ea2cbe7d5d4d3d1fce51f7a2 ""
-  "main.toc" 1773418320 354 f05f4e06061d31f66e82daae5bcd2544 "pdflatex"
+  "main.toc" 1773448116 354 baea7fb88920e1202e00c87c8fc40529 "pdflatex"
   (generated)
   "main.aux"
   "main.idx"

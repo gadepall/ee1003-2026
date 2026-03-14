@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  13 MAR 2026 21:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  14 MAR 2026 05:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1872,8 +1872,13 @@ File: utxsyc.fd 2000/12/15 v3.1
 
 [3] (./GATE/signal/analog.tex (./figs/q74-75.tex) [4
 
-]) (./GATE/signal/discrete.tex [5]) (./GATE/opt.tex) (./GATE/prob.tex) [6] (./m
-ain.aux)
+]) (./GATE/signal/discrete.tex [5]
+Underfull \hbox (badness 1648) in paragraph at lines 85--89
+[]\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved u
+s-ing the Newton-
+ []
+
+) (./GATE/opt.tex [6]) (./GATE/prob.tex) [7] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1882,9 +1887,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
- 54891 strings out of 467532
- 1328376 string characters out of 5405395
- 1941896 words of memory out of 5000000
+ 54922 strings out of 467532
+ 1328610 string characters out of 5405395
+ 1939895 words of memory out of 5000000
  82896 multiletter control sequences out of 15000+600000
  695971 words of font info for 177 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1899,10 +1904,10 @@ re/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com
 xmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.term
 ux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 453435 bytes).
+Output written on main.pdf (7 pages, 456925 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 196 compressed objects within 2 object streams
- 102 named destinations out of 1000 (max. 500000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 133 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
