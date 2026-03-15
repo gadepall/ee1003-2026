@@ -220,5 +220,71 @@ It is given that the region of convergence of $X[z]$ includes the unit circle. T
 \end{enumerate}
 \end{multicols}
 
+\item  The differential equation $\frac{dx}{dy}$ = $\frac{1-x}{\tau}$ is discretised using Euler's numerical integration method with a time step triangle $\Delta$T $>$  0 . What is the maximum permissible value of $\Delta$T to ensure stability of the solution of the corresponding discrete time equation?\hfill{(EE 2007)} 
+\begin{multicols}{4}
+\begin{enumerate}
+ \item 1
+\item $\frac{\tau}{2}$
+\item $\tau$
+\item 2$\tau$
+\end{enumerate}
+\end{multicols}
+
+\item  \quad Consider the discrete-time system shown in the figure where the impulse response $G(z)$ is $g(0) = 0$, $g(1) = g(2) = 1$, $g(3) = g(4) = \cdots = 0$. \hfill{(EE 2007)} 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\linewidth]{figs/2007/EE/q 36 2007.png} 
+\caption{}
+    \label{fig:myfigure-2007/ee/8}
+\end{figure}
+This system is stable for range of values of $K$
+\begin{multicols}{4}
+\begin{enumerate}
+\item  $[-1, 1/2]$
+\item  $[-1, 1]$=
+\item  $[-1/2, 1]$
+\item  $[-1/2, 2]$
+\end{enumerate}
+\end{multicols}
+%
+\item The integral
+$
+\frac{1}{2\pi}\int_0^{2\pi}\sin(t-\tau)\cos\tau\, d\tau
+$
+equals\hfill{(EE 2007)} 
+%
+\begin{multicols}{4}
+\begin{enumerate}
+    \item $\sin t \cos t$
+\item  $0$
+\item  $(1/2) \cos t$
+\item  $(1/2) \sin t$
+\end{enumerate}
+\end{multicols}
+%
+\item  $X(z) = 1 - 3z^{-1}, Y(z) = 1 + 2z^{-2}$ are Z-transforms of two signals $x[n],\,y[n]$ respectively.
+A linear time invariant system has the impulse response $h[n]$ defined by these two signals as
+$
+    h[n] = x[n-1] * y[n]
+$
+where $*$ denotes discrete time convolution. Then the output of the system for the input $\delta[n-1]$\hfill{(EE 2007)} 
+\begin{enumerate}
+    \item has Z-transform $z^{-1} X(z) Y(z)$
+    \item equals $\delta[n-2] - 3\delta[n-3] + 2\delta[n-4] - 6\delta[n-5]$
+    \item has Z-transform $1 - 3z^{-1} + 2z^{-2} - 6z^{-3}$
+    \item does not satisfy any of the above three.
+\end{enumerate}
+\item  The minimum frequency at which a signal comprising of 30 Hz, 50 Hz and 70 Hz should be sampled to avoid aliasing is \underline{\hspace{2cm}} Hz.
+\hfill (GE 2007)
+\item Convolving two sampled signals $f(n) = \{1,1,2,2\}$ with $g(n) = \{3,2,1\}$ results in a function $x(n)$ equal to
+\hfill (GG 2007)
+\begin{multicols}{2}
+\begin{enumerate}
+\item \{1, 3, 7, 9, 10, 6\}  
+\item \{3, 5, 9, 11, 6, 2\}  
+\item \{3, 9, 6, 11, 2, 2\}  
+\item \{3, 5, 9, 6, 11, 5\}  
+\end{enumerate}
+\end{multicols}
 \end{enumerate}
 

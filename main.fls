@@ -728,17 +728,153 @@ INPUT ./figs/2007/EC/Q76Q77.jpg
 INPUT ./figs/2007/EC/Q76Q77.jpg
 INPUT ./figs/2007/EC/Q76Q77.jpg
 INPUT ./figs/2007/EC/Q76Q77.jpg
-INPUT ./GATE/signal/discrete.tex
-INPUT ./GATE/signal/discrete.tex
-INPUT GATE/signal/discrete.tex
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/txbex.tfm
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txmi.vf
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txb.vf
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txb.vf
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmb.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
+INPUT ./figs/2007/EE/Q 10.png
+INPUT ./figs/2007/EE/Q 10.png
+INPUT ./figs/2007/EE/Q 10.png
+INPUT ./figs/2007/EE/Q 10.png
+INPUT ./figs/2007/EE/Q 10.png
+INPUT ./figs/2007/EE/Q 17.png
+INPUT ./figs/2007/EE/Q 17.png
+INPUT ./figs/2007/EE/Q 17.png
+INPUT ./figs/2007/EE/Q 17.png
+INPUT ./figs/2007/EE/Q 17.png
+INPUT ./figs/2007/EE/Q 61.png
+INPUT ./figs/2007/EE/Q 61.png
+INPUT ./figs/2007/EE/Q 61.png
+INPUT ./figs/2007/EE/Q 61.png
+INPUT ./figs/2007/EE/Q 61.png
+INPUT ./figs/2007/EE/Q 62 Q.png
+INPUT ./figs/2007/EE/Q 62 Q.png
+INPUT ./figs/2007/EE/Q 62 Q.png
+INPUT ./figs/2007/EE/Q 62 Q.png
+INPUT ./figs/2007/EE/Q 62 Q.png
+INPUT ./figs/2007/EE/Q 62.png
+INPUT ./figs/2007/EE/Q 62.png
+INPUT ./figs/2007/EE/Q 62.png
+INPUT ./figs/2007/EE/Q 62.png
+INPUT ./figs/2007/EE/Q 62.png
+INPUT ./figs/2007/EE/Q 39 2007.png
+INPUT ./figs/2007/EE/Q 39 2007.png
+INPUT ./figs/2007/EE/Q 39 2007.png
+INPUT ./figs/2007/EE/Q 39 2007.png
+INPUT ./figs/2007/EE/Q 39 2007.png
+INPUT ./figs/2007/EE/Q 50 2007.png
+INPUT ./figs/2007/EE/Q 50 2007.png
+INPUT ./figs/2007/EE/Q 50 2007.png
+INPUT ./figs/2007/EE/Q 50 2007.png
+INPUT ./figs/2007/EE/Q 50 2007.png
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/vf/public/txfonts/txmi.vf
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT ./figs/2007/EE/Q 65.png
+INPUT ./figs/2007/EE/Q 65.png
+INPUT ./figs/2007/EE/Q 65.png
+INPUT ./figs/2007/EE/Q 65.png
+INPUT ./figs/2007/EE/Q 65.png
+INPUT ./figs/2007/EE/Q 80,81.png
+INPUT ./figs/2007/EE/Q 80,81.png
+INPUT ./figs/2007/EE/Q 80,81.png
+INPUT ./figs/2007/EE/Q 80,81.png
+INPUT ./figs/2007/EE/Q 80,81.png
+INPUT ./GATE/signal/discrete.tex
+INPUT ./GATE/signal/discrete.tex
+INPUT GATE/signal/discrete.tex
 INPUT ./figs/2007/EC/Q2.jpg
 INPUT ./figs/2007/EC/Q2.jpg
 INPUT ./figs/2007/EC/Q2.jpg
 INPUT ./figs/2007/EC/Q2.jpg
 INPUT ./figs/2007/EC/Q2.jpg
+INPUT ./figs/2007/EE/q 36 2007.png
+INPUT ./figs/2007/EE/q 36 2007.png
+INPUT ./figs/2007/EE/q 36 2007.png
+INPUT ./figs/2007/EE/q 36 2007.png
+INPUT ./figs/2007/EE/q 36 2007.png
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfonts/omstxr.fd
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfonts/omstxr.fd
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/txfonts/omstxr.fd
 INPUT ./GATE/opt.tex
 INPUT ./GATE/opt.tex
 INPUT GATE/opt.tex
@@ -758,6 +894,7 @@ INPUT ./figs/2007/EC/Q82Q83.jpg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb
