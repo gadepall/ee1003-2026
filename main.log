@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  15 MAR 2026 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  15 MAR 2026 21:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1974,25 +1974,228 @@ File: figs/2007/EE/Q 80,81.png Graphic file (type png)
 Package pdftex.def Info: figs/2007/EE/Q 80,81.png  used on input line 638.
 (pdftex.def)             Requested size: 109.25969pt x 57.09094pt.
 [15 <./figs/2007/EE/Q 50 2007.png (PNG copy)> <./figs/2007/EE/Q 65.png (PNG cop
-y)>]) (./GATE/signal/discrete.tex [16 <./figs/2007/EE/Q 80,81.png (PNG copy)>]
+y)>]
+<figs/2007/in/10.jpg, id=383, 489.32813pt x 279.29344pt>
+File: figs/2007/in/10.jpg Graphic file (type jpg)
+<use figs/2007/in/10.jpg>
+Package pdftex.def Info: figs/2007/in/10.jpg  used on input line 683.
+(pdftex.def)             Requested size: 218.5194pt x 124.72627pt.
+[16 <./figs/2007/EE/Q 80,81.png (PNG copy)> <./figs/2007/in/10.jpg>]
+<figs/2007/in/11.jpg, id=411, 576.65437pt x 140.02313pt>
+File: figs/2007/in/11.jpg Graphic file (type jpg)
+<use figs/2007/in/11.jpg>
+Package pdftex.def Info: figs/2007/in/11.jpg  used on input line 700.
+(pdftex.def)             Requested size: 218.5194pt x 53.0619pt.
+<figs/2007/in/20.jpg, id=412, 493.0922pt x 170.88844pt>
+File: figs/2007/in/20.jpg Graphic file (type jpg)
+<use figs/2007/in/20.jpg>
+Package pdftex.def Info: figs/2007/in/20.jpg  used on input line 743.
+(pdftex.def)             Requested size: 218.5194pt x 75.7309pt.
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+[17 <./figs/2007/in/11.jpg>]
+<figs/2007/in/21.jpg, id=439, 333.49594pt x 213.04594pt>
+File: figs/2007/in/21.jpg Graphic file (type jpg)
+<use figs/2007/in/21.jpg>
+Package pdftex.def Info: figs/2007/in/21.jpg  used on input line 759.
+(pdftex.def)             Requested size: 218.5194pt x 139.59975pt.
+<figs/2007/in/33.jpg, id=440, 415.5525pt x 247.67531pt>
+File: figs/2007/in/33.jpg Graphic file (type jpg)
+<use figs/2007/in/33.jpg>
+Package pdftex.def Info: figs/2007/in/33.jpg  used on input line 775.
+(pdftex.def)             Requested size: 218.5194pt x 130.23933pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[18 <./figs/2007/in/20.jpg> <./figs/2007/in/21.jpg>]
+<figs/2007/in/34.jpg, id=457, 293.59688pt x 208.52907pt>
+File: figs/2007/in/34.jpg Graphic file (type jpg)
+<use figs/2007/in/34.jpg>
+Package pdftex.def Info: figs/2007/in/34.jpg  used on input line 785.
+(pdftex.def)             Requested size: 120.82323pt x 85.81564pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 786.
+See the caption package documentation for explanation.
+
+<figs/2007/in/35.jpg, id=458, 304.88907pt x 202.50656pt>
+File: figs/2007/in/35.jpg Graphic file (type jpg)
+<use figs/2007/in/35.jpg>
+Package pdftex.def Info: figs/2007/in/35.jpg  used on input line 792.
+(pdftex.def)             Requested size: 120.82323pt x 80.2503pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 793.
+See the caption package documentation for explanation.
+
+<figs/2007/in/36.jpg, id=459, 296.60812pt x 206.27063pt>
+File: figs/2007/in/36.jpg Graphic file (type jpg)
+<use figs/2007/in/36.jpg>
+Package pdftex.def Info: figs/2007/in/36.jpg  used on input line 799.
+(pdftex.def)             Requested size: 120.82323pt x 84.02383pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 800.
+See the caption package documentation for explanation.
+
+<figs/2007/in/37.jpg, id=460, 297.36093pt x 211.54031pt>
+File: figs/2007/in/37.jpg Graphic file (type jpg)
+<use figs/2007/in/37.jpg>
+Package pdftex.def Info: figs/2007/in/37.jpg  used on input line 806.
+(pdftex.def)             Requested size: 120.82323pt x 85.95094pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 807.
+See the caption package documentation for explanation.
+
+<figs/2007/in/41.jpg, id=461, 223.58531pt x 155.83218pt>
+File: figs/2007/in/41.jpg Graphic file (type jpg)
+<use figs/2007/in/41.jpg>
+Package pdftex.def Info: figs/2007/in/41.jpg  used on input line 816.
+(pdftex.def)             Requested size: 218.5194pt x 152.30551pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19 <./figs/2007/in/33.jpg> <./figs/2007/in/34.jpg> <./figs/2007/in/35.jpg> <./
+figs/2007/in/36.jpg> <./figs/2007/in/37.jpg>]
+<figs/2007/in/42.jpg, id=477, 252.19218pt x 101.62968pt>
+File: figs/2007/in/42.jpg Graphic file (type jpg)
+<use figs/2007/in/42.jpg>
+Package pdftex.def Info: figs/2007/in/42.jpg  used on input line 833.
+(pdftex.def)             Requested size: 218.5194pt x 88.06042pt.
+<figs/2007/in/43.jpg, id=478, 249.93375pt x 121.20282pt>
+File: figs/2007/in/43.jpg Graphic file (type jpg)
+<use figs/2007/in/43.jpg>
+Package pdftex.def Info: figs/2007/in/43.jpg  used on input line 839.
+(pdftex.def)             Requested size: 218.5194pt x 105.97267pt.
+[20 <./figs/2007/in/41.jpg> <./figs/2007/in/42.jpg> <./figs/2007/in/43.jpg>]
+<figs/2007/in/44.jpg, id=491, 272.51813pt x 183.68625pt>
+File: figs/2007/in/44.jpg Graphic file (type jpg)
+<use figs/2007/in/44.jpg>
+Package pdftex.def Info: figs/2007/in/44.jpg  used on input line 849.
+(pdftex.def)             Requested size: 124.57323pt x 83.96695pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 850.
+See the caption package documentation for explanation.
+
+<figs/2007/in/45.jpg, id=492, 338.76563pt x 167.87718pt>
+File: figs/2007/in/45.jpg Graphic file (type jpg)
+<use figs/2007/in/45.jpg>
+Package pdftex.def Info: figs/2007/in/45.jpg  used on input line 856.
+(pdftex.def)             Requested size: 124.57323pt x 61.7319pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 857.
+See the caption package documentation for explanation.
+
+<figs/2007/in/46.jpg, id=493, 265.74281pt x 159.59625pt>
+File: figs/2007/in/46.jpg Graphic file (type jpg)
+<use figs/2007/in/46.jpg>
+Package pdftex.def Info: figs/2007/in/46.jpg  used on input line 863.
+(pdftex.def)             Requested size: 124.57323pt x 74.81541pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 864.
+See the caption package documentation for explanation.
+
+<figs/2007/in/47.jpg, id=494, 266.49562pt x 158.84344pt>
+File: figs/2007/in/47.jpg Graphic file (type jpg)
+<use figs/2007/in/47.jpg>
+Package pdftex.def Info: figs/2007/in/47.jpg  used on input line 870.
+(pdftex.def)             Requested size: 124.57323pt x 74.25165pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 871.
+See the caption package documentation for explanation.
+
+<figs/2007/in/52.jpg, id=495, 417.81094pt x 142.28156pt>
+File: figs/2007/in/52.jpg Graphic file (type jpg)
+<use figs/2007/in/52.jpg>
+Package pdftex.def Info: figs/2007/in/52.jpg  used on input line 890.
+(pdftex.def)             Requested size: 218.5194pt x 74.41669pt.
+<figs/2007/in/53.jpg, id=496, 211.54031pt x 185.19188pt>
+File: figs/2007/in/53.jpg Graphic file (type jpg)
+<use figs/2007/in/53.jpg>
+Package pdftex.def Info: figs/2007/in/53.jpg  used on input line 910.
+(pdftex.def)             Requested size: 218.5194pt x 191.30925pt.
+[21 <./figs/2007/in/44.jpg> <./figs/2007/in/45.jpg> <./figs/2007/in/46.jpg> <./
+figs/2007/in/47.jpg> <./figs/2007/in/52.jpg>]
+<figs/2007/in/54.jpg, id=522, 167.12437pt x 160.34906pt>
+File: figs/2007/in/54.jpg Graphic file (type jpg)
+<use figs/2007/in/54.jpg>
+Package pdftex.def Info: figs/2007/in/54.jpg  used on input line 918.
+(pdftex.def)             Requested size: 120.82323pt x 115.92834pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 919.
+See the caption package documentation for explanation.
+
+<figs/2007/in/55.jpg, id=523, 162.6075pt x 154.32657pt>
+File: figs/2007/in/55.jpg Graphic file (type jpg)
+<use figs/2007/in/55.jpg>
+Package pdftex.def Info: figs/2007/in/55.jpg  used on input line 925.
+(pdftex.def)             Requested size: 120.82323pt x 114.67317pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 926.
+See the caption package documentation for explanation.
+
+<figs/2007/in/56.jpg, id=524, 160.34906pt x 152.82094pt>
+File: figs/2007/in/56.jpg Graphic file (type jpg)
+<use figs/2007/in/56.jpg>
+Package pdftex.def Info: figs/2007/in/56.jpg  used on input line 932.
+(pdftex.def)             Requested size: 120.82323pt x 115.15405pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 933.
+See the caption package documentation for explanation.
+
+<figs/2007/in/57.jpg, id=525, 167.87718pt x 154.32657pt>
+File: figs/2007/in/57.jpg Graphic file (type jpg)
+<use figs/2007/in/57.jpg>
+Package pdftex.def Info: figs/2007/in/57.jpg  used on input line 939.
+(pdftex.def)             Requested size: 120.82323pt x 111.07028pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 940.
+See the caption package documentation for explanation.
+
+
+Overfull \vbox (0.10847pt too high) has occurred while \output is active []
+
+[22 <./figs/2007/in/53.jpg> <./figs/2007/in/54.jpg> <./figs/2007/in/55.jpg> <./
+figs/2007/in/56.jpg> <./figs/2007/in/57.jpg>]
+<figs/2007/in/58.jpg, id=539, 682.80093pt x 124.96687pt>
+File: figs/2007/in/58.jpg Graphic file (type jpg)
+<use figs/2007/in/58.jpg>
+Package pdftex.def Info: figs/2007/in/58.jpg  used on input line 948.
+(pdftex.def)             Requested size: 218.5194pt x 39.99211pt.
+<figs/2007/in/61.jpg, id=540, 569.12625pt x 109.91063pt>
+File: figs/2007/in/61.jpg Graphic file (type jpg)
+<use figs/2007/in/61.jpg>
+Package pdftex.def Info: figs/2007/in/61.jpg  used on input line 966.
+(pdftex.def)             Requested size: 218.5194pt x 42.20082pt.
+[23 <./figs/2007/in/58.jpg> <./figs/2007/in/61.jpg>]) (./GATE/signal/discrete.t
+ex [24]
 Underfull \hbox (badness 1648) in paragraph at lines 85--89
 []\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved u
 s-ing the Newton-
  []
 
-[17]
-<figs/2007/EC/Q2.jpg, id=458, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=609, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
-[18 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=500, 301.125pt x 138.5175pt>
+[25 <./figs/2007/EC/Q2.jpg>]
+<figs/2007/EE/q 36 2007.png, id=652, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
 (pdftex.def)             Requested size: 145.67589pt x 67.01392pt.
-[19 <./figs/2007/EE/q 36 2007.png (PNG copy)>]
+[26 <./figs/2007/EE/q 36 2007.png (PNG copy)>]
 LaTeX Font Info:    Trying to load font information for OMS+txr on input line 2
 83.
 
@@ -2002,19 +2205,19 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 283.
-) (./GATE/opt.tex) (./GATE/prob.tex [20]
-<figs/2007/EC/Q74Q75.jpg, id=577, 1076.02pt x 509.905pt>
+[27]) (./GATE/opt.tex) (./GATE/prob.tex [28]
+<figs/2007/EC/Q74Q75.jpg, id=773, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
-[21 <./figs/2007/EC/Q74Q75.jpg>]
-<figs/2007/EC/Q82Q83.jpg, id=610, 999.735pt x 433.62pt>
+[29]
+<figs/2007/EC/Q82Q83.jpg, id=813, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 (pdftex.def)             Requested size: 145.67589pt x 63.18095pt.
-[22 <./figs/2007/EC/Q82Q83.jpg>]) [23] (./main.aux)
+[30 <./figs/2007/EC/Q74Q75.jpg> <./figs/2007/EC/Q82Q83.jpg>]) [31] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -2023,13 +2226,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
- 55578 strings out of 467532
- 1338504 string characters out of 5405395
- 1940682 words of memory out of 5000000
- 83186 multiletter control sequences out of 15000+600000
+ 55942 strings out of 467532
+ 1344868 string characters out of 5405395
+ 1940619 words of memory out of 5000000
+ 83381 multiletter control sequences out of 15000+600000
  724804 words of font info for 256 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,11n,118p,1194b,1314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,11n,118p,1194b,1338s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
 blic/txfonts/rtxb.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf
 -dist/fonts/type1/public/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/sha
@@ -2038,14 +2241,15 @@ termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc
 .pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1
 /public/txfonts/txex.pfb></data/data/com.termux/files/usr/share/texlive/2025/te
 xmf-dist/fonts/type1/public/txfonts/txsy.pfb></data/data/com.termux/files/usr/s
-hare/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.t
-ermux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-</data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on main.pdf (23 pages, 1747246 bytes).
+hare/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></data/data/c
+om.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-
+dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (31 pages, 2139921 bytes).
 PDF statistics:
- 794 PDF objects out of 1000 (max. 8388607)
- 703 compressed objects within 8 object streams
- 488 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1054 PDF objects out of 1200 (max. 8388607)
+ 927 compressed objects within 10 object streams
+ 657 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
