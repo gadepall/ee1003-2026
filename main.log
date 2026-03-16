@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  16 MAR 2026 11:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Termux) (preloaded format=pdflatex 2026.1.25)  16 MAR 2026 11:32
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2190,13 +2190,13 @@ s-ing the Newton-
  []
 
 [25]
-<figs/2007/EC/Q2.jpg, id=648, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=653, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
 [26 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=689, 301.125pt x 138.5175pt>
+<figs/2007/EE/q 36 2007.png, id=694, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
@@ -2217,13 +2217,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 447--448
  []
 
 [30]) (./GATE/opt.tex [31] [32]) (./GATE/prob.tex [33]
-<figs/2007/EC/Q74Q75.jpg, id=933, 1076.02pt x 509.905pt>
+<figs/2007/EC/Q74Q75.jpg, id=943, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
 [34 <./figs/2007/EC/Q74Q75.jpg>]
-<figs/2007/EC/Q82Q83.jpg, id=969, 999.735pt x 433.62pt>
+<figs/2007/EC/Q82Q83.jpg, id=979, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
@@ -2237,8 +2237,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
- 56172 strings out of 467532
- 1347082 string characters out of 5405395
+ 56182 strings out of 467532
+ 1347162 string characters out of 5405395
  1940778 words of memory out of 5000000
  83403 multiletter control sequences out of 15000+600000
  724804 words of font info for 256 fonts, out of 8000000 for 9000
@@ -2258,10 +2258,10 @@ syc.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/ty
 pe1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 2298991 bytes).
+Output written on main.pdf (39 pages, 2300254 bytes).
 PDF statistics:
- 1340 PDF objects out of 1440 (max. 8388607)
- 1199 compressed objects within 12 object streams
- 865 named destinations out of 1000 (max. 500000)
+ 1352 PDF objects out of 1440 (max. 8388607)
+ 1210 compressed objects within 13 object streams
+ 875 named destinations out of 1000 (max. 500000)
  374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
