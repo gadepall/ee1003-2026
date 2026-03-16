@@ -1020,6 +1020,7 @@ INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txex.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txsy.pfb
+INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb

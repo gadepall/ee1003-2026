@@ -41,5 +41,74 @@
 \item thrice differentiable  
 \end{enumerate}
 
+\item Consider the linear programming problem
+\begin{align*}
+& \text{Maximize } z = c_1 x_1 + c_2 x_2, \quad c_1, c_2 > 0, \\
+& \text{subject to} \\
+& x_1 + x_2 \le 3 \\
+& 2x_1 + 3x_2 \le 4 \\
+& x_i \ge 0
+\end{align*}
+Then:
+\hfill (MA 2007)
+\begin{enumerate}
+\item  the primal has an optimal solution but the dual does NOT have an optimal solution
+\item  both the primal and the dual have optimal solutions
+\item the dual has an optimal solution but the primal does NOT have an optimal solution
+\item neither the primal nor the dual have optimal solutions
+\end{enumerate}
+\item For each $a \in \mathbb{R}$, consider the linear programming problem:
+ 
+   \begin{flushleft}
+    \hspace{3cm} Max. $z = x_1 + 2x_2 + 3x_3 + 4x_4$
+   \end{flushleft}
+    \hspace{3cm} subject to \hfill (MA 2007)
+    \begin{align*}
+        ax_1 + 2x_2 &\leq 1 \\
+        x_1 + 2x_2 + 3x_3 &\leq 2 \\
+        x_1, x_2, x_3, x_4 &\geq 0
+    \end{align*}
+    Let $S = \{a \in \mathbb{R} : \text{the given LP problem has a basic feasible solution}\}$. Then:
+    \begin{multicols}{2}
+    \begin{enumerate}
+        \item $S = \emptyset$
+        \item $S = \mathbb{R}$
+        \item $S = (0, \infty)$
+        \item $S = (-\infty, 0)$
+    \end{enumerate}
+    \end{multicols}
+    
+
+
+\item Consider the linear programming problem:\\
+   \hspace{3cm} Max. $z = x_1 + 5x_2 + 3x_3$
+   \hspace{3cm} subject to
+    \begin{align*}
+        2x_1 - 3x_2 + 5x_3 &\leq 3 \\
+        x_1 - x_2 &\leq 5 \\
+        x_1, x_2, x_3 &\geq 0
+    \end{align*}
+    Then the dual of this LP problem:
+     \hfill (MA 2007)
+    
+    \begin{enumerate}
+        \item has a feasible solution but does NOT have a basic feasible solution
+        \item has a basic feasible solution
+        \item has infinite number of feasible solutions
+        \item has no feasible solution
+    \end{enumerate}
+    
+\item  Consider a transportation problem with two warehouses and two markets. The warehouse capacities are $a_1 = 2$ and $a_2 = 4$, and the market demands are $b_1 = 3$ and $b_2 = 3$. Let $x_{ij}$ be the quantity shipped from warehouse $i$ to market $j$, and $c_{ij}$ be the corresponding unit cost. Suppose that $c_{11} = 1$, $c_{21} = 1$, and $c_{22} = 2$. Then $(x_{11}, x_{12}, x_{21}, x_{22}) = (2, 0, 1, 3)$ is optimal for every:
+\hfill (MA 2007)
+\begin{multicols}{2}
+    \begin{enumerate}
+        \item $c_{12} \in [1, 2]$
+        \item $c_{12} \in [0, 3]$
+        \item  $c_{12} \in [1, 3]$
+        \item $c_{12} \in [2, 4]$
+    \end{enumerate}
+    \end{multicols}
+
+
 \end{enumerate}
 
