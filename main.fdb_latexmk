@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1774268150.05946 0
-  "main.idx" 1774268147 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1774310780.87126 0
+  "main.idx" 1774310778 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1774268145.32754 "main.tex" "main.pdf" "main" 1774268150.06029 0
+["pdflatex"] 1774310775.40445 "main.tex" "main.pdf" "main" 1774310780.87344 0
   "/data/data/com.termux/files/usr/share/texlive/2026.0/texmf-dist/web2c/texmf.cnf" 1773808578 43838 788b409ca7f6d70214933fbc221adf76 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -307,10 +307,10 @@
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/xpatch/xpatch.sty" 1585258158 8314 7803f78066c4f9d008405191a4b43073 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1774191542 5573092 dde630300984a90ef415ac975d126ae6 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1774191539 3636978 4076f3f11ad5a90f9685cdcdb52e441d ""
-  "GATE/opt.tex" 1774268143 12290 85df2946ba89ed32f99b7c7f0b5cfc5d ""
-  "GATE/prob.tex" 1774266497 17826 a0acfa014436a80f2ba59b9e42acfe04 ""
-  "GATE/signal/analog.tex" 1774267954 39655 242a1c3340db2a383d47f8796dc84455 ""
-  "GATE/signal/discrete.tex" 1774268085 25402 9b17ae5f0e2e7c5aa5d28b46e00310d5 ""
+  "GATE/opt.tex" 1774310683 12973 6067836902e507c665066f1b1c79b5d6 ""
+  "GATE/prob.tex" 1774310773 18110 fcaf57f17c520489896f0c01bae727b0 ""
+  "GATE/signal/analog.tex" 1774310509 40623 1ac4749a17793765850e8ccf77cf904a ""
+  "GATE/signal/discrete.tex" 1774310613 26295 094634136f9acbdeb9d41085fd963113 ""
   "figs/2007/EC/Q11.png" 1774258099 166441 d503854e28a0376c6eef4c165a9e1f84 ""
   "figs/2007/EC/Q2.jpg" 1774258099 21626 1676991d20bea2c4103091a5a8656b7d ""
   "figs/2007/EC/Q28.png" 1774258099 48246 f6963b6479b77d0f303fb8efbd1beaf1 ""
@@ -364,11 +364,11 @@
   "figs/q74-75.tex" 1774258100 1001 f458501df84158805ed30c7823f51a81 ""
   "gvv-book.sty" 1774258100 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1774258100 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1774268149 11929 bcc6056b7afefea54348aac03e8f63c4 "pdflatex"
+  "main.aux" 1774310780 11929 0f2458b0d865be3555997d6847ad0c35 "pdflatex"
   "main.ind" 1774258100 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1774268149 516 13f582a711fc859d497f560620d2498c "pdflatex"
+  "main.out" 1774310780 516 13f582a711fc859d497f560620d2498c "pdflatex"
   "main.tex" 1774261903 2535 a590ceff5b496a549a56da489536e36a ""
-  "main.toc" 1774268149 357 ea3cf6debcacdb71b8a11800eec6591f "pdflatex"
+  "main.toc" 1774310780 357 c36c27dbe09a73c28ae1d819f97a85da "pdflatex"
   (generated)
   "main.aux"
   "main.idx"

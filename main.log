@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  23 MAR 2026 17:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  24 MAR 2026 05:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2203,26 +2203,24 @@ File: figs/2007/XE/C/fig13.png Graphic file (type png)
 <use figs/2007/XE/C/fig13.png>
 Package pdftex.def Info: figs/2007/XE/C/fig13.png  used on input line 1122.
 (pdftex.def)             Requested size: 218.5194pt x 105.78091pt.
-[25 <./figs/2007/XE/C/fig1.png> <./figs/2007/XE/C/fig9.png>]) (./GATE/signal/di
-screte.tex [26 <./figs/2007/XE/C/fig13.png>]
+[25 <./figs/2007/XE/C/fig1.png> <./figs/2007/XE/C/fig9.png>] [26 <./figs/2007/X
+E/C/fig13.png>]) (./GATE/signal/discrete.tex [27]
 Underfull \hbox (badness 1648) in paragraph at lines 85--89
 []\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved u
 s-ing the Newton-
  []
 
-[27]
-<figs/2007/EC/Q2.jpg, id=705, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=696, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
-[28 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=748, 301.125pt x 138.5175pt>
+[28] [29 <./figs/2007/EC/Q2.jpg>]
+<figs/2007/EE/q 36 2007.png, id=777, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
 (pdftex.def)             Requested size: 145.67589pt x 67.01392pt.
-[29 <./figs/2007/EE/q 36 2007.png (PNG copy)>]
 LaTeX Font Info:    Trying to load font information for OMS+txr on input line 2
 83.
 
@@ -2232,18 +2230,18 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 283.
-[30] [31]
+[30 <./figs/2007/EE/q 36 2007.png (PNG copy)>] [31]
 Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-[32]
-<figs/2007/PI/Q.4.png, id=896, 112.62074pt x 61.4295pt>
+[32] [33]
+<figs/2007/PI/Q.4.png, id=920, 112.62074pt x 61.4295pt>
 File: figs/2007/PI/Q.4.png Graphic file (type png)
 <use figs/2007/PI/Q.4.png>
 Package pdftex.def Info: figs/2007/PI/Q.4.png  used on input line 562.
 (pdftex.def)             Requested size: 91.04881pt x 49.66386pt.
-[33 <./figs/2007/PI/Q.4.png>] [34] [35]
+[34 <./figs/2007/PI/Q.4.png>] [35] [36]
 Underfull \hbox (badness 10000) in paragraph at lines 819--820
 
  []
@@ -2263,28 +2261,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 825--826
 
  []
 
-) (./GATE/opt.tex [36] [37] [38] [39]
-<figs/2007/PI/Q.71.png, id=1160, 329.43076pt x 115.632pt>
+) (./GATE/opt.tex [37] [38] [39] [40] [41]
+<figs/2007/PI/Q.71.png, id=1213, 329.43076pt x 115.632pt>
 File: figs/2007/PI/Q.71.png Graphic file (type png)
 <use figs/2007/PI/Q.71.png>
 Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
 (pdftex.def)             Requested size: 364.1953pt x 127.84312pt.
-
-Underfull \vbox (badness 3746) has occurred while \output is active []
-
-[40]) (./GATE/prob.tex [41 <./figs/2007/PI/Q.71.png>] [42]
-<figs/2007/EC/Q74Q75.jpg, id=1262, 1076.02pt x 509.905pt>
+[42 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex [43]
+<figs/2007/EC/Q74Q75.jpg, id=1287, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
-<figs/2007/EC/Q82Q83.jpg, id=1263, 999.735pt x 433.62pt>
+[44 <./figs/2007/EC/Q74Q75.jpg>]
+<figs/2007/EC/Q82Q83.jpg, id=1319, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 (pdftex.def)             Requested size: 145.67589pt x 63.18095pt.
-[43 <./figs/2007/EC/Q74Q75.jpg> <./figs/2007/EC/Q82Q83.jpg>] [44] [45] [46] [47
-]) [48] (./main.aux)
+[45 <./figs/2007/EC/Q82Q83.jpg>] [46] [47] [48] [49]) [50] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -2293,9 +2288,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
- 56574 strings out of 467525
- 1352420 string characters out of 5404752
- 1950720 words of memory out of 5000000
+ 56621 strings out of 467525
+ 1352839 string characters out of 5404752
+ 1949719 words of memory out of 5000000
  83497 multiletter control sequences out of 15000+600000
  724804 words of font info for 256 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -2314,10 +2309,10 @@ syc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/ty
 pe1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (48 pages, 2673335 bytes).
+Output written on main.pdf (50 pages, 2678692 bytes).
 PDF statistics:
- 1750 PDF objects out of 2073 (max. 8388607)
- 1586 compressed objects within 16 object streams
- 1173 named destinations out of 1200 (max. 500000)
+ 1814 PDF objects out of 2073 (max. 8388607)
+ 1647 compressed objects within 17 object streams
+ 1220 named destinations out of 1440 (max. 500000)
  399 words of extra memory for PDF output out of 10000 (max. 10000000)
 
