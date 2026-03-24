@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  24 MAR 2026 21:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  24 MAR 2026 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2204,19 +2204,328 @@ File: figs/2007/XE/C/fig13.png Graphic file (type png)
 Package pdftex.def Info: figs/2007/XE/C/fig13.png  used on input line 1122.
 (pdftex.def)             Requested size: 218.5194pt x 105.78091pt.
 [25 <./figs/2007/XE/C/fig1.png> <./figs/2007/XE/C/fig9.png>] [26 <./figs/2007/X
-E/C/fig13.png>] [27]) (./GATE/signal/discrete.tex [28]
+E/C/fig13.png>] [27]
+<figs/2008/EC/q8.png, id=701, 630.355pt x 304.13625pt>
+File: figs/2008/EC/q8.png Graphic file (type png)
+<use figs/2008/EC/q8.png>
+Package pdftex.def Info: figs/2008/EC/q8.png  used on input line 1307.
+(pdftex.def)             Requested size: 182.09764pt x 87.85847pt.
+[28 <./figs/2008/EC/q8.png>]
+<figs/2008/EC/q11.png, id=735, 622.325pt x 413.545pt>
+File: figs/2008/EC/q11.png Graphic file (type png)
+<use figs/2008/EC/q11.png>
+Package pdftex.def Info: figs/2008/EC/q11.png  used on input line 1347.
+(pdftex.def)             Requested size: 182.09764pt x 121.00401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1359--1360
+
+ []
+
+<figs/2008/EC/q12.png, id=736, 1165.35374pt x 932.48375pt>
+File: figs/2008/EC/q12.png Graphic file (type png)
+<use figs/2008/EC/q12.png>
+Package pdftex.def Info: figs/2008/EC/q12.png  used on input line 1363.
+(pdftex.def)             Requested size: 345.98442pt x 276.84467pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[29 <./figs/2008/EC/q11.png>]
+<figs/2008/EC/q23.png, id=753, 629.35126pt x 316.18124pt>
+File: figs/2008/EC/q23.png Graphic file (type png)
+<use figs/2008/EC/q23.png>
+Package pdftex.def Info: figs/2008/EC/q23.png  used on input line 1381.
+(pdftex.def)             Requested size: 254.9356pt x 128.07681pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[30 <./figs/2008/EC/q12.png>] [31 <./figs/2008/EC/q23.png>]
+<figs/2008/EC/q38.png, id=787, 1198.4775pt x 798.985pt>
+File: figs/2008/EC/q38.png Graphic file (type png)
+<use figs/2008/EC/q38.png>
+Package pdftex.def Info: figs/2008/EC/q38.png  used on input line 1460.
+(pdftex.def)             Requested size: 327.77354pt x 218.5085pt.
+[32 <./figs/2008/EC/q38.png>]
+<figs/2008/EC/q39.png, id=804, 542.025pt x 164.615pt>
+File: figs/2008/EC/q39.png Graphic file (type png)
+<use figs/2008/EC/q39.png>
+Package pdftex.def Info: figs/2008/EC/q39.png  used on input line 1478.
+(pdftex.def)             Requested size: 182.09764pt x 55.30272pt.
+[33 <./figs/2008/EC/q39.png>]
+<figs/2008/EC/q40.png, id=816, 821.0675pt x 397.485pt>
+File: figs/2008/EC/q40.png Graphic file (type png)
+<use figs/2008/EC/q40.png>
+Package pdftex.def Info: figs/2008/EC/q40.png  used on input line 1496.
+(pdftex.def)             Requested size: 182.09764pt x 88.15051pt.
+<figs/2008/EC/q43a.png, id=817, 589.20125pt x 255.95625pt>
+File: figs/2008/EC/q43a.png Graphic file (type png)
+<use figs/2008/EC/q43a.png>
+Package pdftex.def Info: figs/2008/EC/q43a.png  used on input line 1627.
+(pdftex.def)             Requested size: 291.35735pt x 126.5718pt.
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+[34 <./figs/2008/EC/q40.png>]
+<figs/2008/EC/q43b.png, id=840, 412.54124pt x 429.605pt>
+File: figs/2008/EC/q43b.png Graphic file (type png)
+<use figs/2008/EC/q43b.png>
+Package pdftex.def Info: figs/2008/EC/q43b.png  used on input line 1634.
+(pdftex.def)             Requested size: 145.67589pt x 151.70126pt.
+<figs/2008/EC/q47.png, id=841, 930.47626pt x 451.6875pt>
+File: figs/2008/EC/q47.png Graphic file (type png)
+<use figs/2008/EC/q47.png>
+Package pdftex.def Info: figs/2008/EC/q47.png  used on input line 1659.
+(pdftex.def)             Requested size: 182.09764pt x 88.39229pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[35 <./figs/2008/EC/q43a.png> <./figs/2008/EC/q43b.png>]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1700 \item T
+              he following series RLC circuit with zero initial conditions i...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<figs/2008/EC/q7475.png, id=855, 676.5275pt x 224.84pt>
+File: figs/2008/EC/q7475.png Graphic file (type png)
+<use figs/2008/EC/q7475.png>
+Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1703.
+(pdftex.def)             Requested size: 218.5194pt x 72.6227pt.
+[36 <./figs/2008/EC/q47.png> <./figs/2008/EC/q7475.png>]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1737 \item T
+              he impulse response $h(t)$ of a linear time-invariant continuo...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\enit@endenumerate ->\enit@after 
+                                 \endlist \ifx \enit@series \relax \else \if...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@endenumerate ...\else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.1766 \end{enumerate}
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.1766 \end{enumerate}
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.1766 \end{enumerate}
+                      
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+\enit@endenumerate ...t \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.1766 \end{enumerate}
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.1766 \end{enumerate}
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.1766 \end{enumerate}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.1766 \end{enumerate}
+                      
+I'm forgetting what you said and using zero instead.
+
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1766 \end{enumerate}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.1766 \end{enumerate}
+                      
+Things are pretty mixed up, but I think the worst is over.
+
+) (./GATE/signal/discrete.tex [37]
 Underfull \hbox (badness 1648) in paragraph at lines 85--89
 []\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved u
 s-ing the Newton-
  []
 
-<figs/2007/EC/Q2.jpg, id=737, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=925, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
-[29] [30 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=817, 301.125pt x 138.5175pt>
+[38 <./figs/2007/EC/Q2.jpg>] [39]
+<figs/2007/EE/q 36 2007.png, id=1006, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
@@ -2230,18 +2539,18 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 283.
-[31 <./figs/2007/EE/q 36 2007.png (PNG copy)>] [32]
+[40 <./figs/2007/EE/q 36 2007.png (PNG copy)>] [41]
 Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-[33] [34]
-<figs/2007/PI/Q.4.png, id=961, 112.62074pt x 61.4295pt>
+[42]
+<figs/2007/PI/Q.4.png, id=1118, 112.62074pt x 61.4295pt>
 File: figs/2007/PI/Q.4.png Graphic file (type png)
 <use figs/2007/PI/Q.4.png>
 Package pdftex.def Info: figs/2007/PI/Q.4.png  used on input line 562.
 (pdftex.def)             Requested size: 91.04881pt x 49.66386pt.
-[35 <./figs/2007/PI/Q.4.png>] [36] [37]
+[43 <./figs/2007/PI/Q.4.png>] [44] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 819--820
 
  []
@@ -2261,67 +2570,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 825--826
 
  []
 
-[38]
-<figs/2008/CH/qn5.jpg, id=1134, 582.175pt x 372.39125pt>
+[46] [47]
+<figs/2008/CH/qn5.jpg, id=1327, 582.175pt x 372.39125pt>
 File: figs/2008/CH/qn5.jpg Graphic file (type jpg)
 <use figs/2008/CH/qn5.jpg>
 Package pdftex.def Info: figs/2008/CH/qn5.jpg  used on input line 958.
 (pdftex.def)             Requested size: 91.04881pt x 58.23712pt.
-[39 <./figs/2008/CH/qn5.jpg>] [40]) (./GATE/opt.tex [41]
-Underfull \vbox (badness 1642) has occurred while \output is active []
-
-[42] [43] [44]
-<figs/2007/PI/Q.71.png, id=1341, 329.43076pt x 115.632pt>
+[48 <./figs/2008/CH/qn5.jpg>] [49]
+<figs/2008/EC/q7879.png, id=1410, 1088.065pt x 281.05pt>
+File: figs/2008/EC/q7879.png Graphic file (type png)
+<use figs/2008/EC/q7879.png>
+Package pdftex.def Info: figs/2008/EC/q7879.png  used on input line 1145.
+(pdftex.def)             Requested size: 218.5194pt x 56.44485pt.
+[50]) (./GATE/opt.tex [51 <./figs/2008/EC/q7879.png>] [52] [53] [54]
+<figs/2007/PI/Q.71.png, id=1562, 329.43076pt x 115.632pt>
 File: figs/2007/PI/Q.71.png Graphic file (type png)
 <use figs/2007/PI/Q.71.png>
 Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
 (pdftex.def)             Requested size: 364.1953pt x 127.84312pt.
-[45 <./figs/2007/PI/Q.71.png>] [46]) (./GATE/prob.tex [47]
-<figs/2007/EC/Q74Q75.jpg, id=1448, 1076.02pt x 509.905pt>
+
+Underfull \vbox (badness 3590) has occurred while \output is active []
+
+[55] [56 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex [57]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]$\OML/txmi/m/it/10 S\OT1/txr/m/n/10 (\OMS/txsy/m/n/10 ^^@\OML/txmi/m/it/10 f\
+OT1/txr/m/n/10 ) =
+ []
+
+<figs/2007/EC/Q74Q75.jpg, id=1665, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
-<figs/2007/EC/Q82Q83.jpg, id=1449, 999.735pt x 433.62pt>
+
+Underfull \vbox (badness 2080) has occurred while \output is active []
+
+[58]
+<figs/2007/EC/Q82Q83.jpg, id=1700, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 (pdftex.def)             Requested size: 145.67589pt x 63.18095pt.
-[48 <./figs/2007/EC/Q74Q75.jpg> <./figs/2007/EC/Q82Q83.jpg>] [49] [50] [51] [52
-] [53]) [54] (./main.aux)
+[59 <./figs/2007/EC/Q74Q75.jpg> <./figs/2007/EC/Q82Q83.jpg>] [60] [61] [62] [63
+] [64]
+<figs/2008/EC/q24a.png, id=1902, 685.56125pt x 295.1025pt>
+File: figs/2008/EC/q24a.png Graphic file (type png)
+<use figs/2008/EC/q24a.png>
+Package pdftex.def Info: figs/2008/EC/q24a.png  used on input line 618.
+(pdftex.def)             Requested size: 182.09764pt x 78.3819pt.
+<figs/2008/EC/q24b.png, id=1903, 1189.44376pt x 850.17625pt>
+File: figs/2008/EC/q24b.png Graphic file (type png)
+<use figs/2008/EC/q24b.png>
+Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 628.
+(pdftex.def)             Requested size: 345.98442pt x 247.29721pt.
+[65 <./figs/2008/EC/q24a.png>] [66 <./figs/2008/EC/q24b.png>]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.671 \setcounter
+                 {enumi}{70}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [67]
+
+! LaTeX Error: \begin{enumerate} on input line 1 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 1 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 56786 strings out of 467525
- 1354453 string characters out of 5404752
- 1949762 words of memory out of 5000000
- 83505 multiletter control sequences out of 15000+600000
+ 57118 strings out of 467525
+ 1359370 string characters out of 5404752
+ 1957762 words of memory out of 5000000
+ 83621 multiletter control sequences out of 15000+600000
  724804 words of font info for 256 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,16n,118p,1194b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/pu
-blic/txfonts/rtxb.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf
--dist/fonts/type1/public/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/sha
-re/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.
-termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxsc
-.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1
-/public/txfonts/txex.pfb></data/data/com.termux/files/usr/share/texlive/2026/te
-xmf-dist/fonts/type1/public/txfonts/txsy.pfb></data/data/com.termux/files/usr/s
-hare/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></data/data/c
-om.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/tx
-syc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/shar
-e/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (54 pages, 2755460 bytes).
+ 109i,16n,118p,1194b,1337s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/
+fonts/type1/public/txfonts/rtxb.pfb></data/data/com.termux/files/usr/share/texl
+ive/2026/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></data/data/com.termux
+/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></
+data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public
+/txfonts/rtxsc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-di
+st/fonts/type1/public/txfonts/txex.pfb></data/data/com.termux/files/usr/share/t
+exlive/2026/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></data/data/com.term
+ux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
+></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/pub
+lic/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/t
+exlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/
+files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (67 pages, 5399764 bytes).
 PDF statistics:
- 2020 PDF objects out of 2073 (max. 8388607)
- 1846 compressed objects within 19 object streams
- 1377 named destinations out of 1440 (max. 500000)
- 404 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2352 PDF objects out of 2487 (max. 8388607)
+ 2134 compressed objects within 22 object streams
+ 1593 named destinations out of 1728 (max. 500000)
+ 474 words of extra memory for PDF output out of 10000 (max. 10000000)
 
