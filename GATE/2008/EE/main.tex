@@ -1,175 +1,40 @@
-%iffalse
-\let\negmedspace\undefined
-\let\negthickspace\undefined
-\documentclass[journal,12pt,onecolumn]{IEEEtran}
-\usepackage{cite}
-\usepackage{amsmath,amssymb,amsfonts,amsthm}
-\usepackage{algorithmic}
-\usepackage{graphicx}
-\usepackage{textcomp}
-\usepackage{xcolor}
-\usepackage{txfonts}
-\usepackage{listings}
-\usepackage{enumitem}
-\usepackage{mathtools}
-\usepackage{gensymb}
-\usepackage{comment}
-\usepackage[breaklinks=true]{hyperref}
-\usepackage{tkz-euclide} 
-\usepackage{listings}
-\usepackage{gvv}
-\def\inputGnumericTable{}                                 
-\usepackage[latin1]{inputenc}                              
-\usepackage{color}                                         
-\usepackage{array}                                        
-\usepackage{longtable}                                     
-\usepackage{calc}                                          
-\usepackage{multirow}                                      
-\usepackage{hhline}                                        
-\usepackage{ifthen}                                        
-\usepackage{lscape}
-\newtheorem{theorem}{Theorem}[section]
-\newtheorem{problem}{Problem}
-\newtheorem{proposition}{Proposition}[section]
-\newtheorem{lemma}{Lemma}[section]
-\newtheorem{corollary}[theorem]{Corollary}
-\newtheorem{example}{Example}[section]
-\newtheorem{definition}[problem]{Definition}
-\newcommand{\BEQA}{\begin{eqnarray}}
-\newcommand{\EEQA}{\end{eqnarray}}
-\newcommand{\define}{\stackrel{\triangle}{=}}
-\theoremstyle{remark}
-\newtheorem{rem}{Remark}
-\graphicspath{ {./Figures/} }
-\usepackage{float} % For the [H] float option
-\usepackage{textcomp}
-\usepackage{multicol}
-\begin{document}
-
-     \Large\textbf{Q.1 -- Q.20 carry one mark each.} \\[10mm]
-
-
-\begin{enumerate}[start=1, label=Q.\arabic*]
-    \item The number of chords in the graph of the given circuit will be
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q1.png}
-    \caption{}
-\end{figure}
-
-
-\begin{enumerate}
-\begin{multicols}{4}
-\item 3
-\item 4
-\item 5
-\item 6
-\end{multicols}
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
-\item The Thevenin's equivalent of a circuit operating at $\omega=5rad/s$ has $V_{oc}=3.17 \angle - 15.9 \degree V$ and $Z_o = 2.38 - j0.667\omega$ . At this frequency, the minimal
-realization of the Thevenin's impedance will have a
-
-\begin{multicols}{2}
-\begin{enumerate}
-
-\item resistor and a capacitor and an inductor
-\item resistor and a capacitor
-\item resistor and an inductor
-\item capacitor and an inductor
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-
-
-
 \item A signal $e^{-\alpha t} \sin(\omega t)$ is the input to a real Linear Time Invariant system. 
 Given $K$ and $\phi$ are constants, the output of the system will be of the form 
 $K e^{-\beta t} \sin(\nu t + \phi)$ where
+\hfill (GATE EE 2008)
 \begin{enumerate}
 \item $\beta$ need not be equal to $\alpha$ but $\nu$ equal to $\omega$
     \item $\nu$ need not be equal to $\omega$ but $\beta$ equal to $\alpha$
     \item $\beta$ equal to $\alpha$ and $\nu$ equal to $\omega$
     \item $\beta$ need not be equal to $\alpha$ and $\nu$ need not be equal to $\omega$
 \end{enumerate}
+\item $X$ is a uniformly distributed random variable that takes values between $0$ and $1$. 
 \hfill (GATE EE 2008)
-
-
-
-
-\item X is a uniformly distributed random variable that takes values between $0$ and $1$. 
 The value of $E\{X^3\}$ will be %\{ ... \} produces curly braces {}
 \begin{enumerate}
 \begin{multicols}{4}
-
     \item 0
     \item $\frac{1}{8}$
     \item $\frac{1}{4}$
     \item $\frac{1}{2}$
 \end{multicols}
 \end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
-\item The characteristic equation of a $(3 \times 3)$ matrix $\mathbf{P}$ is defined as
-\[
-\alpha(\lambda) = \lvert \lambda \mathbf{I} - \mathbf{P} \rvert 
-= \lambda^3 + \lambda^2 + 2\lambda + 1 = 0.
-\] % /lvert is mod
-If $\mathbf{I}$ denotes the identity matrix, then the inverse of matrix $\mathbf{P}$ will be
-
-\begin{enumerate}
-\begin{multicols}{4}
-    \item $(\mathbf{P}^2 + \mathbf{P} + 2\mathbf{I})$
-    \item $(\mathbf{P}^2 + \mathbf{P} + \mathbf{I})$
-    \item $-(\mathbf{P}^2 + \mathbf{P} + \mathbf{I})$
-    \item $-(\mathbf{P}^2 + \mathbf{P} + 2\mathbf{I})$
-\end{multicols}
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
-\item If the rank of a $(5 \times 6)$ matrix $\mathbf{Q}$ is $4$, then which one of the following statements is correct?
-
-\begin{enumerate}
-    \item $\mathbf{Q}$ will have four linearly independent rows and four linearly independent columns
-    \item $\mathbf{Q}$ will have four linearly independent rows and five linearly independent columns
-    \item $\mathbf{Q} \mathbf{Q}^T$ will be invertible
-    \item $\mathbf{Q}^T \mathbf{Q}$ will be invertible
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
 \item A function $y(t)$ satisfies the following differential equation:
 \[
 \frac{dy(t)}{dt} + y(t) = \delta(t)
 \]
 where $\delta(t)$ is the delta function. Assuming zero initial condition, and denoting the unit step function by $u(t)$, $y(t)$ can be of the form
-
+\hfill (GATE EE 2008)
 \begin{enumerate}
+\begin{multicols}{4}
     \item $e^{t}$
     \item $e^{-t}$
     \item $e^{t}u(t)$
     \item $e^{-t}u(t)$
+    \end{multicols}
 \end{enumerate}
 \hfill (GATE EE 2008)
-
-
-
-
-
+%
 \item The equivalent circuits of a diode, during forward biased and reverse biased
 conditions, are shown in the figure
 \begin{figure}[H]
@@ -204,198 +69,12 @@ If such a diode is used in clipper circuit of figure given above, the output vol
 \end{figure}
 
 \end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
-
-\item Two 8-bit ADCs, one of single slope integrating type and other of successive approximation type, 
-take $T_A$ and $T_B$ times to convert $5 \ \mathrm{V}$ analog input signal to equivalent digital output. 
-If the input analog signal is reduced to $2.5 \ \mathrm{V}$, the approximate time taken by the two ADCs will respectively, be
-
-\begin{enumerate}
-\begin{multicols}{4}
-    
-    \item $T_A, \ T_B$
-    \item $\frac{T_A}{2}, \ T_B$
-    \item $T_A, \ \frac{T_B}{2}$
-    \item $\frac{T_A}{2}, \ \frac{T_B}{2}$
- \end{multicols}
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-
-
-\item An input device is interfaced with Intel 8085A microprocessor as memory mapped I/O. 
-The address of the device is {2500H}. In order to input data from the device to accumulator, 
-the sequence of instructions will be
-
-\begin{enumerate}
-\begin{multicols}{2}
-    
-    \item {LXI H, 2500H} \\
-          {MOV A, M}
-    \item {LXI H, 2500H} \\
-          {MOV M, A}
-    \item {LHLD 2500H} \\
-          {MOV A, M}
-    \item {LHLD 2500H} \\
-          {MOV M, A}
-\end{multicols}
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-\item Distributed winding and short chording employed in AC machines will result in
-
-\begin{enumerate}
-    \item increase in emf and reduction in harmonics.
-    \item reduction in emf and increase in harmonics.
-    \item increase in both emf and harmonics.
-    \item reduction in both emf and harmonics.
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-\item Three single-phase transformers are connected to form a 3-phase transformer bank. 
-The transformers are connected in the following manner: 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q12.png}
-    \caption{}
-\end{figure}
-
-The transformer connection will be represented by
-
-\begin{enumerate}
-\begin{multicols}{4}
-    \item \(Yd0\)
-    \item \(Yd1\)
-    \item \(Yd6\)
-    \item \(Yd11\)
-    \end{multicols}
-\hfill (GATE EE 2008)
-\end{enumerate}
-
-
-
-\item In a stepper motor, the detent torque means
-\begin{enumerate}
-    \item minimum of the static torque with the phase winding excited.
-    \item maximum of the static torque with the phase winding excited.
-    \item minimum of the static torque with the phase winding unexcited.
-    \item maximum of the static torque with the phase winding unexcited.
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-
-\item A two machine power system is shown below. Transmission line XY has positive sequence
-impedance of $Z_1 \Omega.$ and zero sequence impedance of $Z_0 \Omega.$ 
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q14.png}
-    \caption{}
-\end{figure}
-
-An 'a' phase to ground fault with zero fault impedance occurs at the centre of the transmission line.
-Bus voltage at X and line current from X to F for the phase 'a', are given by V Volts and
-Amperes, respectively. Then, the impedance measured by the ground distance relay located at the
-terminal X of line XY will be given by
-
-\begin{enumerate}
-\begin{multicols}{4}
-    \item $Z_1/2 \Omega$
-    \item $Z_0/2 \Omega$
-    \item $Z_1+Z_0/2 \Omega$
-    \item $V_0/I_0 $
-    \end{multicols}
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-\item An extra high voltage transmission line of length $300$ km can be approximated by a lossless line having propagation constant $\beta = 0.00127$ radians per km. Then the percentage ratio of line length to wavelength will be given by
-
-\begin{multicols}{4}
-    \begin{enumerate}
-        \item $24.24 \%$
-        \item $12.12 \%$
-        \item $19.05 \%$
-        \item $6.06 \%$
-    \end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
- \item  A 3-phase transmission line is shown in the figure:
- \begin{figure}[H]
-     \centering
-     \includegraphics[width=\columnwidth]{Fig/q16-1.png}
-     \caption{}
- \end{figure}
-Voltage drop across the transmission line is given by the following equation:
-\begin{figure}[H]
-     \centering
-     \includegraphics[width=\columnwidth]{Fig/q16-2.png}
-     \caption{}
- \end{figure}
-
-Shunt capacitance of the line can be neglected. If the line has positive sequence impedance of 15
-and zero sequence impedance of 48 2, then the values of $Z_s$ and $Z_n$ will be
-\begin{multicols}{2}
-    \begin{enumerate}
-        \item $Z_{s} = 31.5\, \Omega; Z_{m} = 16.5\, \Omega$
-        \item $Z_{s} = 26\, \Omega; Z_{m} = 11\, \Omega$
-        \item $Z_{s} = 16.5\, \Omega; Z_{m} = 31.5\, \Omega$
-        \item $Z_{s} = 11\, \Omega; Z_{m} = 26\, \Omega$
-    \end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-\item In the single phase voltage controller circuit shown in the figure, for what range of triggering angle $(\alpha)$, the output voltage $(v_{o})$ is not controllable?
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q17.png}
-    \caption{}
-\end{figure}
-
-\begin{multicols}{2}
-    \begin{enumerate}
-        \item $0\degree < \alpha < 45\degree$
-        \item $45\degree < \alpha < 135\degree$
-        \item $90\degree< \alpha < 180\degree$
-        \item $135\degree < \alpha < 180\degree$
-    \end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-
-\item A 3-phase Voltage Source Inverter is operated in \degree{180} conduction mode. Which one of the following statements is true?
-
-\begin{enumerate}
-    \item Both pole-voltage and line-voltage will have $3^{\text{rd}}$ harmonic components
-    \item Pole-voltage will have $3^{\text{rd}}$ harmonic component but line-voltage will be free from $3^{\text{rd}}$ harmonic
-    \item Line-voltage will have $3^{\text{rd}}$ harmonic component but pole-voltage will be free from $3^{\text{rd}}$ harmonic
-    \item Both pole-voltage and line-voltage will be free from $3^{\text{rd}}$ harmonic components
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
 \item The impulse response of a causal linear time-invariant system is given as $h(t)$. Now consider the following two statements: \\
 Statement (I): Principle of superposition holds \\
 Statement (II): $h(t) = 0$ for $t < 0$. \\
 \\
 Which one of the following statements is correct?
-
+\hfill (GATE EE 2008)
 \begin{enumerate}
     \item Statement (I) is correct and Statement (II) is wrong
     \item Statement (II) is correct and Statement (I) is wrong
@@ -404,27 +83,6 @@ Which one of the following statements is correct?
 \end{enumerate}
 \hfill (GATE EE 2008)
 
-
-
-\item It is desired to measure parameters of $230$ V / $115$ V, $2$ kVA, single-phase transformer. The following wattmeters are available in a laboratory: \\
-\\
-$W_1$: $250$ V, $10$ A, Low Power Factor \\
-$W_2$: $250$ V, $5$ A, Low Power Factor \\
-$W_3$: $150$ V, $10$ A, High Power Factor \\
-$W_4$: $150$ V, $5$ A, High Power Factor \\
-\\
-The wattmeters used in open circuit test and short circuit test of the transformer will respectively be
-
-\begin{enumerate}
-    \item $W_1$ and $W_2$
-    \item $W_2$ and $W_4$
-    \item $W_1$ and $W_4$
-    \item $W_2$ and $W_3$
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
-\Large\textbf{Q.21 -- Q.75 carry one mark each.} \\[10mm]
 
 \item The time constant for the given circuit will be
 
@@ -461,113 +119,30 @@ The wattmeters used in open circuit test and short circuit test of the transform
     \item $4$ rad/s
 \end{enumerate}
 \end{multicols}
-\hfill (GATE EE 2008)
-
-
-\item Assuming ideal elements in the circuit shown below, the voltage $v_{ab}$ will be
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q23.png}
-    \caption{}
-\end{figure}
-
-\begin{multicols}{4}
-\begin{enumerate}
-    \item $-3$ V
-    \item $0$ V
-    \item $3$ V
-    \item $5$ V
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-
-
-\item A capacitor consists of two metal plates each $500 \times 500$ mm$^{2}$ and spaced $6$ mm apart. The space between the metal plates is filled with a glass plate of $4$ mm thickness and a layer of paper of $2$ mm thickness. The relative permittivities of the glass and paper are $8$ and $2$ respectively. Neglecting the fringing effect, the capacitance will be (Given that $\varepsilon_0 = 8.85 \times 10^{-12}$ F/m)
-
-\begin{multicols}{4}
-\begin{enumerate}
-    \item $983.33$ pF
-    \item $1475$ pF
-    \item $6637.5$ pF
-    \item $9956.25$ pF
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-\item A coil of 300 turns is wound on a non-magnetic core having a mean circumference of 300 mm and a cross-sectional area of 300 mm$^{2}$. The inductance of the coil corresponding to a magnetizing current of 3A will be (Given that $\mu_0 = 4\pi \times 10^{-7}$ H/m)
-
-\begin{multicols}{4}
-\begin{enumerate}
-    \item $37.68$ $\mu$H
-    \item $113.04$ $\mu$H
-    \item $37.68$ mH
-    \item $113.04$ mH
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-\item In the circuit shown in the figure, the value of the current $i$ will be given by
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q26.png}
-    \caption{}
-\end{figure}
-
-\begin{multicols}{4}
-\begin{enumerate}
-    \item $0.31$ A
-    \item $1.25$ A
-    \item $1.75$ A
-    \item $2.5$ A
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-\item Two point charges $Q_1 = 10$ $\mu$C and $Q_2 = 20$ $\mu$C are placed at coordinates $(1, 1, 0)$ and $(-1, -1, 0)$ respectively. The total electric flux passing through a plane $z = 20$ will be
-
-\begin{multicols}{4}
-\begin{enumerate}
-    \item $7.5$ $\mu$C
-    \item $13.5$ $\mu$C
-    \item $15.0$ $\mu$C
-    \item $22.5$ $\mu$C
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
+%
 \item Given a sequence $x[n]$, to generate the sequence $y[n]=x[3-4n]$, which one of the following procedures would be correct?
-
+\hfill (GATE EE 2008)
+%
 \begin{enumerate}
     \item First delay $x[n]$ by 3 samples to generate $z_{1}[n]$, then pick every $4^{\text{th}}$ sample of $z_{1}[n]$ to generate $z_{2}[n]$, and then finally time reverse $z_{2}[n]$ to obtain $y[n]$
     \item First advance $x[n]$ by 3 samples to generate $z_{1}[n]$, then pick every $4^{\text{th}}$ sample of $z_{1}[n]$ to generate $z_{2}[n]$, and then finally time reverse $z_{2}[n]$ to obtain $y[n]$
     \item First pick every fourth sample of $x[n]$ to generate $v_{1}[n]$, time-reverse $v_{1}[n]$ to obtain $v_{2}[n]$, and finally advance $v_{2}[n]$ by 3 samples to obtain $y[n]$
     \item First pick every fourth sample of $x[n]$ to generate $v_{1}[n]$, time-reverse $v_{1}[n]$ to obtain $v_{2}[n]$, and finally delay $v_{2}[n]$ by 3 samples to obtain $y[n]$
 \end{enumerate}
-\hfill (GATE EE 2008)
-
-
 \item A system with input $x(t)$ and output $y(t)$ is defined by the input-output relation:
 $$
 y(t) = \int_{-\infty}^{-2t} x(\tau) \,d\tau
 $$
 The system will be
-
+\hfill (GATE EE 2008)
 \begin{enumerate}
     \item causal, time-invariant and unstable
     \item causal, time-invariant and stable
     \item non-causal, time-invariant and unstable
     \item non-causal, time-variant and unstable
 \end{enumerate}
-\hfill (GATE EE 2008)
-
-
 \item A signal $x(t)=\text{sinc}(\alpha t)$ where $\alpha$ is a real constant $\left(\text{sinc}(x) = \frac{\sin(\pi x)}{\pi x}\right)$ is the input to a Linear Time invariant system whose impulse response $h(t)=\text{sinc}(\beta t)$ where $\beta$ is a real constant. If $\min(\alpha, \beta)$ denotes the minimum of $\alpha$ and $\beta$, and similarly $\max(\alpha, \beta)$ denotes the maximum of $\alpha$ and $\beta$, and $K$ is a constant, which one of the following statements is true about the output of the system?
+\hfill (GATE EE 2008)
 
 \begin{enumerate}
     \item It will be of the form $K \text{ sinc}(\gamma t)$ where $\gamma=\min(\alpha, \beta)$
@@ -575,7 +150,6 @@ The system will be
     \item It will be of the form $K \text{ sinc}(\alpha t)$
     \item It cannot be a sinc type of signal
 \end{enumerate}
-\hfill (GATE EE 2008)
 
 \item Let $x(t)$ be a periodic signal with time period $T$. Let $y(t) = x(t-t_0)+x(t+t_0)$ for some $t_0$. The Fourier Series coefficients of $y(t)$ are denoted by $b_k$. If $b_k=0$ for all odd $k$, then $t_0$ can be equal to
 
@@ -637,21 +211,6 @@ The system will be
 \end{enumerate}
 \end{multicols}
 \hfill (GATE EE 2008)
-
-\item $A$ is a $m \times n$ full rank matrix with $m>n$ and $I$ is an identity matrix. Let matrix $A^{+}=(A^{\text{T}}A)^{-1}A^{\text{T}}$. Then, which one of the following statements is \textbf{FALSE}?
-
-\begin{multicols}{2}
-\begin{enumerate}
-    \item $AA^{+}A = A$
-    \item $(AA^{+})^2 = AA^{+}$
-    \item $A^{+}A = I$
-    \item $A A^{+}A = A^{+}$
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
-
 \item A differential equation $\frac{dx}{dt} = e^{-2t}u(t)$ has to be solved using trapezoidal rule of integration with a step size $h=0.01$ s. Function $u(t)$ indicates a unit step function. If $x(0-) = 0$, then value of $x$ at $t=0.01$ s will be given by:
 
 \begin{multicols}{4}
@@ -663,18 +222,6 @@ The system will be
 \end{enumerate}
 \end{multicols}
 \hfill (GATE EE 2008)
-
-\item Let $P$ be a $2\times 2$ real orthogonal matrix and $\vec{x}$ is a real vector $[x_1, x_2]^T$ with length $\|\vec{x}\| = (x_1^2+x_2^2)^{1/2}$. Then, which one of the following statements is correct?
-
-\begin{enumerate}
-    \item $\|\vec{Px}\| \le \|\vec{x}\|$ where at least one vector satisfies $\|\vec{Px}\| < \|\vec{x}\|$
-    \item $\|\vec{Px}\| = \|\vec{x}\|$ for all vectors $\vec{x}$
-    \item $\|\vec{Px}\| \ge \|\vec{x}\|$ where at least one vector satisfies $\|\vec{Px}\| > \|\vec{x}\|$
-    \item No relationship can be established between $\|\vec{x}\|$ and $\|\vec{Px}\|$
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-
 \item Let $x(t) = \text{rect}\left(t-\frac{1}{2}\right)$ (where $\text{rect}(x)=1$ for $-\frac{1}{2} \le x \le \frac{1}{2}$ and zero otherwise). Then if $\text{sinc}(x)=\frac{\sin(\pi x)}{\pi x}$, the Fourier Transform of $x(t)+x(-t)$ will be given by
 
 \begin{multicols}{2}
@@ -722,130 +269,6 @@ The system will be
 \end{enumerate}
 \end{multicols}
 \hfill (GATE EE 2008)
-
-
-\item  The block diagrams of two types of half wave rectifiers are shown in the figure. The transfer characteristics of the rectifiers are also shown within the block.
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q42.png}
-    \caption{}
-\end{figure}
-\begin{enumerate}
-\item 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q41-A.png}
-    \caption{}
-\end{figure}
-\item \begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q41-B.png}
-    \caption{}
-\end{figure}
-\item \begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q41-C.png}
-    \caption{}
-\end{figure}
-\item 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q41-D.png}
-    \caption{}
-\end{figure}
-
-\end{enumerate}
-\hfill (GATE EE 2008)
-
-\item A $3$ line to $8$ line decoder, with active low outputs, is used to implement a 3-variable Boolean function as shown in the figure.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q43.png}
-\end{figure}
-
-The simplified form of Boolean function $F(A,B,C)$ implemented in 'Product of Sum' form will be
-
-
-\begin{enumerate}
-    \item $(X+Z).(\bar{X}+\bar{Y}+\bar{Z}).(Y+Z)$
-    \item $(B+\bar{Z}).(X+Y+Z).(\bar{Y}+\bar{Z})$
-    \item $(\bar{X}+\bar{Y}+\bar{Z}).(\bar{X}+Y+Z).(X+\bar{Y}+Z).(X+Y+\bar{Z})$
-    \item $(\bar{X}+\bar{Y}+\bar{Z}).(\bar{X}+Y+\bar{Z}).(X+Y+\bar{Z}).(X+\bar{Y}+\bar{Z})$
-\end{enumerate}
-
-
-\item  The truth table of a monoshot shown in the figure is given in the table below:
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q44.png}
-    \caption{}
-\end{figure}
-
-Two monoshots, one positive edge triggered and other negative edge triggered, are connected as shown in the figure. The pulse widths of the two monoshot outputs, $Q_1$ and $Q_2$, are $T_{ON_1}$ and $T_{ON_2}$, respectively.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\columnwidth]{Fig/q44-2.png}
-    \caption{}
-\end{figure}
-The frequency and the duty cycle of the signal at $Q_1$ will respectively be
-
-\begin{multicols}{2}
-\begin{enumerate}
-    \item $f = \frac{1}{T_{ON_1}+T_{ON_2}}, D = \frac{T_{ON_1}}{T_{ON_1}+T_{ON_2}}$
-    \item $f = \frac{1}{T_{ON_1}+T_{ON_2}}, D = \frac{T_{ON_2}}{T_{ON_1}+T_{ON_2}}$
-    \item $f = \frac{1}{T_{ON_1}}, D = \frac{T_{ON_1}}{T_{ON_1}+T_{ON_2}}$
-    \item $f = \frac{1}{T_{ON_2}}, D = \frac{T_{ON_1}}{T_{ON_1}+T_{ON_2}}$
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-\item 
-The contents (in Hexadecimal) of some of the memory locations in an 8085A based system are given below:
-
-\begin{center}
-\begin{tabular}{|c|c|}
-\hline
-Address & Contents \\
-\hline
-... & ... \\
-\hline
-26FE & 00 \\
-\hline
-26FF & 01 \\
-\hline
-2700 & 02 \\
-\hline
-2701 & 03 \\
-\hline
-2702 & 04 \\
-\hline
-... & ... \\
-\hline
-\end{tabular}
-\end{center}
-
-The contents of stack pointer (SP), program counter (PC) and (H,L) are 2700H, 2100H and 0000H respectively. When the following sequence of instructions are executed,
-\vspace{0.5em}
-\begin{verbatim}
-2100 H: DAD SP
-2101 H: PCHL
-\end{verbatim}
-\vspace{0.5em}
-the contents of (SP) and (PC) at the end of execution will be
-
-\begin{multicols}{2}
-\begin{enumerate}
-    \item (PC) = 2102H, (SP) = 2700H
-    \item (PC) = 2700H, (SP) = 2700H
-    \item (PC) = 2800H, (SP) = 26FEH
-    \item (PC) = 2A02H, (SP) = 2702H
-\end{enumerate}
-\end{multicols}
-\hfill (GATE EE 2008)
-
-
 \item  A
 at waveform point 'P' with generator circuit using OPAMPs is shown in the figure. It produces a triangular wave a peak to peak voltage of 5 V for v; = 0 V
 
