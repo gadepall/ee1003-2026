@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  25 MAR 2026 05:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  25 MAR 2026 05:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1638,11 +1638,7 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 2
 (/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfont
 s/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
-) (./main.aux
-
-LaTeX Warning: Label `fig:q11' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 20.
@@ -2218,18 +2214,13 @@ Package pdftex.def Info: figs/2008/EC/q8.png  used on input line 1307.
 <figs/2008/EC/q11.png, id=735, 622.325pt x 413.545pt>
 File: figs/2008/EC/q11.png Graphic file (type png)
 <use figs/2008/EC/q11.png>
-Package pdftex.def Info: figs/2008/EC/q11.png  used on input line 1347.
-(pdftex.def)             Requested size: 182.09764pt x 121.00401pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1359--1360
-
- []
-
+Package pdftex.def Info: figs/2008/EC/q11.png  used on input line 1345.
+(pdftex.def)             Requested size: 273.14647pt x 181.51233pt.
 <figs/2008/EC/q12.png, id=736, 1165.35374pt x 932.48375pt>
 File: figs/2008/EC/q12.png Graphic file (type png)
 <use figs/2008/EC/q12.png>
-Package pdftex.def Info: figs/2008/EC/q12.png  used on input line 1363.
-(pdftex.def)             Requested size: 345.98442pt x 276.84467pt.
+Package pdftex.def Info: figs/2008/EC/q12.png  used on input line 1361.
+(pdftex.def)             Requested size: 254.9356pt x 203.98032pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2237,71 +2228,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figs/2008/EC/q23.png, id=753, 629.35126pt x 316.18124pt>
 File: figs/2008/EC/q23.png Graphic file (type png)
 <use figs/2008/EC/q23.png>
-Package pdftex.def Info: figs/2008/EC/q23.png  used on input line 1381.
-(pdftex.def)             Requested size: 254.9356pt x 128.07681pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[30 <./figs/2008/EC/q12.png>] [31 <./figs/2008/EC/q23.png>]
-<figs/2008/EC/q38.png, id=787, 1198.4775pt x 798.985pt>
+Package pdftex.def Info: figs/2008/EC/q23.png  used on input line 1380.
+(pdftex.def)             Requested size: 273.14647pt x 137.22412pt.
+[30 <./figs/2008/EC/q12.png> <./figs/2008/EC/q23.png>]
+<figs/2008/EC/q38.png, id=767, 1198.4775pt x 798.985pt>
 File: figs/2008/EC/q38.png Graphic file (type png)
 <use figs/2008/EC/q38.png>
-Package pdftex.def Info: figs/2008/EC/q38.png  used on input line 1460.
+Package pdftex.def Info: figs/2008/EC/q38.png  used on input line 1458.
 (pdftex.def)             Requested size: 327.77354pt x 218.5085pt.
-[32 <./figs/2008/EC/q38.png>]
-<figs/2008/EC/q39.png, id=804, 542.025pt x 164.615pt>
+[31]
+<figs/2008/EC/q39.png, id=794, 542.025pt x 164.615pt>
 File: figs/2008/EC/q39.png Graphic file (type png)
 <use figs/2008/EC/q39.png>
-Package pdftex.def Info: figs/2008/EC/q39.png  used on input line 1478.
+Package pdftex.def Info: figs/2008/EC/q39.png  used on input line 1476.
 (pdftex.def)             Requested size: 182.09764pt x 55.30272pt.
-[33 <./figs/2008/EC/q39.png>]
-<figs/2008/EC/q40.png, id=816, 821.0675pt x 397.485pt>
+[32 <./figs/2008/EC/q38.png> <./figs/2008/EC/q39.png>]
+<figs/2008/EC/q40.png, id=812, 821.0675pt x 397.485pt>
 File: figs/2008/EC/q40.png Graphic file (type png)
 <use figs/2008/EC/q40.png>
-Package pdftex.def Info: figs/2008/EC/q40.png  used on input line 1496.
+Package pdftex.def Info: figs/2008/EC/q40.png  used on input line 1494.
 (pdftex.def)             Requested size: 182.09764pt x 88.15051pt.
-<figs/2008/EC/q43a.png, id=817, 589.20125pt x 255.95625pt>
+<figs/2008/EC/q43a.png, id=813, 589.20125pt x 255.95625pt>
 File: figs/2008/EC/q43a.png Graphic file (type png)
 <use figs/2008/EC/q43a.png>
-Package pdftex.def Info: figs/2008/EC/q43a.png  used on input line 1627.
+Package pdftex.def Info: figs/2008/EC/q43a.png  used on input line 1625.
 (pdftex.def)             Requested size: 291.35735pt x 126.5718pt.
 
-Underfull \vbox (badness 1038) has occurred while \output is active []
+Underfull \vbox (badness 1048) has occurred while \output is active []
 
-[34 <./figs/2008/EC/q40.png>]
-<figs/2008/EC/q43b.png, id=840, 412.54124pt x 429.605pt>
+[33 <./figs/2008/EC/q40.png>]
+<figs/2008/EC/q43b.png, id=836, 412.54124pt x 429.605pt>
 File: figs/2008/EC/q43b.png Graphic file (type png)
 <use figs/2008/EC/q43b.png>
-Package pdftex.def Info: figs/2008/EC/q43b.png  used on input line 1634.
+Package pdftex.def Info: figs/2008/EC/q43b.png  used on input line 1632.
 (pdftex.def)             Requested size: 145.67589pt x 151.70126pt.
-<figs/2008/EC/q47.png, id=841, 930.47626pt x 451.6875pt>
+<figs/2008/EC/q47.png, id=837, 930.47626pt x 451.6875pt>
 File: figs/2008/EC/q47.png Graphic file (type png)
 <use figs/2008/EC/q47.png>
-Package pdftex.def Info: figs/2008/EC/q47.png  used on input line 1659.
+Package pdftex.def Info: figs/2008/EC/q47.png  used on input line 1657.
 (pdftex.def)             Requested size: 182.09764pt x 88.39229pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[35 <./figs/2008/EC/q43a.png> <./figs/2008/EC/q43b.png>]
-<figs/2008/EC/q7475.png, id=855, 676.5275pt x 224.84pt>
+[34 <./figs/2008/EC/q43a.png> <./figs/2008/EC/q43b.png>]
+<figs/2008/EC/q7475.png, id=851, 676.5275pt x 224.84pt>
 File: figs/2008/EC/q7475.png Graphic file (type png)
 <use figs/2008/EC/q7475.png>
-Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1703.
+Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1701.
 (pdftex.def)             Requested size: 218.5194pt x 72.6227pt.
-[36 <./figs/2008/EC/q47.png> <./figs/2008/EC/q7475.png>]) (./GATE/signal/discre
-te.tex [37]
+[35 <./figs/2008/EC/q47.png> <./figs/2008/EC/q7475.png>]) (./GATE/signal/discre
+te.tex [36]
 Underfull \hbox (badness 1648) in paragraph at lines 85--89
 []\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved u
 s-ing the Newton-
  []
 
-<figs/2007/EC/Q2.jpg, id=927, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=922, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
-[38 <./figs/2007/EC/Q2.jpg>] [39]
-<figs/2007/EE/q 36 2007.png, id=1008, 301.125pt x 138.5175pt>
+[37 <./figs/2007/EC/Q2.jpg>] [38]
+<figs/2007/EE/q 36 2007.png, id=1004, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
@@ -2315,18 +2303,18 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 283.
-[40 <./figs/2007/EE/q 36 2007.png (PNG copy)>] [41]
+[39 <./figs/2007/EE/q 36 2007.png (PNG copy)>] [40]
 Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-[42]
-<figs/2007/PI/Q.4.png, id=1120, 112.62074pt x 61.4295pt>
+[41]
+<figs/2007/PI/Q.4.png, id=1116, 112.62074pt x 61.4295pt>
 File: figs/2007/PI/Q.4.png Graphic file (type png)
 <use figs/2007/PI/Q.4.png>
 Package pdftex.def Info: figs/2007/PI/Q.4.png  used on input line 562.
 (pdftex.def)             Requested size: 91.04881pt x 49.66386pt.
-[43 <./figs/2007/PI/Q.4.png>] [44] [45]
+[42 <./figs/2007/PI/Q.4.png>] [43] [44]
 Underfull \hbox (badness 10000) in paragraph at lines 819--820
 
  []
@@ -2346,20 +2334,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 825--826
 
  []
 
-[46] [47]
-<figs/2008/CH/qn5.jpg, id=1329, 582.175pt x 372.39125pt>
+[45] [46]
+<figs/2008/CH/qn5.jpg, id=1325, 582.175pt x 372.39125pt>
 File: figs/2008/CH/qn5.jpg Graphic file (type jpg)
 <use figs/2008/CH/qn5.jpg>
 Package pdftex.def Info: figs/2008/CH/qn5.jpg  used on input line 958.
 (pdftex.def)             Requested size: 91.04881pt x 58.23712pt.
-[48 <./figs/2008/CH/qn5.jpg>] [49]
-<figs/2008/EC/q7879.png, id=1412, 1088.065pt x 281.05pt>
+[47 <./figs/2008/CH/qn5.jpg>] [48]
+<figs/2008/EC/q7879.png, id=1407, 1088.065pt x 281.05pt>
 File: figs/2008/EC/q7879.png Graphic file (type png)
 <use figs/2008/EC/q7879.png>
 Package pdftex.def Info: figs/2008/EC/q7879.png  used on input line 1145.
 (pdftex.def)             Requested size: 218.5194pt x 56.44485pt.
-[50]) (./GATE/opt.tex [51 <./figs/2008/EC/q7879.png>] [52] [53] [54]
-<figs/2007/PI/Q.71.png, id=1564, 329.43076pt x 115.632pt>
+[49]) (./GATE/opt.tex [50 <./figs/2008/EC/q7879.png>] [51] [52] [53]
+<figs/2007/PI/Q.71.png, id=1560, 329.43076pt x 115.632pt>
 File: figs/2007/PI/Q.71.png Graphic file (type png)
 <use figs/2007/PI/Q.71.png>
 Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
@@ -2367,25 +2355,25 @@ Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
 
 Underfull \vbox (badness 3746) has occurred while \output is active []
 
-[55] [56 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex [57]
-<figs/2007/EC/Q74Q75.jpg, id=1667, 1076.02pt x 509.905pt>
+[54] [55 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex [56]
+<figs/2007/EC/Q74Q75.jpg, id=1663, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
-[58 <./figs/2007/EC/Q74Q75.jpg>]
-<figs/2007/EC/Q82Q83.jpg, id=1703, 999.735pt x 433.62pt>
+[57 <./figs/2007/EC/Q74Q75.jpg>]
+<figs/2007/EC/Q82Q83.jpg, id=1699, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 (pdftex.def)             Requested size: 145.67589pt x 63.18095pt.
-[59 <./figs/2007/EC/Q82Q83.jpg>] [60] [61] [62] [63] [64]
-<figs/2008/EC/q24a.png, id=1910, 685.56125pt x 295.1025pt>
+[58 <./figs/2007/EC/Q82Q83.jpg>] [59] [60] [61] [62] [63]
+<figs/2008/EC/q24a.png, id=1906, 685.56125pt x 295.1025pt>
 File: figs/2008/EC/q24a.png Graphic file (type png)
 <use figs/2008/EC/q24a.png>
 Package pdftex.def Info: figs/2008/EC/q24a.png  used on input line 618.
 (pdftex.def)             Requested size: 182.09764pt x 78.3819pt.
-<figs/2008/EC/q24b.png, id=1911, 1189.44376pt x 850.17625pt>
+<figs/2008/EC/q24b.png, id=1907, 1189.44376pt x 850.17625pt>
 File: figs/2008/EC/q24b.png Graphic file (type png)
 <use figs/2008/EC/q24b.png>
 Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 628.
@@ -2393,23 +2381,20 @@ Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 628.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65 <./figs/2008/EC/q24a.png>] [66 <./figs/2008/EC/q24b.png>]) [67] (./main.aux
+[64 <./figs/2008/EC/q24a.png>] [65 <./figs/2008/EC/q24b.png>]) [66] (./main.aux
 )
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
  ) 
 Here is how much of TeX's memory you used:
  57116 strings out of 467525
- 1359323 string characters out of 5404752
- 1958466 words of memory out of 5000000
- 83617 multiletter control sequences out of 15000+600000
+ 1359330 string characters out of 5404752
+ 1958473 words of memory out of 5000000
+ 83618 multiletter control sequences out of 15000+600000
  724804 words of font info for 256 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,16n,118p,1194b,1358s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2427,10 +2412,10 @@ syc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/ty
 pe1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/shar
 e/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (67 pages, 5399599 bytes).
+Output written on main.pdf (66 pages, 5399204 bytes).
 PDF statistics:
- 2354 PDF objects out of 2487 (max. 8388607)
- 2136 compressed objects within 22 object streams
- 1595 named destinations out of 1728 (max. 500000)
+ 2349 PDF objects out of 2487 (max. 8388607)
+ 2132 compressed objects within 22 object streams
+ 1594 named destinations out of 1728 (max. 500000)
  474 words of extra memory for PDF output out of 10000 (max. 10000000)
 
