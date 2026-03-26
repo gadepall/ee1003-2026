@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  26 MAR 2026 05:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Termux) (preloaded format=pdflatex 2026.3.22)  26 MAR 2026 11:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1735,825 +1735,303 @@ File: figs/2008/EC/q7475.png Graphic file (type png)
 Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1691.
 (pdftex.def)             Requested size: 218.5194pt x 72.6227pt.
  [35 <./figs/2008/EC/q47.png> <./figs/2008/EC/q7475.png>]
+<figs/2008/EE/q8.png, id=882, 414.54875pt x 81.30376pt>
+File: figs/2008/EE/q8.png Graphic file (type png)
+<use figs/2008/EE/q8.png>
+Package pdftex.def Info: figs/2008/EE/q8.png  used on input line 1761.
+(pdftex.def)             Requested size: 364.1953pt x 71.4309pt.
+<figs/2008/EE/q8A.png, id=883, 161.10187pt x 92.345pt>
+File: figs/2008/EE/q8A.png Graphic file (type png)
+<use figs/2008/EE/q8A.png>
+Package pdftex.def Info: figs/2008/EE/q8A.png  used on input line 1769.
+(pdftex.def)             Requested size: 364.1953pt x 208.76909pt.
 
-LaTeX Warning: File `Fig/q8.png' not found on input line 1761.
+Underfull \vbox (badness 6204) has occurred while \output is active []
 
-
-./GATE/signal/analog.tex:1761: Package pdftex.def Error: File `Fig/q8.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1761 ...graphics[width=\columnwidth]{Fig/q8.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 1761.
-(/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfonts/ot1txtt.fd
-File: ot1txtt.fd 2000/12/15 v3.1
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-
-LaTeX Warning: File `Fig/q8A.png' not found on input line 1769.
-
-
-./GATE/signal/analog.tex:1769: Package pdftex.def Error: File `Fig/q8A.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1769 ...raphics[width=\columnwidth]{Fig/q8A.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ [36 <./figs/2008/EE/q8.png>]
+<figs/2008/EE/q8C.png, id=911, 143.03438pt x 115.93312pt>
+File: figs/2008/EE/q8C.png Graphic file (type png)
+<use figs/2008/EE/q8C.png>
+Package pdftex.def Info: figs/2008/EE/q8C.png  used on input line 1775.
+(pdftex.def)             Requested size: 364.1953pt x 295.1939pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-
-LaTeX Warning: File `Fig/q8C.png' not found on input line 1775.
-
-
-./GATE/signal/analog.tex:1775: Package pdftex.def Error: File `Fig/q8C.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1775 ...raphics[width=\columnwidth]{Fig/q8C.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ [37 <./figs/2008/EE/q8A.png>]
+File: figs/2008/EE/q8C.png Graphic file (type png)
+<use figs/2008/EE/q8C.png>
+Package pdftex.def Info: figs/2008/EE/q8C.png  used on input line 1781.
+(pdftex.def)             Requested size: 364.1953pt x 295.1939pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
-
-LaTeX Warning: File `Fig/q8C.png' not found on input line 1781.
-
-
-./GATE/signal/analog.tex:1781: Package pdftex.def Error: File `Fig/q8C.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1781 ...raphics[width=\columnwidth]{Fig/q8C.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ [38 <./figs/2008/EE/q8C.png>]
+<figs/2008/EE/q8D.png, id=927, 165.61874pt x 126.4725pt>
+File: figs/2008/EE/q8D.png Graphic file (type png)
+<use figs/2008/EE/q8D.png>
+Package pdftex.def Info: figs/2008/EE/q8D.png  used on input line 1787.
+(pdftex.def)             Requested size: 364.1953pt x 278.1535pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-
-LaTeX Warning: File `Fig/q8D.png' not found on input line 1787.
-
-
-./GATE/signal/analog.tex:1787: Package pdftex.def Error: File `Fig/q8D.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1787 ...raphics[width=\columnwidth]{Fig/q8D.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
 Underfull \hbox (badness 10000) in paragraph at lines 1792--1799
 
  []
 
-
-Underfull \vbox (badness 4441) has occurred while \output is active []
-
- [41]
-
-LaTeX Warning: File `Fig/q21.png' not found on input line 1811.
-
-
-./GATE/signal/analog.tex:1811: Package pdftex.def Error: File `Fig/q21.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1811 ...raphics[width=\columnwidth]{Fig/q21.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `Fig/q22.png' not found on input line 1830.
-
-
-./GATE/signal/analog.tex:1830: Package pdftex.def Error: File `Fig/q22.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1830 ...raphics[width=\columnwidth]{Fig/q22.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<figs/2008/EE/q21.png, id=934, 272.51813pt x 87.82813pt>
+File: figs/2008/EE/q21.png Graphic file (type png)
+<use figs/2008/EE/q21.png>
+Package pdftex.def Info: figs/2008/EE/q21.png  used on input line 1811.
+(pdftex.def)             Requested size: 364.1953pt x 117.38081pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42] [43]
-
-LaTeX Warning: File `Fig/q40.png' not found on input line 1879.
-
-
-./GATE/signal/analog.tex:1879: Package pdftex.def Error: File `Fig/q40.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1879 ...raphics[width=\columnwidth]{Fig/q40.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ [40 <./figs/2008/EE/q8D.png>]
+<figs/2008/EE/q22.png, id=948, 223.33438pt x 117.94063pt>
+File: figs/2008/EE/q22.png Graphic file (type png)
+<use figs/2008/EE/q22.png>
+Package pdftex.def Info: figs/2008/EE/q22.png  used on input line 1830.
+(pdftex.def)             Requested size: 364.1953pt x 192.34587pt.
+ [41 <./figs/2008/EE/q21.png> <./figs/2008/EE/q22.png>]
+<figs/2008/EE/q40.png, id=968, 228.855pt x 115.93312pt>
+File: figs/2008/EE/q40.png Graphic file (type png)
+<use figs/2008/EE/q40.png>
+Package pdftex.def Info: figs/2008/EE/q40.png  used on input line 1879.
+(pdftex.def)             Requested size: 364.1953pt x 184.50082pt.
+ [42 <./figs/2008/EE/q40.png>]
+<figs/2008/EE/q41.png, id=990, 337.76187pt x 115.93312pt>
+File: figs/2008/EE/q41.png Graphic file (type png)
+<use figs/2008/EE/q41.png>
+Package pdftex.def Info: figs/2008/EE/q41.png  used on input line 1897.
+(pdftex.def)             Requested size: 364.1953pt x 125.00954pt.
+<figs/2008/EE/q46.png, id=991, 310.66063pt x 120.95187pt>
+File: figs/2008/EE/q46.png Graphic file (type png)
+<use figs/2008/EE/q46.png>
+Package pdftex.def Info: figs/2008/EE/q46.png  used on input line 1915.
+(pdftex.def)             Requested size: 364.1953pt x 141.79549pt.
+<figs/2008/EE/q46-A.png, id=992, 173.64874pt x 72.77188pt>
+File: figs/2008/EE/q46-A.png Graphic file (type png)
+<use figs/2008/EE/q46-A.png>
+Package pdftex.def Info: figs/2008/EE/q46-A.png  used on input line 1923.
+(pdftex.def)             Requested size: 364.1953pt x 152.64552pt.
+<figs/2008/EE/q46-B.png, id=993, 197.73875pt x 75.78313pt>
+File: figs/2008/EE/q46-B.png Graphic file (type png)
+<use figs/2008/EE/q46-B.png>
+Package pdftex.def Info: figs/2008/EE/q46-B.png  used on input line 1925.
+(pdftex.def)             Requested size: 364.1953pt x 139.59062pt.
+ [43 <./figs/2008/EE/q41.png> <./figs/2008/EE/q46.png>]
+<figs/2008/EE/q46-C.png, id=1013, 167.62625pt x 79.79813pt>
+File: figs/2008/EE/q46-C.png Graphic file (type png)
+<use figs/2008/EE/q46-C.png>
+Package pdftex.def Info: figs/2008/EE/q46-C.png  used on input line 1930.
+(pdftex.def)             Requested size: 364.1953pt x 173.3744pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [44 <./figs/2008/EE/q46-A.png> <./figs/2008/EE/q46-B.png>]
+<figs/2008/EE/q46-D.png, id=1022, 181.17688pt x 69.76062pt>
+File: figs/2008/EE/q46-D.png Graphic file (type png)
+<use figs/2008/EE/q46-D.png>
+Package pdftex.def Info: figs/2008/EE/q46-D.png  used on input line 1935.
+(pdftex.def)             Requested size: 364.1953pt x 140.24576pt.
 
-LaTeX Warning: File `Fig/q41.png' not found on input line 1897.
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1940
 
-
-./GATE/signal/analog.tex:1897: Package pdftex.def Error: File `Fig/q41.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1897 ...raphics[width=\columnwidth]{Fig/q41.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-
-LaTeX Warning: File `Fig/q46.png' not found on input line 1914.
-
-
-./GATE/signal/analog.tex:1914: Package pdftex.def Error: File `Fig/q46.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1914 ...raphics[width=\columnwidth]{Fig/q46.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/analog.tex:1915: Package caption Error: \caption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1915     \caption
-                   {}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1914--1916
- [] 
  []
 
+<figs/2008/EE/q56.png, id=1023, 177.66376pt x 97.86563pt>
+File: figs/2008/EE/q56.png Graphic file (type png)
+<use figs/2008/EE/q56.png>
+Package pdftex.def Info: figs/2008/EE/q56.png  used on input line 1945.
+(pdftex.def)             Requested size: 364.1953pt x 200.6228pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+ [45 <./figs/2008/EE/q46-C.png> <./figs/2008/EE/q46-D.png>]
+<figs/2008/EE/q56-A.png, id=1035, 163.10938pt x 93.85063pt>
+File: figs/2008/EE/q56-A.png Graphic file (type png)
+<use figs/2008/EE/q56-A.png>
+Package pdftex.def Info: figs/2008/EE/q56-A.png  used on input line 1955.
+(pdftex.def)             Requested size: 364.1953pt x 209.57094pt.
+<figs/2008/EE/q56-B.png, id=1036, 170.13562pt x 102.88437pt>
+File: figs/2008/EE/q56-B.png Graphic file (type png)
+<use figs/2008/EE/q56-B.png>
+Package pdftex.def Info: figs/2008/EE/q56-B.png  used on input line 1961.
+(pdftex.def)             Requested size: 364.1953pt x 220.24886pt.
 
-LaTeX Warning: File `Fig/q46-A.png' not found on input line 1921.
+Underfull \vbox (badness 1688) has occurred while \output is active []
 
+ [46 <./figs/2008/EE/q56.png> <./figs/2008/EE/q56-A.png>]
+<figs/2008/EE/q56-C.png, id=1046, 163.10938pt x 96.36pt>
+File: figs/2008/EE/q56-C.png Graphic file (type png)
+<use figs/2008/EE/q56-C.png>
+Package pdftex.def Info: figs/2008/EE/q56-C.png  used on input line 1967.
+(pdftex.def)             Requested size: 364.1953pt x 215.1744pt.
+<figs/2008/EE/q56-D.png, id=1047, 176.66pt x 104.39pt>
+File: figs/2008/EE/q56-D.png Graphic file (type png)
+<use figs/2008/EE/q56-D.png>
+Package pdftex.def Info: figs/2008/EE/q56-D.png  used on input line 1973.
+(pdftex.def)             Requested size: 364.1953pt x 215.20982pt.
+ [47 <./figs/2008/EE/q56-B.png> <./figs/2008/EE/q56-C.png>]
+<figs/2008/EE/q59.png, id=1058, 263.98625pt x 126.4725pt>
+File: figs/2008/EE/q59.png Graphic file (type png)
+<use figs/2008/EE/q59.png>
+Package pdftex.def Info: figs/2008/EE/q59.png  used on input line 1985.
+(pdftex.def)             Requested size: 364.1953pt x 174.4917pt.
+ [48 <./figs/2008/EE/q56-D.png> <./figs/2008/EE/q59.png>]
+<figs/2008/EE/q61.png, id=1069, 242.9075pt x 131.49126pt>
+File: figs/2008/EE/q61.png Graphic file (type png)
+<use figs/2008/EE/q61.png>
+Package pdftex.def Info: figs/2008/EE/q61.png  used on input line 2007.
+(pdftex.def)             Requested size: 364.1953pt x 197.14609pt.
+<figs/2008/EE/q64.png, id=1070, 333.245pt x 117.43875pt>
+File: figs/2008/EE/q64.png Graphic file (type png)
+<use figs/2008/EE/q64.png>
+Package pdftex.def Info: figs/2008/EE/q64.png  used on input line 2042.
+(pdftex.def)             Requested size: 364.1953pt x 128.35512pt.
+ [49 <./figs/2008/EE/q61.png>]
+<figs/2008/EE/q66.png, id=1093, 312.16624pt x 145.04187pt>
+File: figs/2008/EE/q66.png Graphic file (type png)
+<use figs/2008/EE/q66.png>
+Package pdftex.def Info: figs/2008/EE/q66.png  used on input line 2095.
+(pdftex.def)             Requested size: 364.1953pt x 169.22025pt.
 
-./GATE/signal/analog.tex:1921: Package pdftex.def Error: File `Fig/q46-A.png' not found: using draft setting.
+Underfull \vbox (badness 1859) has occurred while \output is active []
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1921 ...phics[width=\columnwidth]{Fig/q46-A.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ [50 <./figs/2008/EE/q64.png>]
+<figs/2008/EE/q67.png, id=1115, 250.43562pt x 74.2775pt>
+File: figs/2008/EE/q67.png Graphic file (type png)
+<use figs/2008/EE/q67.png>
+Package pdftex.def Info: figs/2008/EE/q67.png  used on input line 2116.
+(pdftex.def)             Requested size: 364.1953pt x 108.02942pt.
+ [51 <./figs/2008/EE/q66.png> <./figs/2008/EE/q67.png>]
+<figs/2008/EE/q69.png, id=1135, 152.06813pt x 124.96687pt>
+File: figs/2008/EE/q69.png Graphic file (type png)
+<use figs/2008/EE/q69.png>
+Package pdftex.def Info: figs/2008/EE/q69.png  used on input line 2157.
+(pdftex.def)             Requested size: 364.1953pt x 299.29927pt.
+<figs/2008/EE/q70.png, id=1136, 203.76125pt x 122.4575pt>
+File: figs/2008/EE/q70.png Graphic file (type png)
+<use figs/2008/EE/q70.png>
+Package pdftex.def Info: figs/2008/EE/q70.png  used on input line 2179.
+(pdftex.def)             Requested size: 364.1953pt x 218.88734pt.
 
+Underfull \vbox (badness 1466) has occurred while \output is active []
 
-LaTeX Warning: File `Fig/q46-B.png' not found on input line 1923.
-
-
-./GATE/signal/analog.tex:1923: Package pdftex.def Error: File `Fig/q46-B.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1923 ...phics[width=\columnwidth]{Fig/q46-B.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ [52 <./figs/2008/EE/q69.png>]
+<figs/2008/EE/comp3.png, id=1153, 203.25937pt x 124.96687pt>
+File: figs/2008/EE/comp3.png Graphic file (type png)
+<use figs/2008/EE/comp3.png>
+Package pdftex.def Info: figs/2008/EE/comp3.png  used on input line 2206.
+(pdftex.def)             Requested size: 364.1953pt x 223.92195pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
-Overfull \vbox (227.58844pt too high) has occurred while \output is active []
-
- [49]
-
-LaTeX Warning: File `Fig/q46-C.png' not found on input line 1928.
-
-
-./GATE/signal/analog.tex:1928: Package pdftex.def Error: File `Fig/q46-C.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1928 ...phics[width=\columnwidth]{Fig/q46-C.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `Fig/q46-D.png' not found on input line 1933.
-
-
-./GATE/signal/analog.tex:1933: Package pdftex.def Error: File `Fig/q46-D.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1933 ...phics[width=\columnwidth]{Fig/q46-D.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50]
-Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+ [53 <./figs/2008/EE/q70.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2222
 
  []
 
 
-LaTeX Warning: File `Fig/q56.png' not found on input line 1942.
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
 
-
-./GATE/signal/analog.tex:1942: Package pdftex.def Error: File `Fig/q56.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1942 ...raphics[width=\columnwidth]{Fig/q56.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/analog.tex:1943: Package caption Error: \caption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1943     \caption
-                   {}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1942--1944
- [] 
  []
 
+[54 <./figs/2008/EE/comp3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2258--2259
 
+ []
+
+<figs/2008/EE/q79.png, id=1183, 200.75pt x 64.74188pt>
+File: figs/2008/EE/q79.png Graphic file (type png)
+<use figs/2008/EE/q79.png>
+Package pdftex.def Info: figs/2008/EE/q79.png  used on input line 2264.
+(pdftex.def)             Requested size: 364.1953pt x 117.4708pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2277--2278
+
+ []
+
+<figs/2008/EE/comp4.png, id=1184, 164.11313pt x 95.35625pt>
+File: figs/2008/EE/comp4.png Graphic file (type png)
+<use figs/2008/EE/comp4.png>
+Package pdftex.def Info: figs/2008/EE/comp4.png  used on input line 2286.
+(pdftex.def)             Requested size: 364.1953pt x 211.63515pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2299--2300
+
+ []
+
+<figs/2008/EE/q81.png, id=1185, 170.6375pt x 73.77562pt>
+File: figs/2008/EE/q81.png Graphic file (type png)
+<use figs/2008/EE/q81.png>
+Package pdftex.def Info: figs/2008/EE/q81.png  used on input line 2305.
+(pdftex.def)             Requested size: 364.1953pt x 157.47183pt.
+<figs/2008/EE/q81-A.png, id=1186, 148.05313pt x 83.31125pt>
+File: figs/2008/EE/q81-A.png Graphic file (type png)
+<use figs/2008/EE/q81-A.png>
+Package pdftex.def Info: figs/2008/EE/q81-A.png  used on input line 2314.
+(pdftex.def)             Requested size: 364.1953pt x 204.96603pt.
+
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+ [55 <./figs/2008/EE/q79.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
-
-LaTeX Warning: File `Fig/q56-A.png' not found on input line 1951.
-
-
-./GATE/signal/analog.tex:1951: Package pdftex.def Error: File `Fig/q56-A.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1951 ...phics[width=\columnwidth]{Fig/q56-A.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-
-LaTeX Warning: File `Fig/q56-B.png' not found on input line 1957.
-
-
-./GATE/signal/analog.tex:1957: Package pdftex.def Error: File `Fig/q56-B.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1957 ...phics[width=\columnwidth]{Fig/q56-B.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-
-LaTeX Warning: File `Fig/q56-C.png' not found on input line 1963.
-
-
-./GATE/signal/analog.tex:1963: Package pdftex.def Error: File `Fig/q56-C.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1963 ...phics[width=\columnwidth]{Fig/q56-C.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
-
-LaTeX Warning: File `Fig/q56-D.png' not found on input line 1969.
-
-
-./GATE/signal/analog.tex:1969: Package pdftex.def Error: File `Fig/q56-D.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1969 ...phics[width=\columnwidth]{Fig/q56-D.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [55]
-
-LaTeX Warning: File `Fig/q59.png' not found on input line 1981.
-
-
-./GATE/signal/analog.tex:1981: Package pdftex.def Error: File `Fig/q59.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1981 ...raphics[width=\columnwidth]{Fig/q59.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-
-LaTeX Warning: File `Fig/q61.png' not found on input line 2003.
-
-
-./GATE/signal/analog.tex:2003: Package pdftex.def Error: File `Fig/q61.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2003 ...raphics[width=\columnwidth]{Fig/q61.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
- [57] [58]
-
-LaTeX Warning: File `Fig/q64.png' not found on input line 2038.
-
-
-./GATE/signal/analog.tex:2038: Package pdftex.def Error: File `Fig/q64.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2038 ...raphics[width=\columnwidth]{Fig/q64.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ [56 <./figs/2008/EE/comp4.png> <./figs/2008/EE/q81.png>]
+<figs/2008/EE/q81-B.png, id=1218, 156.585pt x 91.84312pt>
+File: figs/2008/EE/q81-B.png Graphic file (type png)
+<use figs/2008/EE/q81-B.png>
+Package pdftex.def Info: figs/2008/EE/q81-B.png  used on input line 2323.
+(pdftex.def)             Requested size: 364.1953pt x 213.64372pt.
+ [57 <./figs/2008/EE/q81-A.png> <./figs/2008/EE/q81-B.png>]
+<figs/2008/EE/q81-C.png, id=1228, 172.14313pt x 99.37125pt>
+File: figs/2008/EE/q81-C.png Graphic file (type png)
+<use figs/2008/EE/q81-C.png>
+Package pdftex.def Info: figs/2008/EE/q81-C.png  used on input line 2332.
+(pdftex.def)             Requested size: 364.1953pt x 210.25664pt.
+<figs/2008/EE/q81-D.png, id=1229, 170.6375pt x 87.82813pt>
+File: figs/2008/EE/q81-D.png Graphic file (type png)
+<use figs/2008/EE/q81-D.png>
+Package pdftex.def Info: figs/2008/EE/q81-D.png  used on input line 2341.
+(pdftex.def)             Requested size: 364.1953pt x 187.4665pt.
+) (./GATE/signal/discrete.tex [58 <./figs/2008/EE/q81-C.png> <./figs/2008/EE/q81-D.png>]
+Underfull \hbox (badness 1648) in paragraph at lines 85--89
+[]\OT1/txr/m/n/10 The fol-low-ing equa-tion needs to be nu-mer-i-cally solved us-ing the Newton-
+ []
 
 [59]
-
-LaTeX Warning: File `Fig/q66.png' not found on input line 2091.
-
-
-./GATE/signal/analog.tex:2091: Package pdftex.def Error: File `Fig/q66.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2091 ...raphics[width=\columnwidth]{Fig/q66.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60]
-
-LaTeX Warning: File `Fig/q67.png' not found on input line 2112.
-
-
-./GATE/signal/analog.tex:2112: Package pdftex.def Error: File `Fig/q67.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2112 ...raphics[width=\columnwidth]{Fig/q67.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [61] [62]
-
-LaTeX Warning: File `Fig/q69.png' not found on input line 2153.
-
-
-./GATE/signal/analog.tex:2153: Package pdftex.def Error: File `Fig/q69.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2153 ...raphics[width=\columnwidth]{Fig/q69.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[63]
-
-LaTeX Warning: File `Fig/q70.png' not found on input line 2175.
-
-
-./GATE/signal/analog.tex:2175: Package pdftex.def Error: File `Fig/q70.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2175 ...raphics[width=\columnwidth]{Fig/q70.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[64]
-
-LaTeX Warning: File `Fig/comp3.png' not found on input line 2201.
-
-
-./GATE/signal/analog.tex:2201: Package pdftex.def Error: File `Fig/comp3.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2201 ...phics[width=\columnwidth]{Fig/comp3.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/analog.tex:2202: Package caption Error: \caption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2202 \caption
-               {}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 2201--2203
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2215--2216
-
- []
-
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 2226--2227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2252--2253
-
- []
-
-
-LaTeX Warning: File `Fig/q79.png' not found on input line 2258.
-
-
-./GATE/signal/analog.tex:2258: Package pdftex.def Error: File `Fig/q79.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2258 ...raphics[width=\columnwidth]{Fig/q79.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
-
- []
-
-
-LaTeX Warning: File `Fig/comp4.png' not found on input line 2280.
-
-
-./GATE/signal/analog.tex:2280: Package pdftex.def Error: File `Fig/comp4.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2280 ...phics[width=\columnwidth]{Fig/comp4.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2294--2295
-
- []
-
-
-LaTeX Warning: File `Fig/q81.png' not found on input line 2300.
-
-
-./GATE/signal/analog.tex:2300: Package pdftex.def Error: File `Fig/q81.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2300 ...raphics[width=\columnwidth]{Fig/q81.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `Fig/q81-A.png' not found on input line 2308.
-
-
-./GATE/signal/analog.tex:2308: Package pdftex.def Error: File `Fig/q81-A.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2308 ...phics[width=\columnwidth]{Fig/q81-A.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[66]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [67]
-Overfull \vbox (244.98859pt too high) has occurred while \output is active []
-
- [68]
-
-LaTeX Warning: File `Fig/q81-B.png' not found on input line 2315.
-
-
-./GATE/signal/analog.tex:2315: Package pdftex.def Error: File `Fig/q81-B.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2315 ...phics[width=\columnwidth]{Fig/q81-B.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
-
-LaTeX Warning: File `Fig/q81-C.png' not found on input line 2321.
-
-
-./GATE/signal/analog.tex:2321: Package pdftex.def Error: File `Fig/q81-C.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2321 ...phics[width=\columnwidth]{Fig/q81-C.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [70]
-
-LaTeX Warning: File `Fig/q81-D.png' not found on input line 2328.
-
-
-./GATE/signal/analog.tex:2328: Package pdftex.def Error: File `Fig/q81-D.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2328 ...phics[width=\columnwidth]{Fig/q81-D.png}
-                                                  \caption{}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71]
-Underfull \hbox (badness 10000) in paragraph at lines 2335--2337
-
- []
-
-
-./GATE/signal/analog.tex:2340: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2340 \end{enumerate}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./GATE/signal/discrete.tex [72] [73]
-<figs/2007/EC/Q2.jpg, id=1277, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=1281, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 145.67589pt x 95.48969pt.
- [74 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=1320, 301.125pt x 138.5175pt>
+ [60 <./figs/2007/EC/Q2.jpg>]
+<figs/2007/EE/q 36 2007.png, id=1324, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
 (pdftex.def)             Requested size: 145.67589pt x 67.01392pt.
- [75 <./figs/2007/EE/q 36 2007.png (PNG copy)>]
+ [61 <./figs/2007/EE/q 36 2007.png (PNG copy)>]
 LaTeX Font Info:    Trying to load font information for OMS+txr on input line 283.
  (/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 283.
- [76] [77]
+ [62] [63] [64]
 Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-[78]
-<figs/2007/PI/Q.4.png, id=1467, 112.62074pt x 61.4295pt>
+[65]
+<figs/2007/PI/Q.4.png, id=1480, 112.62074pt x 61.4295pt>
 File: figs/2007/PI/Q.4.png Graphic file (type png)
 <use figs/2007/PI/Q.4.png>
 Package pdftex.def Info: figs/2007/PI/Q.4.png  used on input line 562.
 (pdftex.def)             Requested size: 91.04881pt x 49.66386pt.
- [79 <./figs/2007/PI/Q.4.png>]
-
-./GATE/signal/discrete.tex:635: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.635         \item
-                    $\frac{\pi^2}{3} + 4 \sum_{n=1}^{\infty} \frac{\cos nx}{...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/discrete.tex:646: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.646         \item
-                    $\frac{\pi^2}{6}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/discrete.tex:659: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.659         \item
-                    0
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/discrete.tex:668: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.668         \item
-                    $y(x) = 1 + \frac{x^2}{2! \cdot 3} - \frac{x^4}{2 \cdot ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[80] [81]
-Overfull \hbox (22.98715pt too wide) in paragraph at lines 789--792
-[]\OT1/txr/m/n/10 Quadrature for-mula: $[][] \OML/txmi/m/it/10 f\OT1/txr/m/n/10 (\OML/txmi/m/it/10 x\OT1/txr/m/n/10 ) \OML/txmi/m/it/10 dx \OMS/txsy/m/n/10 ^^Y [] []$\OT1/txr/m/n/10 .
- []
-
-
+ [66 <./figs/2007/PI/Q.4.png>] [67] [68]
 Underfull \hbox (badness 10000) in paragraph at lines 816--817
 
  []
@@ -2573,213 +2051,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 822--823
 
  []
 
-[82]
-<figs/2008/CH/qn5.jpg, id=1641, 582.175pt x 372.39125pt>
+[69]
+<figs/2008/CH/qn5.jpg, id=1658, 582.175pt x 372.39125pt>
 File: figs/2008/CH/qn5.jpg Graphic file (type jpg)
 <use figs/2008/CH/qn5.jpg>
 Package pdftex.def Info: figs/2008/CH/qn5.jpg  used on input line 955.
 (pdftex.def)             Requested size: 91.04881pt x 58.23712pt.
- [83] [84 <./figs/2008/CH/qn5.jpg>]
-
-./GATE/signal/discrete.tex:1049: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1049 \begin
-             {multicols}{4}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/discrete.tex:1059: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1059 \begin
-             {multicols}{4}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ [70 <./figs/2008/CH/qn5.jpg>] [71]
+Underfull \hbox (badness 8075) in paragraph at lines 1083--1084
+[]$\OML/txmi/m/it/10 x[] \OT1/txr/m/n/10 = (1 +
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
 []$\OML/txmi/m/it/10 x[] \OT1/txr/m/n/10 =
  []
 
-[85]
-<figs/2008/EC/q7879.png, id=1758, 1088.065pt x 281.05pt>
+[72]
+<figs/2008/EC/q7879.png, id=1779, 1088.065pt x 281.05pt>
 File: figs/2008/EC/q7879.png Graphic file (type png)
 <use figs/2008/EC/q7879.png>
 Package pdftex.def Info: figs/2008/EC/q7879.png  used on input line 1138.
 (pdftex.def)             Requested size: 218.5194pt x 56.44485pt.
-
-
-./GATE/signal/discrete.tex:1148: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1148   \item
-               $5 \left( 1 - e^{-0.05 n} \right)$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/signal/discrete.tex:1157: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1157   \item
-               $\frac{5z}{z-e^{5}};~ |z|<e^{5}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[86 <./figs/2008/EC/q7879.png>]) (./GATE/opt.tex [87] [88] [89] [90]
-<figs/2007/PI/Q.71.png, id=1910, 329.43076pt x 115.632pt>
+) (./GATE/opt.tex [73 <./figs/2008/EC/q7879.png>] [74] [75] [76]
+<figs/2007/PI/Q.71.png, id=1909, 329.43076pt x 115.632pt>
 File: figs/2007/PI/Q.71.png Graphic file (type png)
 <use figs/2007/PI/Q.71.png>
 Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
 (pdftex.def)             Requested size: 364.1953pt x 127.84312pt.
-
-
-./GATE/opt.tex:358: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.358     \begin
-                {multicols}{4}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/opt.tex:370: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.370     \begin
-                {multicols}{2}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[91 <./figs/2007/PI/Q.71.png>]
-
-./GATE/opt.tex:381: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.381 \begin
-            {multicols}{4}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[92]) (./GATE/prob.tex [93]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-[]$\OML/txmi/m/it/10 S\OT1/txr/m/n/10 (\OMS/txsy/m/n/10 ^^@\OML/txmi/m/it/10 f\OT1/txr/m/n/10 ) =
- []
-
-<figs/2007/EC/Q74Q75.jpg, id=2018, 1076.02pt x 509.905pt>
+ [77] [78 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex [79]
+<figs/2007/EC/Q74Q75.jpg, id=2012, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 (pdftex.def)             Requested size: 218.5194pt x 103.55084pt.
-
-./GATE/prob.tex:114: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114   \item
-              $4a^2$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/prob.tex:124: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.124   \item
-              Probability of symbol error for Constellation 1 is lower
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<figs/2007/EC/Q82Q83.jpg, id=2019, 999.735pt x 433.62pt>
+ [80 <./figs/2007/EC/Q74Q75.jpg>]
+<figs/2007/EC/Q82Q83.jpg, id=2048, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 (pdftex.def)             Requested size: 145.67589pt x 63.18095pt.
-[94 <./figs/2007/EC/Q74Q75.jpg>]
-
-./GATE/prob.tex:145: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.145   \item
-              $a=\tfrac{1}{6},\ b=\tfrac{1}{12}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/prob.tex:156: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.156   \item
-              $\frac{152}{9}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[95 <./figs/2007/EC/Q82Q83.jpg>] [96]
-
-./GATE/prob.tex:342: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.342         \item
-                     $\dfrac{1}{2}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/prob.tex:351: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.351         \item
-                    $\dfrac{1}{2}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[97] [98] [99] [100]
-<figs/2008/EC/q24a.png, id=2251, 685.56125pt x 295.1025pt>
+ [81 <./figs/2007/EC/Q82Q83.jpg>] [82] [83] [84] [85] [86]
+<figs/2008/EC/q24a.png, id=2255, 685.56125pt x 295.1025pt>
 File: figs/2008/EC/q24a.png Graphic file (type png)
 <use figs/2008/EC/q24a.png>
 Package pdftex.def Info: figs/2008/EC/q24a.png  used on input line 617.
 (pdftex.def)             Requested size: 182.09764pt x 78.3819pt.
-<figs/2008/EC/q24b.png, id=2252, 1189.44376pt x 850.17625pt>
+<figs/2008/EC/q24b.png, id=2256, 1189.44376pt x 850.17625pt>
 File: figs/2008/EC/q24b.png Graphic file (type png)
 <use figs/2008/EC/q24b.png>
 Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 624.
@@ -2787,87 +2105,27 @@ Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 624.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101 <./figs/2008/EC/q24a.png>] [102 <./figs/2008/EC/q24b.png>]
-
-./GATE/prob.tex:667: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.667   \item
-              64 kHz
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/prob.tex:678: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.678   \item
-              16 dB
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./GATE/prob.tex:689: LaTeX Error: Too deeply nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.689   \item
-              1024
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) [103]
-
-./main.tex:99: LaTeX Error: \begin{enumerate} on input line 2284 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-(./main.aux)
+ [87 <./figs/2008/EC/q24a.png>] [88 <./figs/2008/EC/q24b.png>]) [89] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 13F582A711FC859D497F560620D2498C;516.
- )
-(\end occurred inside a group at level 2)
-
-### semi simple group (level 2) entered at line 2284 (\begingroup)
-### semi simple group (level 1) entered at line 1 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 58365 strings out of 467525
- 1383882 string characters out of 5404752
- 1958379 words of memory out of 5000000
- 84639 multiletter control sequences out of 15000+600000
- 725080 words of font info for 257 fonts, out of 8000000 for 9000
+ 57568 strings out of 467525
+ 1368060 string characters out of 5404752
+ 1958681 words of memory out of 5000000
+ 83858 multiletter control sequences out of 15000+600000
+ 724804 words of font info for 256 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,16n,118p,1194b,1752s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txex.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (103 pages, 5436153 bytes).
+ 109i,16n,118p,1194b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txex.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (89 pages, 7213513 bytes).
 PDF statistics:
- 2744 PDF objects out of 2984 (max. 8388607)
- 2485 compressed objects within 25 object streams
- 1818 named destinations out of 2073 (max. 500000)
- 474 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2746 PDF objects out of 2984 (max. 8388607)
+ 2437 compressed objects within 25 object streams
+ 1806 named destinations out of 2073 (max. 500000)
+ 639 words of extra memory for PDF output out of 10000 (max. 10000000)
 
