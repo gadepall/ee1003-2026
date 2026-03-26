@@ -1054,6 +1054,10 @@ INPUT ./figs/2008/EC/q7475.png
 INPUT ./figs/2008/EC/q7475.png
 INPUT ./figs/2008/EC/q7475.png
 INPUT ./figs/2008/EC/q7475.png
+INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/tfm/public/txfonts/txtt.tfm
 INPUT ./GATE/signal/discrete.tex
 INPUT ./GATE/signal/discrete.tex
 INPUT GATE/signal/discrete.tex
@@ -1127,6 +1131,7 @@ INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsy.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb
+INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/public/txfonts/txtt.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
 INPUT /data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
