@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 0 "main.idx" "main.ind" "main" 1774859025.4748 -1
-  "main.idx" 1774859019 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 0 "main.idx" "main.ind" "main" 1775188584.24491 -1
+  "main.idx" 1775188578 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1774859015.39089 "main.tex" "main.pdf" "main" 1774859025.4761 0
+["pdflatex"] 1775188574.94299 "main.tex" "main.pdf" "main" 1775188584.24673 0
   "/data/data/com.termux/files/usr/share/texlive/2026.0/texmf-dist/web2c/texmf.cnf" 1773808578 43838 788b409ca7f6d70214933fbc221adf76 ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/data/data/com.termux/files/usr/share/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -310,7 +310,7 @@
   "GATE/opt.tex" 1774857620 14948 f02954e3917097984cca14afcb075bc3 ""
   "GATE/prob.tex" 1774856977 23962 f6cb1ea139a80c41af5ef999c1a33c14 ""
   "GATE/signal/analog.tex" 1774859014 86951 83d638fc47606ecb884ee0ec7ef2ff0e ""
-  "GATE/signal/discrete.tex" 1774858572 39701 04117a87bcd334cbd02c4abeede26217 ""
+  "GATE/signal/discrete.tex" 1775188574 40094 ddb1e1f704235e317dff52b5042ade96 ""
   "figs/2007/EC/Q11.png" 1774258099 166441 d503854e28a0376c6eef4c165a9e1f84 ""
   "figs/2007/EC/Q2.jpg" 1774258099 21626 1676991d20bea2c4103091a5a8656b7d ""
   "figs/2007/EC/Q28.png" 1774258099 48246 f6963b6479b77d0f303fb8efbd1beaf1 ""
@@ -428,11 +428,11 @@
   "figs/q74-75.tex" 1774258100 1001 f458501df84158805ed30c7823f51a81 ""
   "gvv-book.sty" 1774258100 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1774258100 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1774859025 24943 94e1210a8ef1c42c03e03b2483f917c3 "pdflatex"
+  "main.aux" 1775188583 24943 94e1210a8ef1c42c03e03b2483f917c3 "pdflatex"
   "main.ind" 1774415438 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1774859025 516 13f582a711fc859d497f560620d2498c "pdflatex"
+  "main.out" 1775188583 516 13f582a711fc859d497f560620d2498c "pdflatex"
   "main.tex" 1774857732 2535 a590ceff5b496a549a56da489536e36a ""
-  "main.toc" 1774859025 357 67bc983889e7977f18f7f3bf144d0e3b "pdflatex"
+  "main.toc" 1775188583 357 67bc983889e7977f18f7f3bf144d0e3b "pdflatex"
   (generated)
   "main.aux"
   "main.idx"
