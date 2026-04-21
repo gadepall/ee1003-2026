@@ -8,3 +8,4 @@
 \contentsline {section}{\numberline {6}Topology}{87}{section.6}%
 \contentsline {section}{\numberline {7}Differential Equations}{87}{section.7}%
 \contentsline {section}{\numberline {8}Complex Analysis}{87}{section.8}%
+\contentsline {section}{\numberline {9}Algebra}{88}{section.9}%

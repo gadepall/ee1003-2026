@@ -1382,6 +1382,9 @@ INPUT GATE/diff.tex
 INPUT ./GATE/complex.tex
 INPUT ./GATE/complex.tex
 INPUT GATE/complex.tex
+INPUT ./GATE/abstract.tex
+INPUT ./GATE/abstract.tex
+INPUT GATE/abstract.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

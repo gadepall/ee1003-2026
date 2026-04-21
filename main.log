@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  21 APR 2026 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  21 APR 2026 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1823,7 +1823,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count405
-<figs/logo.jpg, id=71, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=75, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1883,7 +1883,7 @@ File: utxsyc.fd 2000/12/15 v3.1
 [4
 
 ]
-<figs/2007/EC/Q8.png, id=142, 219.06844pt x 119.69719pt>
+<figs/2007/EC/Q8.png, id=147, 219.06844pt x 119.69719pt>
 File: figs/2007/EC/Q8.png Graphic file (type png)
 <use figs/2007/EC/Q8.png>
 Package pdftex.def Info: figs/2007/EC/Q8.png  used on input line 142.
@@ -1891,12 +1891,12 @@ Package pdftex.def Info: figs/2007/EC/Q8.png  used on input line 142.
 
 
 [5 <./figs/2007/EC/Q8.png>]
-<figs/2007/EC/Q11.png, id=178, 511.15968pt x 306.39468pt>
+<figs/2007/EC/Q11.png, id=183, 511.15968pt x 306.39468pt>
 File: figs/2007/EC/Q11.png Graphic file (type png)
 <use figs/2007/EC/Q11.png>
 Package pdftex.def Info: figs/2007/EC/Q11.png  used on input line 159.
 (pdftex.def)             Requested size: 273.14647pt x 163.72551pt.
-<figs/2007/EC/Q28.png, id=179, 349.305pt x 124.21407pt>
+<figs/2007/EC/Q28.png, id=184, 349.305pt x 124.21407pt>
 File: figs/2007/EC/Q28.png Graphic file (type png)
 <use figs/2007/EC/Q28.png>
 Package pdftex.def Info: figs/2007/EC/Q28.png  used on input line 199.
@@ -1904,12 +1904,12 @@ Package pdftex.def Info: figs/2007/EC/Q28.png  used on input line 199.
 
 
 [6 <./figs/2007/EC/Q11.png>]
-<figs/2007/EC/Q30.png, id=203, 228.10219pt x 100.87688pt>
+<figs/2007/EC/Q30.png, id=208, 228.10219pt x 100.87688pt>
 File: figs/2007/EC/Q30.png Graphic file (type png)
 <use figs/2007/EC/Q30.png>
 Package pdftex.def Info: figs/2007/EC/Q30.png  used on input line 219.
 (pdftex.def)             Requested size: 182.09764pt x 80.53381pt.
-<figs/2007/EC/Q52.jpg, id=204, 1084.05pt x 333.245pt>
+<figs/2007/EC/Q52.jpg, id=209, 1084.05pt x 333.245pt>
 File: figs/2007/EC/Q52.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q52.jpg>
 Package pdftex.def Info: figs/2007/EC/Q52.jpg  used on input line 272.
@@ -1919,7 +1919,7 @@ Package pdftex.def Info: figs/2007/EC/Q52.jpg  used on input line 272.
 [7 <./figs/2007/EC/Q28.png> <./figs/2007/EC/Q30.png>]
 
 [8 <./figs/2007/EC/Q52.jpg>]
-<figs/2007/EC/Q76Q77.jpg, id=269, 1084.05pt x 618.31pt>
+<figs/2007/EC/Q76Q77.jpg, id=275, 1084.05pt x 618.31pt>
 File: figs/2007/EC/Q76Q77.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q76Q77.jpg>
 Package pdftex.def Info: figs/2007/EC/Q76Q77.jpg  used on input line 394.
@@ -1929,12 +1929,12 @@ LaTeX Font Info:    Calculating math sizes for size <14> on input line 454.
 
 
 [9 <./figs/2007/EC/Q76Q77.jpg>]
-<figs/2007/EE/Q 10.png, id=302, 633.36626pt x 575.14874pt>
+<figs/2007/EE/Q 10.png, id=307, 633.36626pt x 575.14874pt>
 File: figs/2007/EE/Q 10.png Graphic file (type png)
 <use figs/2007/EE/Q 10.png>
 Package pdftex.def Info: figs/2007/EE/Q 10.png  used on input line 474.
 (pdftex.def)             Requested size: 273.14647pt x 248.04633pt.
-<figs/2007/EE/Q 17.png, id=303, 462.72874pt x 291.0875pt>
+<figs/2007/EE/Q 17.png, id=308, 462.72874pt x 291.0875pt>
 File: figs/2007/EE/Q 17.png Graphic file (type png)
 <use figs/2007/EE/Q 17.png>
 Package pdftex.def Info: figs/2007/EE/Q 17.png  used on input line 482.
@@ -1947,17 +1947,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [10 <./figs/2007/EE/Q 10.png (PNG copy)>]
 
 [11 <./figs/2007/EE/Q 17.png (PNG copy)>]
-<figs/2007/EE/Q 61.png, id=336, 258.9675pt x 149.55875pt>
+<figs/2007/EE/Q 61.png, id=341, 258.9675pt x 149.55875pt>
 File: figs/2007/EE/Q 61.png Graphic file (type png)
 <use figs/2007/EE/Q 61.png>
 Package pdftex.def Info: figs/2007/EE/Q 61.png  used on input line 539.
 (pdftex.def)             Requested size: 109.25969pt x 63.0995pt.
-<figs/2007/EE/Q 62 Q.png, id=337, 179.67125pt x 138.5175pt>
+<figs/2007/EE/Q 62 Q.png, id=342, 179.67125pt x 138.5175pt>
 File: figs/2007/EE/Q 62 Q.png Graphic file (type png)
 <use figs/2007/EE/Q 62 Q.png>
 Package pdftex.def Info: figs/2007/EE/Q 62 Q.png  used on input line 556.
 (pdftex.def)             Requested size: 109.25969pt x 84.23557pt.
-<figs/2007/EE/Q 62.png, id=338, 540.0175pt x 513.92pt>
+<figs/2007/EE/Q 62.png, id=343, 540.0175pt x 513.92pt>
 File: figs/2007/EE/Q 62.png Graphic file (type png)
 <use figs/2007/EE/Q 62.png>
 Package pdftex.def Info: figs/2007/EE/Q 62.png  used on input line 560.
@@ -1969,7 +1969,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [12 <./figs/2007/EE/Q 61.png (PNG copy)> <./figs/2007/EE/Q 62 Q.png (PNG copy)>
 ]
-<figs/2007/EE/Q 39 2007.png, id=355, 641.39626pt x 547.04375pt>
+<figs/2007/EE/Q 39 2007.png, id=360, 641.39626pt x 547.04375pt>
 File: figs/2007/EE/Q 39 2007.png Graphic file (type png)
 <use figs/2007/EE/Q 39 2007.png>
 Package pdftex.def Info: figs/2007/EE/Q 39 2007.png  used on input line 575.
@@ -1980,7 +1980,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [13 <./figs/2007/EE/Q 62.png (PNG copy)>]
-<figs/2007/EE/Q 50 2007.png, id=368, 374.39874pt x 170.6375pt>
+<figs/2007/EE/Q 50 2007.png, id=373, 374.39874pt x 170.6375pt>
 File: figs/2007/EE/Q 50 2007.png Graphic file (type png)
 <use figs/2007/EE/Q 50 2007.png>
 Package pdftex.def Info: figs/2007/EE/Q 50 2007.png  used on input line 601.
@@ -1991,12 +1991,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [14 <./figs/2007/EE/Q 39 2007.png (PNG copy)>]
-<figs/2007/EE/Q 65.png, id=384, 610.28pt x 237.88875pt>
+<figs/2007/EE/Q 65.png, id=390, 610.28pt x 237.88875pt>
 File: figs/2007/EE/Q 65.png Graphic file (type png)
 <use figs/2007/EE/Q 65.png>
 Package pdftex.def Info: figs/2007/EE/Q 65.png  used on input line 624.
 (pdftex.def)             Requested size: 182.09764pt x 70.98239pt.
-<figs/2007/EE/Q 80,81.png, id=385, 222.8325pt x 116.435pt>
+<figs/2007/EE/Q 80,81.png, id=391, 222.8325pt x 116.435pt>
 File: figs/2007/EE/Q 80,81.png Graphic file (type png)
 <use figs/2007/EE/Q 80,81.png>
 Package pdftex.def Info: figs/2007/EE/Q 80,81.png  used on input line 638.
@@ -2008,7 +2008,7 @@ Underfull \vbox (badness 1028) has occurred while \output is active []
 
 [15 <./figs/2007/EE/Q 50 2007.png (PNG copy)> <./figs/2007/EE/Q 65.png (PNG cop
 y)>]
-<figs/2007/in/10.jpg, id=408, 489.32813pt x 279.29344pt>
+<figs/2007/in/10.jpg, id=413, 489.32813pt x 279.29344pt>
 File: figs/2007/in/10.jpg Graphic file (type jpg)
 <use figs/2007/in/10.jpg>
 Package pdftex.def Info: figs/2007/in/10.jpg  used on input line 683.
@@ -2016,12 +2016,12 @@ Package pdftex.def Info: figs/2007/in/10.jpg  used on input line 683.
 
 
 [16 <./figs/2007/EE/Q 80,81.png (PNG copy)> <./figs/2007/in/10.jpg>]
-<figs/2007/in/11.jpg, id=436, 576.65437pt x 140.02313pt>
+<figs/2007/in/11.jpg, id=441, 576.65437pt x 140.02313pt>
 File: figs/2007/in/11.jpg Graphic file (type jpg)
 <use figs/2007/in/11.jpg>
 Package pdftex.def Info: figs/2007/in/11.jpg  used on input line 700.
 (pdftex.def)             Requested size: 218.5194pt x 53.0619pt.
-<figs/2007/in/20.jpg, id=437, 493.0922pt x 170.88844pt>
+<figs/2007/in/20.jpg, id=442, 493.0922pt x 170.88844pt>
 File: figs/2007/in/20.jpg Graphic file (type jpg)
 <use figs/2007/in/20.jpg>
 Package pdftex.def Info: figs/2007/in/20.jpg  used on input line 743.
@@ -2032,12 +2032,12 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 
 
 [17 <./figs/2007/in/11.jpg>]
-<figs/2007/in/21.jpg, id=464, 333.49594pt x 213.04594pt>
+<figs/2007/in/21.jpg, id=469, 333.49594pt x 213.04594pt>
 File: figs/2007/in/21.jpg Graphic file (type jpg)
 <use figs/2007/in/21.jpg>
 Package pdftex.def Info: figs/2007/in/21.jpg  used on input line 759.
 (pdftex.def)             Requested size: 218.5194pt x 139.59975pt.
-<figs/2007/in/33.jpg, id=465, 415.5525pt x 247.67531pt>
+<figs/2007/in/33.jpg, id=470, 415.5525pt x 247.67531pt>
 File: figs/2007/in/33.jpg Graphic file (type jpg)
 <use figs/2007/in/33.jpg>
 Package pdftex.def Info: figs/2007/in/33.jpg  used on input line 775.
@@ -2048,7 +2048,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [18 <./figs/2007/in/20.jpg> <./figs/2007/in/21.jpg>]
-<figs/2007/in/34.jpg, id=482, 293.59688pt x 208.52907pt>
+<figs/2007/in/34.jpg, id=487, 293.59688pt x 208.52907pt>
 File: figs/2007/in/34.jpg Graphic file (type jpg)
 <use figs/2007/in/34.jpg>
 Package pdftex.def Info: figs/2007/in/34.jpg  used on input line 785.
@@ -2058,7 +2058,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 786.
 See the caption package documentation for explanation.
 
-<figs/2007/in/35.jpg, id=483, 304.88907pt x 202.50656pt>
+<figs/2007/in/35.jpg, id=488, 304.88907pt x 202.50656pt>
 File: figs/2007/in/35.jpg Graphic file (type jpg)
 <use figs/2007/in/35.jpg>
 Package pdftex.def Info: figs/2007/in/35.jpg  used on input line 792.
@@ -2068,7 +2068,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 793.
 See the caption package documentation for explanation.
 
-<figs/2007/in/36.jpg, id=484, 296.60812pt x 206.27063pt>
+<figs/2007/in/36.jpg, id=489, 296.60812pt x 206.27063pt>
 File: figs/2007/in/36.jpg Graphic file (type jpg)
 <use figs/2007/in/36.jpg>
 Package pdftex.def Info: figs/2007/in/36.jpg  used on input line 799.
@@ -2078,7 +2078,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 800.
 See the caption package documentation for explanation.
 
-<figs/2007/in/37.jpg, id=485, 297.36093pt x 211.54031pt>
+<figs/2007/in/37.jpg, id=490, 297.36093pt x 211.54031pt>
 File: figs/2007/in/37.jpg Graphic file (type jpg)
 <use figs/2007/in/37.jpg>
 Package pdftex.def Info: figs/2007/in/37.jpg  used on input line 806.
@@ -2088,7 +2088,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 807.
 See the caption package documentation for explanation.
 
-<figs/2007/in/41.jpg, id=486, 223.58531pt x 155.83218pt>
+<figs/2007/in/41.jpg, id=491, 223.58531pt x 155.83218pt>
 File: figs/2007/in/41.jpg Graphic file (type jpg)
 <use figs/2007/in/41.jpg>
 Package pdftex.def Info: figs/2007/in/41.jpg  used on input line 816.
@@ -2097,17 +2097,17 @@ Package pdftex.def Info: figs/2007/in/41.jpg  used on input line 816.
 
 [19 <./figs/2007/in/33.jpg> <./figs/2007/in/34.jpg> <./figs/2007/in/35.jpg> <./
 figs/2007/in/36.jpg> <./figs/2007/in/37.jpg> <./figs/2007/in/41.jpg>]
-<figs/2007/in/42.jpg, id=503, 252.19218pt x 101.62968pt>
+<figs/2007/in/42.jpg, id=509, 252.19218pt x 101.62968pt>
 File: figs/2007/in/42.jpg Graphic file (type jpg)
 <use figs/2007/in/42.jpg>
 Package pdftex.def Info: figs/2007/in/42.jpg  used on input line 833.
 (pdftex.def)             Requested size: 218.5194pt x 88.06042pt.
-<figs/2007/in/43.jpg, id=504, 249.93375pt x 121.20282pt>
+<figs/2007/in/43.jpg, id=510, 249.93375pt x 121.20282pt>
 File: figs/2007/in/43.jpg Graphic file (type jpg)
 <use figs/2007/in/43.jpg>
 Package pdftex.def Info: figs/2007/in/43.jpg  used on input line 839.
 (pdftex.def)             Requested size: 218.5194pt x 105.97267pt.
-<figs/2007/in/44.jpg, id=505, 272.51813pt x 183.68625pt>
+<figs/2007/in/44.jpg, id=511, 272.51813pt x 183.68625pt>
 File: figs/2007/in/44.jpg Graphic file (type jpg)
 <use figs/2007/in/44.jpg>
 Package pdftex.def Info: figs/2007/in/44.jpg  used on input line 849.
@@ -2117,7 +2117,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 850.
 See the caption package documentation for explanation.
 
-<figs/2007/in/45.jpg, id=506, 338.76563pt x 167.87718pt>
+<figs/2007/in/45.jpg, id=512, 338.76563pt x 167.87718pt>
 File: figs/2007/in/45.jpg Graphic file (type jpg)
 <use figs/2007/in/45.jpg>
 Package pdftex.def Info: figs/2007/in/45.jpg  used on input line 856.
@@ -2127,7 +2127,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 857.
 See the caption package documentation for explanation.
 
-<figs/2007/in/46.jpg, id=507, 265.74281pt x 159.59625pt>
+<figs/2007/in/46.jpg, id=513, 265.74281pt x 159.59625pt>
 File: figs/2007/in/46.jpg Graphic file (type jpg)
 <use figs/2007/in/46.jpg>
 Package pdftex.def Info: figs/2007/in/46.jpg  used on input line 863.
@@ -2137,7 +2137,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 864.
 See the caption package documentation for explanation.
 
-<figs/2007/in/47.jpg, id=508, 266.49562pt x 158.84344pt>
+<figs/2007/in/47.jpg, id=514, 266.49562pt x 158.84344pt>
 File: figs/2007/in/47.jpg Graphic file (type jpg)
 <use figs/2007/in/47.jpg>
 Package pdftex.def Info: figs/2007/in/47.jpg  used on input line 870.
@@ -2151,12 +2151,12 @@ See the caption package documentation for explanation.
 
 [20 <./figs/2007/in/42.jpg> <./figs/2007/in/43.jpg> <./figs/2007/in/44.jpg> <./
 figs/2007/in/45.jpg> <./figs/2007/in/46.jpg> <./figs/2007/in/47.jpg>]
-<figs/2007/in/52.jpg, id=530, 417.81094pt x 142.28156pt>
+<figs/2007/in/52.jpg, id=535, 417.81094pt x 142.28156pt>
 File: figs/2007/in/52.jpg Graphic file (type jpg)
 <use figs/2007/in/52.jpg>
 Package pdftex.def Info: figs/2007/in/52.jpg  used on input line 890.
 (pdftex.def)             Requested size: 218.5194pt x 74.41669pt.
-<figs/2007/in/53.jpg, id=531, 211.54031pt x 185.19188pt>
+<figs/2007/in/53.jpg, id=536, 211.54031pt x 185.19188pt>
 File: figs/2007/in/53.jpg Graphic file (type jpg)
 <use figs/2007/in/53.jpg>
 Package pdftex.def Info: figs/2007/in/53.jpg  used on input line 910.
@@ -2164,7 +2164,7 @@ Package pdftex.def Info: figs/2007/in/53.jpg  used on input line 910.
 
 
 [21 <./figs/2007/in/52.jpg> <./figs/2007/in/53.jpg>]
-<figs/2007/in/54.jpg, id=548, 167.12437pt x 160.34906pt>
+<figs/2007/in/54.jpg, id=553, 167.12437pt x 160.34906pt>
 File: figs/2007/in/54.jpg Graphic file (type jpg)
 <use figs/2007/in/54.jpg>
 Package pdftex.def Info: figs/2007/in/54.jpg  used on input line 918.
@@ -2174,7 +2174,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 919.
 See the caption package documentation for explanation.
 
-<figs/2007/in/55.jpg, id=549, 162.6075pt x 154.32657pt>
+<figs/2007/in/55.jpg, id=554, 162.6075pt x 154.32657pt>
 File: figs/2007/in/55.jpg Graphic file (type jpg)
 <use figs/2007/in/55.jpg>
 Package pdftex.def Info: figs/2007/in/55.jpg  used on input line 925.
@@ -2184,7 +2184,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 926.
 See the caption package documentation for explanation.
 
-<figs/2007/in/56.jpg, id=550, 160.34906pt x 152.82094pt>
+<figs/2007/in/56.jpg, id=555, 160.34906pt x 152.82094pt>
 File: figs/2007/in/56.jpg Graphic file (type jpg)
 <use figs/2007/in/56.jpg>
 Package pdftex.def Info: figs/2007/in/56.jpg  used on input line 932.
@@ -2194,7 +2194,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 933.
 See the caption package documentation for explanation.
 
-<figs/2007/in/57.jpg, id=551, 167.87718pt x 154.32657pt>
+<figs/2007/in/57.jpg, id=556, 167.87718pt x 154.32657pt>
 File: figs/2007/in/57.jpg Graphic file (type jpg)
 <use figs/2007/in/57.jpg>
 Package pdftex.def Info: figs/2007/in/57.jpg  used on input line 939.
@@ -2204,12 +2204,12 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 940.
 See the caption package documentation for explanation.
 
-<figs/2007/in/58.jpg, id=552, 682.80093pt x 124.96687pt>
+<figs/2007/in/58.jpg, id=557, 682.80093pt x 124.96687pt>
 File: figs/2007/in/58.jpg Graphic file (type jpg)
 <use figs/2007/in/58.jpg>
 Package pdftex.def Info: figs/2007/in/58.jpg  used on input line 948.
 (pdftex.def)             Requested size: 218.5194pt x 39.99211pt.
-<figs/2007/in/61.jpg, id=553, 569.12625pt x 109.91063pt>
+<figs/2007/in/61.jpg, id=558, 569.12625pt x 109.91063pt>
 File: figs/2007/in/61.jpg Graphic file (type jpg)
 <use figs/2007/in/61.jpg>
 Package pdftex.def Info: figs/2007/in/61.jpg  used on input line 966.
@@ -2218,7 +2218,7 @@ Package pdftex.def Info: figs/2007/in/61.jpg  used on input line 966.
 
 [22 <./figs/2007/in/54.jpg> <./figs/2007/in/55.jpg> <./figs/2007/in/56.jpg> <./
 figs/2007/in/57.jpg> <./figs/2007/in/58.jpg> <./figs/2007/in/61.jpg>]
-<figs/2007/ME/Fig 8.png, id=580, 651.18282pt x 198.7425pt>
+<figs/2007/ME/Fig 8.png, id=585, 651.18282pt x 198.7425pt>
 File: figs/2007/ME/Fig 8.png Graphic file (type png)
 <use figs/2007/ME/Fig 8.png>
 Package pdftex.def Info: figs/2007/ME/Fig 8.png  used on input line 1044.
@@ -2226,12 +2226,12 @@ Package pdftex.def Info: figs/2007/ME/Fig 8.png  used on input line 1044.
 
 
 [23 <./figs/2007/ME/Fig 8.png>]
-<figs/2007/XE/C/fig1.png, id=618, 184.18813pt x 171.64125pt>
+<figs/2007/XE/C/fig1.png, id=623, 184.18813pt x 171.64125pt>
 File: figs/2007/XE/C/fig1.png Graphic file (type png)
 <use figs/2007/XE/C/fig1.png>
 Package pdftex.def Info: figs/2007/XE/C/fig1.png  used on input line 1085.
 (pdftex.def)             Requested size: 218.5194pt x 203.63226pt.
-<figs/2007/XE/C/fig9.png, id=619, 287.57437pt x 108.90688pt>
+<figs/2007/XE/C/fig9.png, id=624, 287.57437pt x 108.90688pt>
 File: figs/2007/XE/C/fig9.png Graphic file (type png)
 <use figs/2007/XE/C/fig9.png>
 Package pdftex.def Info: figs/2007/XE/C/fig9.png  used on input line 1101.
@@ -2239,7 +2239,7 @@ Package pdftex.def Info: figs/2007/XE/C/fig9.png  used on input line 1101.
 
 
 [24 <./figs/2007/XE/C/fig1.png> <./figs/2007/XE/C/fig9.png>]
-<figs/2007/XE/C/fig13.png, id=644, 315.1775pt x 152.57pt>
+<figs/2007/XE/C/fig13.png, id=649, 315.1775pt x 152.57pt>
 File: figs/2007/XE/C/fig13.png Graphic file (type png)
 <use figs/2007/XE/C/fig13.png>
 Package pdftex.def Info: figs/2007/XE/C/fig13.png  used on input line 1122.
@@ -2249,7 +2249,7 @@ Package pdftex.def Info: figs/2007/XE/C/fig13.png  used on input line 1122.
 [25 <./figs/2007/XE/C/fig13.png>]
 
 [26]
-<figs/2008/EC/q8.png, id=717, 630.355pt x 304.13625pt>
+<figs/2008/EC/q8.png, id=722, 630.355pt x 304.13625pt>
 File: figs/2008/EC/q8.png Graphic file (type png)
 <use figs/2008/EC/q8.png>
 Package pdftex.def Info: figs/2008/EC/q8.png  used on input line 1307.
@@ -2257,12 +2257,12 @@ Package pdftex.def Info: figs/2008/EC/q8.png  used on input line 1307.
 
 
 [27 <./figs/2008/EC/q8.png>]
-<figs/2008/EC/q11.png, id=751, 622.325pt x 413.545pt>
+<figs/2008/EC/q11.png, id=756, 622.325pt x 413.545pt>
 File: figs/2008/EC/q11.png Graphic file (type png)
 <use figs/2008/EC/q11.png>
 Package pdftex.def Info: figs/2008/EC/q11.png  used on input line 1345.
 (pdftex.def)             Requested size: 273.14647pt x 181.51233pt.
-<figs/2008/EC/q12.png, id=752, 1165.35374pt x 932.48375pt>
+<figs/2008/EC/q12.png, id=757, 1165.35374pt x 932.48375pt>
 File: figs/2008/EC/q12.png Graphic file (type png)
 <use figs/2008/EC/q12.png>
 Package pdftex.def Info: figs/2008/EC/q12.png  used on input line 1361.
@@ -2273,13 +2273,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [28 <./figs/2008/EC/q11.png>]
-<figs/2008/EC/q23.png, id=774, 629.35126pt x 316.18124pt>
+<figs/2008/EC/q23.png, id=779, 629.35126pt x 316.18124pt>
 File: figs/2008/EC/q23.png Graphic file (type png)
 <use figs/2008/EC/q23.png>
 Package pdftex.def Info: figs/2008/EC/q23.png  used on input line 1380.
 (pdftex.def)             Requested size: 273.14647pt x 137.22412pt.
 [29 <./figs/2008/EC/q12.png> <./figs/2008/EC/q23.png>]
-<figs/2008/EC/q38.png, id=790, 1198.4775pt x 798.985pt>
+<figs/2008/EC/q38.png, id=795, 1198.4775pt x 798.985pt>
 File: figs/2008/EC/q38.png Graphic file (type png)
 <use figs/2008/EC/q38.png>
 Package pdftex.def Info: figs/2008/EC/q38.png  used on input line 1456.
@@ -2290,7 +2290,7 @@ Underfull \vbox (badness 2689) has occurred while \output is active []
 
 
 [30]
-<figs/2008/EC/q39.png, id=814, 542.025pt x 164.615pt>
+<figs/2008/EC/q39.png, id=819, 542.025pt x 164.615pt>
 File: figs/2008/EC/q39.png Graphic file (type png)
 <use figs/2008/EC/q39.png>
 Package pdftex.def Info: figs/2008/EC/q39.png  used on input line 1474.
@@ -2298,12 +2298,12 @@ Package pdftex.def Info: figs/2008/EC/q39.png  used on input line 1474.
 
 
 [31 <./figs/2008/EC/q38.png> <./figs/2008/EC/q39.png>]
-<figs/2008/EC/q40.png, id=833, 821.0675pt x 397.485pt>
+<figs/2008/EC/q40.png, id=838, 821.0675pt x 397.485pt>
 File: figs/2008/EC/q40.png Graphic file (type png)
 <use figs/2008/EC/q40.png>
 Package pdftex.def Info: figs/2008/EC/q40.png  used on input line 1490.
 (pdftex.def)             Requested size: 182.09764pt x 88.15051pt.
-<figs/2008/EC/q43a.png, id=834, 589.20125pt x 255.95625pt>
+<figs/2008/EC/q43a.png, id=839, 589.20125pt x 255.95625pt>
 File: figs/2008/EC/q43a.png Graphic file (type png)
 <use figs/2008/EC/q43a.png>
 Package pdftex.def Info: figs/2008/EC/q43a.png  used on input line 1619.
@@ -2314,12 +2314,12 @@ Underfull \vbox (badness 2065) has occurred while \output is active []
 
 
 [32 <./figs/2008/EC/q40.png>]
-<figs/2008/EC/q43b.png, id=857, 412.54124pt x 429.605pt>
+<figs/2008/EC/q43b.png, id=862, 412.54124pt x 429.605pt>
 File: figs/2008/EC/q43b.png Graphic file (type png)
 <use figs/2008/EC/q43b.png>
 Package pdftex.def Info: figs/2008/EC/q43b.png  used on input line 1626.
 (pdftex.def)             Requested size: 145.67589pt x 151.70126pt.
-<figs/2008/EC/q47.png, id=858, 930.47626pt x 451.6875pt>
+<figs/2008/EC/q47.png, id=863, 930.47626pt x 451.6875pt>
 File: figs/2008/EC/q47.png Graphic file (type png)
 <use figs/2008/EC/q47.png>
 Package pdftex.def Info: figs/2008/EC/q47.png  used on input line 1649.
@@ -2330,7 +2330,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [33 <./figs/2008/EC/q43a.png> <./figs/2008/EC/q43b.png>]
-<figs/2008/EC/q7475.png, id=873, 676.5275pt x 224.84pt>
+<figs/2008/EC/q7475.png, id=878, 676.5275pt x 224.84pt>
 File: figs/2008/EC/q7475.png Graphic file (type png)
 <use figs/2008/EC/q7475.png>
 Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1691.
@@ -2338,12 +2338,12 @@ Package pdftex.def Info: figs/2008/EC/q7475.png  used on input line 1691.
 
 
 [34 <./figs/2008/EC/q47.png> <./figs/2008/EC/q7475.png>]
-<figs/2008/EE/q8.png, id=903, 414.54875pt x 81.30376pt>
+<figs/2008/EE/q8.png, id=908, 414.54875pt x 81.30376pt>
 File: figs/2008/EE/q8.png Graphic file (type png)
 <use figs/2008/EE/q8.png>
 Package pdftex.def Info: figs/2008/EE/q8.png  used on input line 1762.
 (pdftex.def)             Requested size: 254.9356pt x 49.9984pt.
-<figs/2008/EE/q8A.png, id=904, 161.10187pt x 92.345pt>
+<figs/2008/EE/q8A.png, id=909, 161.10187pt x 92.345pt>
 File: figs/2008/EE/q8A.png Graphic file (type png)
 <use figs/2008/EE/q8A.png>
 Package pdftex.def Info: figs/2008/EE/q8A.png  used on input line 1772.
@@ -2351,17 +2351,17 @@ Package pdftex.def Info: figs/2008/EE/q8A.png  used on input line 1772.
 
 
 [35 <./figs/2008/EE/q8.png> <./figs/2008/EE/q8A.png>]
-<figs/2008/EE/q8B.png, id=935, 163.10938pt x 130.98938pt>
+<figs/2008/EE/q8B.png, id=940, 163.10938pt x 130.98938pt>
 File: figs/2008/EE/q8B.png Graphic file (type png)
 <use figs/2008/EE/q8B.png>
 Package pdftex.def Info: figs/2008/EE/q8B.png  used on input line 1779.
 (pdftex.def)             Requested size: 182.09764pt x 146.25137pt.
-<figs/2008/EE/q8C.png, id=936, 143.03438pt x 115.93312pt>
+<figs/2008/EE/q8C.png, id=941, 143.03438pt x 115.93312pt>
 File: figs/2008/EE/q8C.png Graphic file (type png)
 <use figs/2008/EE/q8C.png>
 Package pdftex.def Info: figs/2008/EE/q8C.png  used on input line 1786.
 (pdftex.def)             Requested size: 182.09764pt x 147.59605pt.
-<figs/2008/EE/q8D.png, id=937, 165.61874pt x 126.4725pt>
+<figs/2008/EE/q8D.png, id=942, 165.61874pt x 126.4725pt>
 File: figs/2008/EE/q8D.png Graphic file (type png)
 <use figs/2008/EE/q8D.png>
 Package pdftex.def Info: figs/2008/EE/q8D.png  used on input line 1793.
@@ -2376,12 +2376,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1799--1806
 
  []
 
-<figs/2008/EE/q21.png, id=948, 272.51813pt x 87.82813pt>
+<figs/2008/EE/q21.png, id=953, 272.51813pt x 87.82813pt>
 File: figs/2008/EE/q21.png Graphic file (type png)
 <use figs/2008/EE/q21.png>
 Package pdftex.def Info: figs/2008/EE/q21.png  used on input line 1815.
 (pdftex.def)             Requested size: 182.09764pt x 58.68639pt.
-<figs/2008/EE/q22.png, id=949, 223.33438pt x 117.94063pt>
+<figs/2008/EE/q22.png, id=954, 223.33438pt x 117.94063pt>
 File: figs/2008/EE/q22.png Graphic file (type png)
 <use figs/2008/EE/q22.png>
 Package pdftex.def Info: figs/2008/EE/q22.png  used on input line 1830.
@@ -2401,7 +2401,7 @@ Overfull \hbox (6.9361pt too wide) in paragraph at lines 1869--1870
 \OT1/txr/m/n/10 2[] [] [] []$ 
  []
 
-<figs/2008/EE/q41.png, id=971, 337.76187pt x 115.93312pt>
+<figs/2008/EE/q41.png, id=976, 337.76187pt x 115.93312pt>
 File: figs/2008/EE/q41.png Graphic file (type png)
 <use figs/2008/EE/q41.png>
 Package pdftex.def Info: figs/2008/EE/q41.png  used on input line 1879.
@@ -2409,22 +2409,22 @@ Package pdftex.def Info: figs/2008/EE/q41.png  used on input line 1879.
 
 
 [38 <./figs/2008/EE/q22.png>]
-<figs/2008/EE/q46.png, id=999, 310.66063pt x 120.95187pt>
+<figs/2008/EE/q46.png, id=1004, 310.66063pt x 120.95187pt>
 File: figs/2008/EE/q46.png Graphic file (type png)
 <use figs/2008/EE/q46.png>
 Package pdftex.def Info: figs/2008/EE/q46.png  used on input line 1896.
 (pdftex.def)             Requested size: 182.09764pt x 70.89774pt.
-<figs/2008/EE/q46-A.png, id=1000, 173.64874pt x 72.77188pt>
+<figs/2008/EE/q46-A.png, id=1005, 173.64874pt x 72.77188pt>
 File: figs/2008/EE/q46-A.png Graphic file (type png)
 <use figs/2008/EE/q46-A.png>
 Package pdftex.def Info: figs/2008/EE/q46-A.png  used on input line 1906.
 (pdftex.def)             Requested size: 182.09764pt x 76.31499pt.
-<figs/2008/EE/q46-B.png, id=1001, 197.73875pt x 75.78313pt>
+<figs/2008/EE/q46-B.png, id=1006, 197.73875pt x 75.78313pt>
 File: figs/2008/EE/q46-B.png Graphic file (type png)
 <use figs/2008/EE/q46-B.png>
 Package pdftex.def Info: figs/2008/EE/q46-B.png  used on input line 1908.
 (pdftex.def)             Requested size: 182.09764pt x 69.78954pt.
-<figs/2008/EE/q46-C.png, id=1002, 167.62625pt x 79.79813pt>
+<figs/2008/EE/q46-C.png, id=1007, 167.62625pt x 79.79813pt>
 File: figs/2008/EE/q46-C.png Graphic file (type png)
 <use figs/2008/EE/q46-C.png>
 Package pdftex.def Info: figs/2008/EE/q46-C.png  used on input line 1913.
@@ -2433,17 +2433,17 @@ Package pdftex.def Info: figs/2008/EE/q46-C.png  used on input line 1913.
 
 [39 <./figs/2008/EE/q41.png> <./figs/2008/EE/q46.png> <./figs/2008/EE/q46-A.png
 > <./figs/2008/EE/q46-B.png>]
-<figs/2008/EE/q46-D.png, id=1020, 181.17688pt x 69.76062pt>
+<figs/2008/EE/q46-D.png, id=1025, 181.17688pt x 69.76062pt>
 File: figs/2008/EE/q46-D.png Graphic file (type png)
 <use figs/2008/EE/q46-D.png>
 Package pdftex.def Info: figs/2008/EE/q46-D.png  used on input line 1918.
 (pdftex.def)             Requested size: 182.09764pt x 70.11595pt.
-<figs/2008/EE/q56.png, id=1021, 177.66376pt x 97.86563pt>
+<figs/2008/EE/q56.png, id=1026, 177.66376pt x 97.86563pt>
 File: figs/2008/EE/q56.png Graphic file (type png)
 <use figs/2008/EE/q56.png>
 Package pdftex.def Info: figs/2008/EE/q56.png  used on input line 1927.
 (pdftex.def)             Requested size: 182.09764pt x 100.3114pt.
-<figs/2008/EE/q56-A.png, id=1022, 163.10938pt x 93.85063pt>
+<figs/2008/EE/q56-A.png, id=1027, 163.10938pt x 93.85063pt>
 File: figs/2008/EE/q56-A.png Graphic file (type png)
 <use figs/2008/EE/q56-A.png>
 Package pdftex.def Info: figs/2008/EE/q56-A.png  used on input line 1939.
@@ -2455,17 +2455,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [40 <./figs/2008/EE/q46-C.png> <./figs/2008/EE/q46-D.png> <./figs/2008/EE/q56.p
 ng>]
-<figs/2008/EE/q56-B.png, id=1036, 170.13562pt x 102.88437pt>
+<figs/2008/EE/q56-B.png, id=1041, 170.13562pt x 102.88437pt>
 File: figs/2008/EE/q56-B.png Graphic file (type png)
 <use figs/2008/EE/q56-B.png>
 Package pdftex.def Info: figs/2008/EE/q56-B.png  used on input line 1947.
 (pdftex.def)             Requested size: 182.09764pt x 110.12442pt.
-<figs/2008/EE/q56-C.png, id=1037, 163.10938pt x 96.36pt>
+<figs/2008/EE/q56-C.png, id=1042, 163.10938pt x 96.36pt>
 File: figs/2008/EE/q56-C.png Graphic file (type png)
 <use figs/2008/EE/q56-C.png>
 Package pdftex.def Info: figs/2008/EE/q56-C.png  used on input line 1954.
 (pdftex.def)             Requested size: 182.09764pt x 107.58719pt.
-<figs/2008/EE/q56-D.png, id=1038, 176.66pt x 104.39pt>
+<figs/2008/EE/q56-D.png, id=1043, 176.66pt x 104.39pt>
 File: figs/2008/EE/q56-D.png Graphic file (type png)
 <use figs/2008/EE/q56-D.png>
 Package pdftex.def Info: figs/2008/EE/q56-D.png  used on input line 1963.
@@ -2477,12 +2477,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [41 <./figs/2008/EE/q56-A.png> <./figs/2008/EE/q56-B.png> <./figs/2008/EE/q56-C
 .png>]
-<figs/2008/EE/q59.png, id=1052, 263.98625pt x 126.4725pt>
+<figs/2008/EE/q59.png, id=1057, 263.98625pt x 126.4725pt>
 File: figs/2008/EE/q59.png Graphic file (type png)
 <use figs/2008/EE/q59.png>
 Package pdftex.def Info: figs/2008/EE/q59.png  used on input line 1972.
 (pdftex.def)             Requested size: 182.09764pt x 87.24101pt.
-<figs/2008/EE/q61.png, id=1053, 242.9075pt x 131.49126pt>
+<figs/2008/EE/q61.png, id=1058, 242.9075pt x 131.49126pt>
 File: figs/2008/EE/q61.png Graphic file (type png)
 <use figs/2008/EE/q61.png>
 Package pdftex.def Info: figs/2008/EE/q61.png  used on input line 1994.
@@ -2491,7 +2491,7 @@ Package pdftex.def Info: figs/2008/EE/q61.png  used on input line 1994.
 
 [42 <./figs/2008/EE/q56-D.png> <./figs/2008/EE/q59.png> <./figs/2008/EE/q61.png
 >]
-<figs/2008/EE/q64.png, id=1071, 333.245pt x 117.43875pt>
+<figs/2008/EE/q64.png, id=1076, 333.245pt x 117.43875pt>
 File: figs/2008/EE/q64.png Graphic file (type png)
 <use figs/2008/EE/q64.png>
 Package pdftex.def Info: figs/2008/EE/q64.png  used on input line 2030.
@@ -2499,17 +2499,17 @@ Package pdftex.def Info: figs/2008/EE/q64.png  used on input line 2030.
 
 
 [43 <./figs/2008/EE/q64.png>]
-<figs/2008/EE/q66.png, id=1101, 312.16624pt x 145.04187pt>
+<figs/2008/EE/q66.png, id=1106, 312.16624pt x 145.04187pt>
 File: figs/2008/EE/q66.png Graphic file (type png)
 <use figs/2008/EE/q66.png>
 Package pdftex.def Info: figs/2008/EE/q66.png  used on input line 2082.
 (pdftex.def)             Requested size: 182.09764pt x 84.60901pt.
-<figs/2008/EE/q67.png, id=1102, 250.43562pt x 74.2775pt>
+<figs/2008/EE/q67.png, id=1107, 250.43562pt x 74.2775pt>
 File: figs/2008/EE/q67.png Graphic file (type png)
 <use figs/2008/EE/q67.png>
 Package pdftex.def Info: figs/2008/EE/q67.png  used on input line 2103.
 (pdftex.def)             Requested size: 182.09764pt x 54.0113pt.
-<figs/2008/EE/q69.png, id=1103, 152.06813pt x 124.96687pt>
+<figs/2008/EE/q69.png, id=1108, 152.06813pt x 124.96687pt>
 File: figs/2008/EE/q69.png Graphic file (type png)
 <use figs/2008/EE/q69.png>
 Package pdftex.def Info: figs/2008/EE/q69.png  used on input line 2144.
@@ -2517,12 +2517,12 @@ Package pdftex.def Info: figs/2008/EE/q69.png  used on input line 2144.
 
 
 [44 <./figs/2008/EE/q66.png> <./figs/2008/EE/q67.png>]
-<figs/2008/EE/q70.png, id=1130, 203.76125pt x 122.4575pt>
+<figs/2008/EE/q70.png, id=1136, 203.76125pt x 122.4575pt>
 File: figs/2008/EE/q70.png Graphic file (type png)
 <use figs/2008/EE/q70.png>
 Package pdftex.def Info: figs/2008/EE/q70.png  used on input line 2166.
 (pdftex.def)             Requested size: 182.09764pt x 109.44273pt.
-<figs/2008/EE/comp3.png, id=1131, 203.25937pt x 124.96687pt>
+<figs/2008/EE/comp3.png, id=1137, 203.25937pt x 124.96687pt>
 File: figs/2008/EE/comp3.png Graphic file (type png)
 <use figs/2008/EE/comp3.png>
 Package pdftex.def Info: figs/2008/EE/comp3.png  used on input line 2189.
@@ -2530,7 +2530,7 @@ Package pdftex.def Info: figs/2008/EE/comp3.png  used on input line 2189.
 
 
 [45 <./figs/2008/EE/q69.png> <./figs/2008/EE/q70.png>]
-<figs/2008/EE/q79.png, id=1151, 200.75pt x 64.74188pt>
+<figs/2008/EE/q79.png, id=1156, 200.75pt x 64.74188pt>
 File: figs/2008/EE/q79.png Graphic file (type png)
 <use figs/2008/EE/q79.png>
 Package pdftex.def Info: figs/2008/EE/q79.png  used on input line 2245.
@@ -2538,22 +2538,22 @@ Package pdftex.def Info: figs/2008/EE/q79.png  used on input line 2245.
 
 
 [46 <./figs/2008/EE/comp3.png> <./figs/2008/EE/q79.png>]
-<figs/2008/EE/comp4.png, id=1177, 164.11313pt x 95.35625pt>
+<figs/2008/EE/comp4.png, id=1182, 164.11313pt x 95.35625pt>
 File: figs/2008/EE/comp4.png Graphic file (type png)
 <use figs/2008/EE/comp4.png>
 Package pdftex.def Info: figs/2008/EE/comp4.png  used on input line 2268.
 (pdftex.def)             Requested size: 182.09764pt x 105.80739pt.
-<figs/2008/EE/q81.png, id=1179, 170.6375pt x 73.77562pt>
+<figs/2008/EE/q81.png, id=1184, 170.6375pt x 73.77562pt>
 File: figs/2008/EE/q81.png Graphic file (type png)
 <use figs/2008/EE/q81.png>
 Package pdftex.def Info: figs/2008/EE/q81.png  used on input line 2289.
 (pdftex.def)             Requested size: 182.09764pt x 78.73535pt.
-<figs/2008/EE/q81-A.png, id=1180, 148.05313pt x 83.31125pt>
+<figs/2008/EE/q81-A.png, id=1185, 148.05313pt x 83.31125pt>
 File: figs/2008/EE/q81-A.png Graphic file (type png)
 <use figs/2008/EE/q81-A.png>
 Package pdftex.def Info: figs/2008/EE/q81-A.png  used on input line 2300.
 (pdftex.def)             Requested size: 182.09764pt x 102.47221pt.
-<figs/2008/EE/q81-B.png, id=1181, 156.585pt x 91.84312pt>
+<figs/2008/EE/q81-B.png, id=1186, 156.585pt x 91.84312pt>
 File: figs/2008/EE/q81-B.png Graphic file (type png)
 <use figs/2008/EE/q81-B.png>
 Package pdftex.def Info: figs/2008/EE/q81-B.png  used on input line 2309.
@@ -2562,12 +2562,12 @@ Package pdftex.def Info: figs/2008/EE/q81-B.png  used on input line 2309.
 
 [47 <./figs/2008/EE/comp4.png> <./figs/2008/EE/q81.png> <./figs/2008/EE/q81-A.p
 ng>]
-<figs/2008/EE/q81-C.png, id=1203, 172.14313pt x 99.37125pt>
+<figs/2008/EE/q81-C.png, id=1208, 172.14313pt x 99.37125pt>
 File: figs/2008/EE/q81-C.png Graphic file (type png)
 <use figs/2008/EE/q81-C.png>
 Package pdftex.def Info: figs/2008/EE/q81-C.png  used on input line 2317.
 (pdftex.def)             Requested size: 182.09764pt x 105.1177pt.
-<figs/2008/EE/q81-D.png, id=1204, 170.6375pt x 87.82813pt>
+<figs/2008/EE/q81-D.png, id=1209, 170.6375pt x 87.82813pt>
 File: figs/2008/EE/q81-D.png Graphic file (type png)
 <use figs/2008/EE/q81-D.png>
 Package pdftex.def Info: figs/2008/EE/q81-D.png  used on input line 2326.
@@ -2576,17 +2576,17 @@ Package pdftex.def Info: figs/2008/EE/q81-D.png  used on input line 2326.
 
 [48 <./figs/2008/EE/q81-B.png> <./figs/2008/EE/q81-C.png> <./figs/2008/EE/q81-D
 .png>]
-<figs/2008/IN/i5.jpg, id=1220, 847.165pt x 307.1475pt>
+<figs/2008/IN/i5.jpg, id=1225, 847.165pt x 307.1475pt>
 File: figs/2008/IN/i5.jpg Graphic file (type jpg)
 <use figs/2008/IN/i5.jpg>
 Package pdftex.def Info: figs/2008/IN/i5.jpg  used on input line 2345.
 (pdftex.def)             Requested size: 182.09764pt x 66.02136pt.
-<figs/2008/IN/i6.jpg, id=1222, 1034.86626pt x 333.245pt>
+<figs/2008/IN/i6.jpg, id=1227, 1034.86626pt x 333.245pt>
 File: figs/2008/IN/i6.jpg Graphic file (type jpg)
 <use figs/2008/IN/i6.jpg>
 Package pdftex.def Info: figs/2008/IN/i6.jpg  used on input line 2363.
 (pdftex.def)             Requested size: 182.09764pt x 58.634pt.
-<figs/2008/IN/i7.jpg, id=1224, 999.735pt x 314.17375pt>
+<figs/2008/IN/i7.jpg, id=1229, 999.735pt x 314.17375pt>
 File: figs/2008/IN/i7.jpg Graphic file (type jpg)
 <use figs/2008/IN/i7.jpg>
 Package pdftex.def Info: figs/2008/IN/i7.jpg  used on input line 2387.
@@ -2594,22 +2594,22 @@ Package pdftex.def Info: figs/2008/IN/i7.jpg  used on input line 2387.
 
 
 [49 <./figs/2008/IN/i5.jpg> <./figs/2008/IN/i6.jpg> <./figs/2008/IN/i7.jpg>]
-<figs/2008/IN/i13.jpg, id=1254, 1084.05pt x 357.335pt>
+<figs/2008/IN/i13.jpg, id=1259, 1084.05pt x 357.335pt>
 File: figs/2008/IN/i13.jpg Graphic file (type jpg)
 <use figs/2008/IN/i13.jpg>
 Package pdftex.def Info: figs/2008/IN/i13.jpg  used on input line 2404.
 (pdftex.def)             Requested size: 182.09764pt x 60.02097pt.
-<figs/2008/IN/i15.jpg, id=1256, 1084.05pt x 352.31625pt>
+<figs/2008/IN/i15.jpg, id=1261, 1084.05pt x 352.31625pt>
 File: figs/2008/IN/i15.jpg Graphic file (type jpg)
 <use figs/2008/IN/i15.jpg>
 Package pdftex.def Info: figs/2008/IN/i15.jpg  used on input line 2423.
 (pdftex.def)             Requested size: 182.09764pt x 59.17796pt.
-<figs/2008/IN/i16.jpg, id=1258, 986.68625pt x 307.1475pt>
+<figs/2008/IN/i16.jpg, id=1263, 986.68625pt x 307.1475pt>
 File: figs/2008/IN/i16.jpg Graphic file (type jpg)
 <use figs/2008/IN/i16.jpg>
 Package pdftex.def Info: figs/2008/IN/i16.jpg  used on input line 2441.
 (pdftex.def)             Requested size: 182.09764pt x 56.68547pt.
-<figs/2008/IN/i19.jpg, id=1260, 1084.05pt x 362.35374pt>
+<figs/2008/IN/i19.jpg, id=1265, 1084.05pt x 362.35374pt>
 File: figs/2008/IN/i19.jpg Graphic file (type jpg)
 <use figs/2008/IN/i19.jpg>
 Package pdftex.def Info: figs/2008/IN/i19.jpg  used on input line 2458.
@@ -2617,7 +2617,7 @@ Package pdftex.def Info: figs/2008/IN/i19.jpg  used on input line 2458.
 
 
 [50 <./figs/2008/IN/i13.jpg> <./figs/2008/IN/i15.jpg> <./figs/2008/IN/i16.jpg>]
-<figs/2008/IN/i24.jpg, id=1291, 937.5025pt x 413.545pt>
+<figs/2008/IN/i24.jpg, id=1296, 937.5025pt x 413.545pt>
 File: figs/2008/IN/i24.jpg Graphic file (type jpg)
 <use figs/2008/IN/i24.jpg>
 Package pdftex.def Info: figs/2008/IN/i24.jpg  used on input line 2518.
@@ -2625,27 +2625,27 @@ Package pdftex.def Info: figs/2008/IN/i24.jpg  used on input line 2518.
 
 
 [51 <./figs/2008/IN/i19.jpg>]
-<figs/2008/IN/i25.jpg, id=1322, 459.7175pt x 235.88126pt>
+<figs/2008/IN/i25.jpg, id=1327, 459.7175pt x 235.88126pt>
 File: figs/2008/IN/i25.jpg Graphic file (type jpg)
 <use figs/2008/IN/i25.jpg>
 Package pdftex.def Info: figs/2008/IN/i25.jpg  used on input line 2539.
 (pdftex.def)             Requested size: 83.04881pt x 42.61156pt.
-<figs/2008/IN/i26.jpg, id=1323, 419.5675pt x 236.885pt>
+<figs/2008/IN/i26.jpg, id=1328, 419.5675pt x 236.885pt>
 File: figs/2008/IN/i26.jpg Graphic file (type jpg)
 <use figs/2008/IN/i26.jpg>
 Package pdftex.def Info: figs/2008/IN/i26.jpg  used on input line 2546.
 (pdftex.def)             Requested size: 83.04881pt x 46.88818pt.
-<figs/2008/IN/i27.jpg, id=1324, 443.6575pt x 247.92625pt>
+<figs/2008/IN/i27.jpg, id=1329, 443.6575pt x 247.92625pt>
 File: figs/2008/IN/i27.jpg Graphic file (type jpg)
 <use figs/2008/IN/i27.jpg>
 Package pdftex.def Info: figs/2008/IN/i27.jpg  used on input line 2553.
 (pdftex.def)             Requested size: 83.04881pt x 46.4066pt.
-<figs/2008/IN/i28.jpg, id=1325, 420.57124pt x 227.85126pt>
+<figs/2008/IN/i28.jpg, id=1330, 420.57124pt x 227.85126pt>
 File: figs/2008/IN/i28.jpg Graphic file (type jpg)
 <use figs/2008/IN/i28.jpg>
 Package pdftex.def Info: figs/2008/IN/i28.jpg  used on input line 2560.
 (pdftex.def)             Requested size: 83.04881pt x 44.9923pt.
-<figs/2008/IN/i29.jpg, id=1327, 1084.05pt x 712.6625pt>
+<figs/2008/IN/i29.jpg, id=1332, 1084.05pt x 712.6625pt>
 File: figs/2008/IN/i29.jpg Graphic file (type jpg)
 <use figs/2008/IN/i29.jpg>
 Package pdftex.def Info: figs/2008/IN/i29.jpg  used on input line 2578.
@@ -2657,12 +2657,12 @@ Underfull \vbox (badness 1515) has occurred while \output is active []
 
 [52 <./figs/2008/IN/i24.jpg> <./figs/2008/IN/i25.jpg> <./figs/2008/IN/i26.jpg> 
 <./figs/2008/IN/i27.jpg> <./figs/2008/IN/i28.jpg>]
-<figs/2008/IN/i30.jpg, id=1353, 1084.05pt x 339.2675pt>
+<figs/2008/IN/i30.jpg, id=1358, 1084.05pt x 339.2675pt>
 File: figs/2008/IN/i30.jpg Graphic file (type jpg)
 <use figs/2008/IN/i30.jpg>
 Package pdftex.def Info: figs/2008/IN/i30.jpg  used on input line 2626.
 (pdftex.def)             Requested size: 182.09764pt x 56.98619pt.
-<figs/2008/IN/i31.jpg, id=1355, 919.435pt x 353.32pt>
+<figs/2008/IN/i31.jpg, id=1360, 919.435pt x 353.32pt>
 File: figs/2008/IN/i31.jpg Graphic file (type jpg)
 <use figs/2008/IN/i31.jpg>
 Package pdftex.def Info: figs/2008/IN/i31.jpg  used on input line 2644.
@@ -2673,7 +2673,7 @@ Underfull \vbox (badness 1264) has occurred while \output is active []
 
 
 [53 <./figs/2008/IN/i29.jpg> <./figs/2008/IN/i30.jpg>]
-<figs/2008/IN/i34.jpg, id=1378, 825.0825pt x 409.53pt>
+<figs/2008/IN/i34.jpg, id=1384, 825.0825pt x 409.53pt>
 File: figs/2008/IN/i34.jpg Graphic file (type jpg)
 <use figs/2008/IN/i34.jpg>
 Package pdftex.def Info: figs/2008/IN/i34.jpg  used on input line 2663.
@@ -2689,7 +2689,7 @@ Underfull \hbox (badness 1648) in paragraph at lines 85--89
 s-ing the Newton-
  []
 
-<figs/2007/EC/Q2.jpg, id=1458, 1084.05pt x 710.655pt>
+<figs/2007/EC/Q2.jpg, id=1463, 1084.05pt x 710.655pt>
 File: figs/2007/EC/Q2.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q2.jpg>
 Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
@@ -2697,7 +2697,7 @@ Package pdftex.def Info: figs/2007/EC/Q2.jpg  used on input line 122.
 
 
 [56 <./figs/2007/EC/Q2.jpg>]
-<figs/2007/EE/q 36 2007.png, id=1500, 301.125pt x 138.5175pt>
+<figs/2007/EE/q 36 2007.png, id=1505, 301.125pt x 138.5175pt>
 File: figs/2007/EE/q 36 2007.png Graphic file (type png)
 <use figs/2007/EE/q 36 2007.png>
 Package pdftex.def Info: figs/2007/EE/q 36 2007.png  used on input line 236.
@@ -2726,7 +2726,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
 
 [60]
-<figs/2007/PI/Q.4.png, id=1656, 112.62074pt x 61.4295pt>
+<figs/2007/PI/Q.4.png, id=1661, 112.62074pt x 61.4295pt>
 File: figs/2007/PI/Q.4.png Graphic file (type png)
 <use figs/2007/PI/Q.4.png>
 Package pdftex.def Info: figs/2007/PI/Q.4.png  used on input line 562.
@@ -2762,7 +2762,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 834--835
 [64]
 
 [65]
-<figs/2008/CH/qn5.jpg, id=1855, 582.175pt x 372.39125pt>
+<figs/2008/CH/qn5.jpg, id=1860, 582.175pt x 372.39125pt>
 File: figs/2008/CH/qn5.jpg Graphic file (type jpg)
 <use figs/2008/CH/qn5.jpg>
 Package pdftex.def Info: figs/2008/CH/qn5.jpg  used on input line 967.
@@ -2782,7 +2782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
 
 
 [67]
-<figs/2008/EC/q7879.png, id=1943, 1088.065pt x 281.05pt>
+<figs/2008/EC/q7879.png, id=1948, 1088.065pt x 281.05pt>
 File: figs/2008/EC/q7879.png Graphic file (type png)
 <use figs/2008/EC/q7879.png>
 Package pdftex.def Info: figs/2008/EC/q7879.png  used on input line 1148.
@@ -2800,7 +2800,7 @@ Package pdftex.def Info: figs/2008/EC/q7879.png  used on input line 1148.
 [72]
 
 [73]
-<figs/2007/PI/Q.71.png, id=2152, 329.43076pt x 115.632pt>
+<figs/2007/PI/Q.71.png, id=2157, 329.43076pt x 115.632pt>
 File: figs/2007/PI/Q.71.png Graphic file (type png)
 <use figs/2007/PI/Q.71.png>
 Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
@@ -2812,7 +2812,7 @@ Package pdftex.def Info: figs/2007/PI/Q.71.png  used on input line 350.
 [75 <./figs/2007/PI/Q.71.png>]) (./GATE/prob.tex
 
 [76]
-<figs/2007/EC/Q74Q75.jpg, id=2259, 1076.02pt x 509.905pt>
+<figs/2007/EC/Q74Q75.jpg, id=2264, 1076.02pt x 509.905pt>
 File: figs/2007/EC/Q74Q75.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q74Q75.jpg>
 Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
@@ -2820,7 +2820,7 @@ Package pdftex.def Info: figs/2007/EC/Q74Q75.jpg  used on input line 105.
 
 
 [77]
-<figs/2007/EC/Q82Q83.jpg, id=2303, 999.735pt x 433.62pt>
+<figs/2007/EC/Q82Q83.jpg, id=2308, 999.735pt x 433.62pt>
 File: figs/2007/EC/Q82Q83.jpg Graphic file (type jpg)
 <use figs/2007/EC/Q82Q83.jpg>
 Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
@@ -2838,12 +2838,12 @@ Package pdftex.def Info: figs/2007/EC/Q82Q83.jpg  used on input line 136.
 [82]
 
 [83]
-<figs/2008/EC/q24a.png, id=2506, 685.56125pt x 295.1025pt>
+<figs/2008/EC/q24a.png, id=2511, 685.56125pt x 295.1025pt>
 File: figs/2008/EC/q24a.png Graphic file (type png)
 <use figs/2008/EC/q24a.png>
 Package pdftex.def Info: figs/2008/EC/q24a.png  used on input line 617.
 (pdftex.def)             Requested size: 182.09764pt x 78.3819pt.
-<figs/2008/EC/q24b.png, id=2507, 1189.44376pt x 850.17625pt>
+<figs/2008/EC/q24b.png, id=2512, 1189.44376pt x 850.17625pt>
 File: figs/2008/EC/q24b.png Graphic file (type png)
 <use figs/2008/EC/q24b.png>
 Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 624.
@@ -2854,21 +2854,24 @@ Package pdftex.def Info: figs/2008/EC/q24b.png  used on input line 624.
 
 [85 <./figs/2008/EC/q24b.png>]) (./GATE/matrix.tex) (./GATE/analysis.tex
 
-[86]) (./GATE/topol.tex) (./GATE/diff.tex) (./GATE/complex.tex)
+[86]) (./GATE/topol.tex) (./GATE/diff.tex) (./GATE/complex.tex) (./GATE/abstrac
+t.tex
 
-[87] (./main.aux)
+[87])
+
+[88] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 81228C83F067BD08F7240286FDD34477;1048.
+(rerunfilecheck)             Checksum: CB787014CFE91A91F8C65633A9E13F58;1127.
  ) 
 Here is how much of TeX's memory you used:
- 57325 strings out of 473190
- 1351291 string characters out of 5704335
+ 57351 strings out of 473190
+ 1351646 string characters out of 5704335
  1901073 words of memory out of 5000000
- 77688 multiletter control sequences out of 15000+600000
+ 77695 multiletter control sequences out of 15000+600000
  655920 words of font info for 252 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,16n,109p,1194b,1434s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2887,10 +2890,10 @@ ellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></op
 t/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/u
 rw/times/utmri8a.pfb>
-Output written on main.pdf (87 pages, 7729599 bytes).
+Output written on main.pdf (88 pages, 7731908 bytes).
 PDF statistics:
- 3099 PDF objects out of 3580 (max. 8388607)
- 2771 compressed objects within 28 object streams
- 2058 named destinations out of 2073 (max. 500000)
- 759 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3126 PDF objects out of 3580 (max. 8388607)
+ 2797 compressed objects within 28 object streams
+ 2075 named destinations out of 2487 (max. 500000)
+ 767 words of extra memory for PDF output out of 10000 (max. 10000000)
 
