@@ -1,5 +1,10 @@
 \contentsline {section}{\numberline {1}Signal Processing}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Analog}{4}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Discrete}{56}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Optimization}{71}{section.2}%
-\contentsline {section}{\numberline {3}Probability}{77}{section.3}%
+\contentsline {subsection}{\numberline {1.2}Discrete}{55}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Optimization}{70}{section.2}%
+\contentsline {section}{\numberline {3}Probability}{76}{section.3}%
+\contentsline {section}{\numberline {4}Matrices}{86}{section.4}%
+\contentsline {section}{\numberline {5}Analysis}{86}{section.5}%
+\contentsline {section}{\numberline {6}Topology}{87}{section.6}%
+\contentsline {section}{\numberline {7}Differential Equations}{87}{section.7}%
+\contentsline {section}{\numberline {8}Complex Analysis}{87}{section.8}%
